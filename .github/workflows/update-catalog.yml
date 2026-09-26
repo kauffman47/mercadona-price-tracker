@@ -30,6 +30,9 @@ jobs:
       - name: Update price history
         run: python update_history.py
 
+      - name: Generate dashboard
+        run: python generate_dashboard.py
+
       - name: Show summary
         run: |
           echo "Catálogo actual:"
@@ -39,17 +42,22 @@ jobs:
           echo "Histórico de precios:"
           wc -l data/price_history.csv
 
-      - name: Save data in repository
+          echo ""
+          echo "Panel:"
+          ls -lh docs/index.html
+
+      - name: Save data and dashboard in repository
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add data/current_catalog.csv
           git add data/price_history.csv
+          git add docs/index.html
 
           if git diff --cached --quiet; then
             echo "No hay cambios que guardar."
           else
-            git commit -m "Update Mercadona prices"
+            git commit -m "Update Mercadona prices and dashboard"
             git push
           fi
