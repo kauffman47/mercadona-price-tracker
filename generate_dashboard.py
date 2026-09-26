@@ -279,6 +279,18 @@ def main():
         separators=(",", ":"),
     )
 
+    # Endurecer el JSON antes de incrustarlo dentro de <script>.
+    # Evita que caracteres especiales puedan cerrar el bloque script
+    # o introducir HTML/JavaScript inesperado.
+    data_json = (
+        data_json
+        .replace("&", "\\u0026")
+        .replace("<", "\\u003c")
+        .replace(">", "\\u003e")
+        .replace("\u2028", "\\u2028")
+        .replace("\u2029", "\\u2029")
+    )
+
     categories_html = "\n".join(
         f'<option value="{html.escape(category)}">'
         f'{html.escape(category)}</option>'
@@ -1203,9 +1215,6 @@ function drawPriceChart(product) {
             path += ` H ${x} V ${y}`;
         }
     });
-
-    const finalY =
-        yScale(points[points.length - 1].value);
 
     path += `
         H ${xScale(xMax)}
