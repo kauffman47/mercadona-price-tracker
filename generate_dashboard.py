@@ -108,21 +108,25 @@ def build_products(current, history):
 
                 if current_value <= minimum + 1e-9:
                     status = "Mínimo"
+
                 elif current_value >= maximum - 1e-9:
                     status = "Máximo"
+
                 elif position <= 25:
                     status = "Zona baja"
+
                 elif position >= 75:
                     status = "Zona alta"
+
                 else:
                     status = "Intermedio"
 
         unit_price = to_float(product.get("unit_price"))
 
-        if comparable:
+        if len(comparable) > 1:
             last_change = format_date(comparable[-1][1])
         else:
-            last_change = ""
+            last_change = "-"
 
         result.append({
             "id": product_id,
@@ -345,6 +349,26 @@ function euro(value) {{
     return value.toFixed(2) + " €";
 }}
 
+function referencePrice(value, unit) {{
+    if (value === null || value === undefined) return "-";
+
+    if (!unit || unit === "unidad") {{
+        return value.toFixed(2) + " €";
+    }}
+
+    const normalized = unit.toLowerCase();
+
+    if (normalized === "kg") {{
+        return value.toFixed(2) + " €/kg";
+    }}
+
+    if (normalized === "l") {{
+        return value.toFixed(2) + " €/L";
+    }}
+
+    return value.toFixed(2) + " €/" + unit;
+}}
+
 function positionText(value) {{
     if (value === null || value === undefined) return "-";
     return value.toFixed(0) + " %";
@@ -430,16 +454,42 @@ function render() {{
                 </a>
             </td>
             <td>${{p.category}}</td>
-            <td class="price">${{euro(p.unit_price)}}</td>
+
             <td class="price">
-                ${{euro(p.reference_price)}}
-                ${{p.reference_format || ""}}
+                ${{euro(p.unit_price)}}
             </td>
-            <td class="price">${{euro(p.minimum)}}</td>
-            <td class="price">${{euro(p.maximum)}}</td>
-            <td class="price">${{positionText(p.position)}}</td>
+
+            <td class="price">
+                ${{referencePrice(
+                    p.reference_price,
+                    p.reference_format
+                )}}
+            </td>
+
+            <td class="price">
+                ${{referencePrice(
+                    p.minimum,
+                    p.reference_format
+                )}}
+            </td>
+
+            <td class="price">
+                ${{referencePrice(
+                    p.maximum,
+                    p.reference_format
+                )}}
+            </td>
+
+            <td class="price">
+                ${{positionText(p.position)}}
+            </td>
+
             <td>${{p.status}}</td>
-            <td class="price">${{p.changes}}</td>
+
+            <td class="price">
+                ${{p.changes}}
+            </td>
+
             <td>${{p.last_change}}</td>
         </tr>
     `).join("");
