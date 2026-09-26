@@ -1,214 +1,565 @@
 import csv
+import html
 import json
-import os
-import time
-import urllib.parse
-import urllib.request
-import http.cookiejar
-from datetime import datetime, timezone
+from collections import defaultdict
+from datetime import datetime
 from pathlib import Path
 
 
-BASE = "https://tienda.mercadona.es/api"
-OUTPUT_DIR = Path("data")
-OUTPUT_FILE = OUTPUT_DIR / "current_catalog.csv"
+CURRENT_FILE = Path("data/current_catalog.csv")
+HISTORY_FILE = Path("data/price_history.csv")
+OUTPUT_DIR = Path("docs")
+OUTPUT_FILE = OUTPUT_DIR / "index.html"
 
 
-def create_opener():
-    cookies = http.cookiejar.CookieJar()
-    return urllib.request.build_opener(
-        urllib.request.HTTPCookieProcessor(cookies)
-    )
+def to_float(value):
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return None
 
 
-def select_warehouse(opener, postcode):
-    headers = {
-        "User-Agent": "Mozilla/5.0",
-        "Accept": "application/json",
-        "Content-Type": "application/json",
-    }
-
-    req = urllib.request.Request(
-        f"{BASE}/postal-codes/actions/change-pc/",
-        data=json.dumps({"new_postal_code": postcode}).encode(),
-        headers=headers,
-        method="PUT",
-    )
-
-    with opener.open(req, timeout=30) as response:
-        warehouse = response.headers.get("x-customer-wh")
-
-    if not warehouse:
-        raise RuntimeError("Mercadona no devolvió el almacén.")
-
-    return warehouse
+def format_date(value):
+    try:
+        dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        return dt.strftime("%d/%m/%Y")
+    except Exception:
+        return ""
 
 
-def get_json(opener, warehouse, path):
-    query = urllib.parse.urlencode({
-        "lang": "es",
-        "wh": warehouse,
-    })
-
-    headers = {
-        "User-Agent": "Mozilla/5.0",
-        "Accept": "application/json",
-    }
-
-    req = urllib.request.Request(
-        f"{BASE}{path}?{query}",
-        headers=headers,
-    )
-
-    with opener.open(req, timeout=30) as response:
-        return json.load(response)
+def load_current():
+    with CURRENT_FILE.open(encoding="utf-8") as f:
+        return list(csv.DictReader(f))
 
 
-def find_products(node, category_name, products):
-    if isinstance(node, dict):
-        node_products = node.get("products")
+def load_history():
+    history = defaultdict(list)
 
-        if isinstance(node_products, list):
-            for product in node_products:
-                if not isinstance(product, dict):
-                    continue
+    if not HISTORY_FILE.exists():
+        return history
 
-                product_id = str(product.get("id", ""))
+    with HISTORY_FILE.open(encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            history[row["product_id"]].append(row)
 
-                if not product_id or product_id in products:
-                    continue
+    return history
 
-                price = product.get("price_instructions") or {}
 
-                products[product_id] = {
-                    "product_id": product_id,
-                    "name": product.get("display_name", ""),
-                    "slug": product.get("slug", ""),
-                    "thumbnail": product.get("thumbnail", ""),
-                    "category": category_name,
-                    "packaging": product.get("packaging", ""),
-                    "published": product.get("published", ""),
-                    "unavailable_from": product.get("unavailable_from") or "",
-                    "unit_size": price.get("unit_size"),
-                    "size_format": price.get("size_format"),
-                    "unit_price": price.get("unit_price"),
-                    "bulk_price": price.get("bulk_price"),
-                    "reference_price": price.get("reference_price"),
-                    "reference_format": price.get("reference_format"),
-                    "previous_unit_price": (
-                        price.get("previous_unit_price") or ""
-                    ).strip(),
-                    "price_decreased": price.get("price_decreased"),
-                    "selling_method": price.get("selling_method"),
-                    "share_url": product.get("share_url", ""),
-                }
+def comparable_price(row):
+    reference_price = to_float(row.get("reference_price"))
 
-        for key, value in node.items():
-            if key != "products":
-                find_products(value, category_name, products)
+    if reference_price is not None:
+        return reference_price, row.get("reference_format", "")
 
-    elif isinstance(node, list):
-        for item in node:
-            find_products(item, category_name, products)
+    unit_price = to_float(row.get("unit_price"))
+
+    return unit_price, "unidad"
+
+
+def build_products(current, history):
+    result = []
+
+    for product in current:
+        product_id = product["product_id"]
+
+        current_value, current_unit = comparable_price(product)
+
+        history_rows = history.get(product_id, [])
+
+        comparable = []
+
+        for row in history_rows:
+            value, unit = comparable_price(row)
+
+            if value is None:
+                continue
+
+            if unit == current_unit:
+                comparable.append((value, row["captured_at"]))
+
+        values = [value for value, _ in comparable]
+
+        if current_value is None:
+            minimum = None
+            maximum = None
+            position = None
+            status = "Sin precio"
+
+        elif not values:
+            minimum = current_value
+            maximum = current_value
+            position = None
+            status = "Sin histórico"
+
+        else:
+            minimum = min(values)
+            maximum = max(values)
+
+            if abs(maximum - minimum) < 1e-12:
+                position = None
+                status = "Sin variación"
+
+            else:
+                position = (
+                    (current_value - minimum)
+                    / (maximum - minimum)
+                    * 100
+                )
+
+                if current_value <= minimum + 1e-9:
+                    status = "Mínimo"
+
+                elif current_value >= maximum - 1e-9:
+                    status = "Máximo"
+
+                elif position <= 25:
+                    status = "Zona baja"
+
+                elif position >= 75:
+                    status = "Zona alta"
+
+                else:
+                    status = "Intermedio"
+
+        unit_price = to_float(product.get("unit_price"))
+
+        if len(comparable) > 1:
+            last_change = format_date(comparable[-1][1])
+        else:
+            last_change = "-"
+
+        result.append({
+            "id": product_id,
+            "name": product.get("name", ""),
+            "thumbnail": product.get("thumbnail", ""),
+            "category": product.get("category", ""),
+            "packaging": product.get("packaging", ""),
+            "unit_price": unit_price,
+            "reference_price": current_value,
+            "reference_format": current_unit,
+            "minimum": minimum,
+            "maximum": maximum,
+            "position": position,
+            "status": status,
+            "changes": max(len(comparable) - 1, 0),
+            "last_change": last_change,
+            "url": product.get("share_url", ""),
+        })
+
+    return result
 
 
 def main():
-    postcode = os.environ.get("MERCADONA_POSTCODE")
+    current = load_current()
+    history = load_history()
 
-    if not postcode:
-        raise RuntimeError(
-            "No existe la variable MERCADONA_POSTCODE."
-        )
+    products = build_products(current, history)
 
-    opener = create_opener()
-    warehouse = select_warehouse(opener, postcode)
+    categories = sorted({
+        p["category"]
+        for p in products
+        if p["category"]
+    })
 
-    print(f"Almacén: {warehouse}")
+    data_json = json.dumps(
+        products,
+        ensure_ascii=False,
+        separators=(",", ":"),
+    )
 
-    root = get_json(opener, warehouse, "/categories/")
+    categories_html = "\n".join(
+        f'<option value="{html.escape(category)}">'
+        f'{html.escape(category)}</option>'
+        for category in categories
+    )
 
-    categories = []
+    page = f"""<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    for top in root.get("results", []):
-        for category in top.get("categories", []):
-            category_id = category.get("id")
+<title>Mercadona Price Tracker</title>
 
-            if isinstance(category_id, int):
-                categories.append({
-                    "id": category_id,
-                    "name": category.get("name", ""),
-                })
+<style>
+body {{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f5f6f7;
+    color: #222;
+}}
 
-    print(f"Categorías: {len(categories)}")
+header {{
+    background: #008c63;
+    color: white;
+    padding: 20px;
+}}
 
-    products = {}
+main {{
+    max-width: 1600px;
+    margin: auto;
+    padding: 20px;
+}}
 
-    for i, category in enumerate(categories, start=1):
-        data = get_json(
-            opener,
-            warehouse,
-            f"/categories/{category['id']}/",
-        )
+.controls {{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 20px;
+}}
 
-        find_products(
-            data,
-            category["name"],
-            products,
-        )
+input, select {{
+    padding: 10px;
+    font-size: 16px;
+}}
 
-        print(
-            f"[{i}/{len(categories)}] "
-            f"{category['name']}: "
-            f"{len(products)} productos"
-        )
+.summary {{
+    margin-bottom: 15px;
+    font-weight: bold;
+}}
 
-        time.sleep(0.2)
+table {{
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}}
+
+th, td {{
+    padding: 9px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+    vertical-align: middle;
+}}
+
+th {{
+    background: #eee;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+    z-index: 2;
+}}
+
+tr:hover {{
+    background: #f3f8f6;
+}}
+
+.image-column {{
+    width: 64px;
+    text-align: center;
+}}
+
+.product-image {{
+    display: block;
+    width: 54px;
+    height: 54px;
+    margin: auto;
+    object-fit: contain;
+    background: white;
+}}
+
+.price {{
+    text-align: right;
+    white-space: nowrap;
+}}
+
+.minimum {{
+    background: #d9f5df;
+}}
+
+.maximum {{
+    background: #ffd9d9;
+}}
+
+.low {{
+    background: #e8f6e8;
+}}
+
+.high {{
+    background: #fff0d2;
+}}
+
+.nohistory {{
+    color: #777;
+}}
+
+a {{
+    color: #007c59;
+}}
+
+@media (max-width: 800px) {{
+    .controls {{
+        grid-template-columns: 1fr;
+    }}
+
+    table {{
+        font-size: 12px;
+    }}
+
+    .product-image {{
+        width: 42px;
+        height: 42px;
+    }}
+
+    .image-column {{
+        width: 48px;
+    }}
+}}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Mercadona Price Tracker</h1>
+    <div>Situación actual de precios respecto al histórico</div>
+</header>
+
+<main>
+
+<div class="controls">
+    <input
+        id="search"
+        type="text"
+        placeholder="Buscar producto..."
+        oninput="render()"
+    >
+
+    <select id="category" onchange="render()">
+        <option value="">Todas las categorías</option>
+        {categories_html}
+    </select>
+
+    <select id="status" onchange="render()">
+        <option value="">Todas las situaciones</option>
+        <option value="Mínimo">En mínimo</option>
+        <option value="Zona baja">Zona baja</option>
+        <option value="Intermedio">Intermedio</option>
+        <option value="Zona alta">Zona alta</option>
+        <option value="Máximo">En máximo</option>
+        <option value="Sin variación">Sin variación</option>
+        <option value="Sin histórico">Sin histórico</option>
+    </select>
+</div>
+
+<div class="summary" id="summary"></div>
+
+<table>
+<thead>
+<tr>
+    <th onclick="sortBy('name')">Producto</th>
+    <th class="image-column">Imagen</th>
+    <th onclick="sortBy('category')">Categoría</th>
+    <th onclick="sortBy('unit_price')">Precio</th>
+    <th onclick="sortBy('reference_price')">Precio ref.</th>
+    <th onclick="sortBy('minimum')">Mínimo</th>
+    <th onclick="sortBy('maximum')">Máximo</th>
+    <th onclick="sortBy('position')">Posición</th>
+    <th onclick="sortBy('status')">Situación</th>
+    <th onclick="sortBy('changes')">Cambios</th>
+    <th>Último cambio</th>
+</tr>
+</thead>
+
+<tbody id="tableBody"></tbody>
+</table>
+
+</main>
+
+<script>
+const products = {data_json};
+
+let sortField = "name";
+let ascending = true;
+
+function euro(value) {{
+    if (value === null || value === undefined) return "-";
+    return value.toFixed(2) + " €";
+}}
+
+function referencePrice(value, unit) {{
+    if (value === null || value === undefined) return "-";
+
+    if (!unit || unit === "unidad") {{
+        return value.toFixed(2) + " €";
+    }}
+
+    const normalized = unit.toLowerCase();
+
+    if (normalized === "kg") {{
+        return value.toFixed(2) + " €/kg";
+    }}
+
+    if (normalized === "l") {{
+        return value.toFixed(2) + " €/L";
+    }}
+
+    return value.toFixed(2) + " €/" + unit;
+}}
+
+function positionText(value) {{
+    if (value === null || value === undefined) return "-";
+    return value.toFixed(0) + " %";
+}}
+
+function rowClass(status) {{
+    if (status === "Mínimo") return "minimum";
+    if (status === "Máximo") return "maximum";
+    if (status === "Zona baja") return "low";
+    if (status === "Zona alta") return "high";
+    if (status === "Sin histórico") return "nohistory";
+    return "";
+}}
+
+function imageHtml(product) {{
+    if (!product.thumbnail) {{
+        return "";
+    }}
+
+    return `
+        <a href="${{product.url}}" target="_blank">
+            <img
+                src="${{product.thumbnail}}"
+                class="product-image"
+                alt="${{product.name}}"
+                loading="lazy"
+            >
+        </a>
+    `;
+}}
+
+function sortBy(field) {{
+    if (sortField === field) {{
+        ascending = !ascending;
+    }} else {{
+        sortField = field;
+        ascending = true;
+    }}
+
+    render();
+}}
+
+function render() {{
+    const search = document
+        .getElementById("search")
+        .value
+        .toLowerCase();
+
+    const category = document
+        .getElementById("category")
+        .value;
+
+    const status = document
+        .getElementById("status")
+        .value;
+
+    let filtered = products.filter(p => {{
+        const matchesSearch =
+            p.name.toLowerCase().includes(search);
+
+        const matchesCategory =
+            !category || p.category === category;
+
+        const matchesStatus =
+            !status || p.status === status;
+
+        return matchesSearch &&
+               matchesCategory &&
+               matchesStatus;
+    }});
+
+    filtered.sort((a, b) => {{
+        let av = a[sortField];
+        let bv = b[sortField];
+
+        if (av === null || av === undefined) av = "";
+        if (bv === null || bv === undefined) bv = "";
+
+        if (typeof av === "string") {{
+            return ascending
+                ? av.localeCompare(bv)
+                : bv.localeCompare(av);
+        }}
+
+        return ascending ? av - bv : bv - av;
+    }});
+
+    document.getElementById("summary").textContent =
+        filtered.length +
+        " productos mostrados de " +
+        products.length;
+
+    const tbody = document.getElementById("tableBody");
+
+    tbody.innerHTML = filtered.map(p => `
+        <tr class="${{rowClass(p.status)}}">
+            <td>
+                <a href="${{p.url}}" target="_blank">
+                    ${{p.name}}
+                </a>
+            </td>
+
+            <td class="image-column">
+                ${{imageHtml(p)}}
+            </td>
+
+            <td>${{p.category}}</td>
+
+            <td class="price">
+                ${{euro(p.unit_price)}}
+            </td>
+
+            <td class="price">
+                ${{referencePrice(
+                    p.reference_price,
+                    p.reference_format
+                )}}
+            </td>
+
+            <td class="price">
+                ${{referencePrice(
+                    p.minimum,
+                    p.reference_format
+                )}}
+            </td>
+
+            <td class="price">
+                ${{referencePrice(
+                    p.maximum,
+                    p.reference_format
+                )}}
+            </td>
+
+            <td class="price">
+                ${{positionText(p.position)}}
+            </td>
+
+            <td>${{p.status}}</td>
+
+            <td class="price">
+                ${{p.changes}}
+            </td>
+
+            <td>${{p.last_change}}</td>
+        </tr>
+    `).join("");
+}}
+
+render();
+</script>
+
+</body>
+</html>
+"""
 
     OUTPUT_DIR.mkdir(exist_ok=True)
 
-    captured_at = datetime.now(timezone.utc).isoformat()
-
-    fields = [
-        "captured_at",
-        "warehouse",
-        "product_id",
-        "name",
-        "slug",
-        "thumbnail",
-        "category",
-        "packaging",
-        "published",
-        "unavailable_from",
-        "unit_size",
-        "size_format",
-        "unit_price",
-        "bulk_price",
-        "reference_price",
-        "reference_format",
-        "previous_unit_price",
-        "price_decreased",
-        "selling_method",
-        "share_url",
-    ]
-
-    with OUTPUT_FILE.open(
-        "w",
-        newline="",
+    OUTPUT_FILE.write_text(
+        page,
         encoding="utf-8",
-    ) as f:
-        writer = csv.DictWriter(f, fieldnames=fields)
-        writer.writeheader()
+    )
 
-        for product_id in sorted(products):
-            row = products[product_id].copy()
-            row["captured_at"] = captured_at
-            row["warehouse"] = warehouse
-            writer.writerow(row)
-
-    print("")
-    print("CAPTURA COMPLETADA")
-    print(f"Productos guardados: {len(products)}")
-    print(f"Archivo: {OUTPUT_FILE}")
+    print(f"Productos incluidos: {len(products)}")
+    print(f"Panel generado: {OUTPUT_FILE}")
 
 
 if __name__ == "__main__":
