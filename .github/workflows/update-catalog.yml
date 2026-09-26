@@ -24,25 +24,29 @@ jobs:
           MERCADONA_POSTCODE: ${{ secrets.MERCADONA_POSTCODE }}
         run: python tracker.py
 
-      - name: Show catalog summary
+      - name: Update price history
+        run: python update_history.py
+
+      - name: Show summary
         run: |
-          echo "Número de líneas:"
+          echo "Catálogo actual:"
           wc -l data/current_catalog.csv
 
           echo ""
-          echo "Primeras 3 líneas:"
-          head -n 3 data/current_catalog.csv
+          echo "Histórico de precios:"
+          wc -l data/price_history.csv
 
-      - name: Save catalog in repository
+      - name: Save data in repository
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add data/current_catalog.csv
+          git add data/price_history.csv
 
           if git diff --cached --quiet; then
             echo "No hay cambios que guardar."
           else
-            git commit -m "Update Mercadona catalog"
+            git commit -m "Update Mercadona prices"
             git push
           fi
