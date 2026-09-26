@@ -197,10 +197,7 @@ def main():
         writer = csv.DictWriter(f, fieldnames=fields)
         writer.writeheader()
 
-        for product_id in sorted(
-            products,
-            key=lambda x: int(x),
-        ):
+        for product_id in sorted(products):
             row = products[product_id].copy()
             row["captured_at"] = captured_at
             row["warehouse"] = warehouse
