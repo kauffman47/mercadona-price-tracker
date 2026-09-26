@@ -1,0 +1,49 @@
+name: Test Mercadona connection
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test Mercadona API
+        env:
+          MERCADONA_POSTCODE: ${{ secrets.MERCADONA_POSTCODE }}
+
+        run: |
+          set -euo pipefail
+
+          curl -sS \
+            -X PUT \
+            -H "content-type: application/json" \
+            -c cookies.txt \
+            -D headers.txt \
+            --data "{\"new_postal_code\":\"${MERCADONA_POSTCODE}\"}" \
+            https://tienda.mercadona.es/api/postal-codes/actions/change-pc/ \
+            -o response.json
+
+          STATUS=$(awk 'toupper($1) ~ /^HTTP\// {code=$2} END {print code}' headers.txt)
+
+          echo "Postal-code endpoint HTTP: $STATUS"
+
+          test "$STATUS" = "200"
+
+          curl -sS \
+            -b cookies.txt \
+            https://tienda.mercadona.es/api/categories/ \
+            -o categories.json
+
+          python - <<'PY'
+          import json
+
+          with open("categories.json", encoding="utf-8") as f:
+              data = json.load(f)
+
+          n = len(data.get("results", []))
+
+          assert n > 0, "No se recibieron categorías"
+
+          print(f"Conexión correcta. Categorías principales recibidas: {n}")
+          PY
