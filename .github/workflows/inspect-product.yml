@@ -1,0 +1,121 @@
+name: Inspect Mercadona product
+
+on:
+  workflow_dispatch:
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Inspect product data
+        env:
+          MERCADONA_POSTCODE: ${{ secrets.MERCADONA_POSTCODE }}
+
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import urllib.parse
+          import urllib.request
+          import http.cookiejar
+
+          BASE = "https://tienda.mercadona.es/api"
+          postcode = os.environ["MERCADONA_POSTCODE"]
+
+          cookies = http.cookiejar.CookieJar()
+          opener = urllib.request.build_opener(
+              urllib.request.HTTPCookieProcessor(cookies)
+          )
+
+          headers = {
+              "User-Agent": "Mozilla/5.0",
+              "Accept": "application/json",
+              "Content-Type": "application/json",
+          }
+
+          # Seleccionar almacén
+          req = urllib.request.Request(
+              f"{BASE}/postal-codes/actions/change-pc/",
+              data=json.dumps({"new_postal_code": postcode}).encode(),
+              headers=headers,
+              method="PUT",
+          )
+
+          with opener.open(req, timeout=30) as response:
+              warehouse = response.headers.get("x-customer-wh")
+
+          print(f"Almacén: {warehouse}")
+
+          def get_json(path):
+              query = urllib.parse.urlencode({
+                  "lang": "es",
+                  "wh": warehouse,
+              })
+
+              req = urllib.request.Request(
+                  f"{BASE}{path}?{query}",
+                  headers=headers,
+              )
+
+              with opener.open(req, timeout=30) as response:
+                  return json.load(response)
+
+          # Obtener una categoría con productos
+          root = get_json("/categories/")
+
+          first_product = None
+
+          for top in root.get("results", []):
+              for category in top.get("categories", []):
+                  cid = category.get("id")
+
+                  if not isinstance(cid, int):
+                      continue
+
+                  data = get_json(f"/categories/{cid}/")
+
+                  def find_product(node):
+                      if isinstance(node, dict):
+                          products = node.get("products")
+
+                          if isinstance(products, list) and products:
+                              return products[0]
+
+                          for value in node.values():
+                              result = find_product(value)
+
+                              if result:
+                                  return result
+
+                      elif isinstance(node, list):
+                          for item in node:
+                              result = find_product(item)
+
+                              if result:
+                                  return result
+
+                      return None
+
+                  first_product = find_product(data)
+
+                  if first_product:
+                      break
+
+              if first_product:
+                  break
+
+          if not first_product:
+              raise RuntimeError("No se encontró ningún producto.")
+
+          print("")
+          print("PRODUCTO DENTRO DE LA CATEGORÍA")
+          print(json.dumps(first_product, indent=2, ensure_ascii=False))
+
+          product_id = first_product["id"]
+
+          print("")
+          print(f"DETALLE DEL PRODUCTO {product_id}")
+          detail = get_json(f"/products/{product_id}/")
+          print(json.dumps(detail, indent=2, ensure_ascii=False))
+          PY
