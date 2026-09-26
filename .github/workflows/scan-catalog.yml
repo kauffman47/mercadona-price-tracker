@@ -1,0 +1,122 @@
+name: Scan Mercadona catalog
+
+on:
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Scan complete catalog
+        env:
+          MERCADONA_POSTCODE: ${{ secrets.MERCADONA_POSTCODE }}
+
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import time
+          import urllib.parse
+          import urllib.request
+          import http.cookiejar
+
+          BASE = "https://tienda.mercadona.es/api"
+          postcode = os.environ["MERCADONA_POSTCODE"]
+
+          cookies = http.cookiejar.CookieJar()
+          opener = urllib.request.build_opener(
+              urllib.request.HTTPCookieProcessor(cookies)
+          )
+
+          headers = {
+              "User-Agent": "Mozilla/5.0",
+              "Accept": "application/json",
+              "Content-Type": "application/json",
+          }
+
+          # Seleccionar código postal y obtener almacén
+          req = urllib.request.Request(
+              f"{BASE}/postal-codes/actions/change-pc/",
+              data=json.dumps({"new_postal_code": postcode}).encode(),
+              headers=headers,
+              method="PUT",
+          )
+
+          with opener.open(req, timeout=30) as response:
+              warehouse = response.headers.get("x-customer-wh")
+
+          if not warehouse:
+              raise RuntimeError("Mercadona no devolvió el almacén.")
+
+          print(f"Almacén: {warehouse}")
+
+          def get_json(path):
+              query = urllib.parse.urlencode({
+                  "lang": "es",
+                  "wh": warehouse,
+              })
+
+              req = urllib.request.Request(
+                  f"{BASE}{path}?{query}",
+                  headers=headers,
+              )
+
+              with opener.open(req, timeout=30) as response:
+                  return json.load(response)
+
+          # Árbol principal
+          root = get_json("/categories/")
+
+          category_ids = []
+
+          for top in root.get("results", []):
+              for category in top.get("categories", []):
+                  cid = category.get("id")
+
+                  if isinstance(cid, int):
+                      category_ids.append(cid)
+
+          print(f"Categorías de segundo nivel: {len(category_ids)}")
+
+          product_ids = set()
+
+          def collect_products(node):
+              if isinstance(node, dict):
+                  products = node.get("products")
+
+                  if isinstance(products, list):
+                      for product in products:
+                          if isinstance(product, dict):
+                              pid = product.get("id")
+
+                              if pid:
+                                  product_ids.add(str(pid))
+
+                  for key, value in node.items():
+                      if key != "products":
+                          collect_products(value)
+
+              elif isinstance(node, list):
+                  for item in node:
+                      collect_products(item)
+
+          for i, cid in enumerate(category_ids, start=1):
+              data = get_json(f"/categories/{cid}/")
+              collect_products(data)
+
+              print(
+                  f"[{i}/{len(category_ids)}] "
+                  f"Categoría {cid}: "
+                  f"{len(product_ids)} productos únicos acumulados"
+              )
+
+              time.sleep(0.2)
+
+          if not product_ids:
+              raise RuntimeError("No se encontraron productos.")
+
+          print("")
+          print("ESCANEO COMPLETADO")
+          print(f"Productos únicos encontrados: {len(product_ids)}")
+          PY
