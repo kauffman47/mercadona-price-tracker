@@ -4313,3 +4313,60 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-09-26T15:51:08.123560+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.67,kg,10.02,14.950,kg
 2026-09-26T15:51:08.123560+00:00,svq1,8175,Manzana roja acidulce,Fruta,Pieza,0.27,kg,0.78,2.900,kg
 2026-09-26T16:24:24.148705+00:00,svq1,17800,Delineador dúo para ojos y pecas Caramel Kiss Deliplus marrón,Ojos,,1.0,ud,4.00,4.000,ud
+2026-09-28T11:01:18.315402+00:00,svq1,10066,Batido de chocolate ColaCao Energy,Leche y bebidas vegetales,Pack-4,0.752,l,2.50,3.325,L
+2026-09-28T11:01:18.315402+00:00,svq1,11104,Café soluble descafeinado Nescafé classic,Café soluble y otras bebidas,Tarro,0.1,kg,4.75,47.500,kg
+2026-09-28T11:01:18.315402+00:00,svq1,11111,Café soluble natural Nescafé classic,Café soluble y otras bebidas,Tarro,0.1,kg,4.75,47.500,kg
+2026-09-28T11:01:18.315402+00:00,svq1,12016,Chocolate con leche Milka galleta,Chocolate,Tableta,0.3,kg,2.95,9.834,kg
+2026-09-28T11:01:18.315402+00:00,svq1,12107,Chocolate con leche Valor almendras enteras,Chocolate,Tableta,0.25,kg,4.95,19.800,kg
+2026-09-28T11:01:18.315402+00:00,svq1,12130,Chocolate puro Valor con almendras enteras,Chocolate,Tableta,0.25,kg,4.95,19.800,kg
+2026-09-28T11:01:18.315402+00:00,svq1,12151,Chocolate con leche Milka,Chocolate,Tableta,0.15,kg,1.95,13.000,kg
+2026-09-28T11:01:18.315402+00:00,svq1,12493,Porciones de Chocolate negro 85% cacao extrafino Hacendado,Chocolate,Paquete,0.2,kg,3.40,17.000,kg
+2026-09-28T11:01:18.315402+00:00,svq1,12526,Barritas de barquillo Huesitos bañadas de chocolate con leche,Chocolate,Paquete,0.2,kg,2.50,12.500,kg
+2026-09-28T11:01:18.315402+00:00,svq1,12544,Gotas de chocolate negro para fundir Hacendado,Chocolate,Paquete,0.25,kg,2.55,10.200,kg
+2026-09-28T11:01:18.315402+00:00,svq1,13656,Rosquillas de chocolate con leche y coco Hacendado,Galletas,Caja,0.3,kg,1.70,5.667,kg
+2026-09-28T11:01:18.315402+00:00,svq1,14038,Galletas con chocolate y crema de leche Hacendado,Galletas,Caja,0.268,kg,2.55,9.515,kg
+2026-09-28T11:01:18.315402+00:00,svq1,16461,Tónica original Schweppes,Tónica y bitter,Botella,1.0,l,1.99,1.990,L
+2026-09-28T11:01:18.315402+00:00,svq1,17787,Pañales bebé talla 2 Deliplus de 3-6 kg,Toallitas y pañales,Paquete,48.0,ud,7.90,0.165,ud
+2026-09-28T11:01:18.315402+00:00,svq1,18235,Cacao soluble instantáneo,Cacao soluble y chocolate a la taza,Paquete,0.9,kg,5.95,6.612,kg
+2026-09-28T11:01:18.315402+00:00,svq1,21986,Galletas Classic Choc Hacendado,Galletas,Caja,0.273,kg,1.45,5.312,kg
+2026-09-28T11:01:18.315402+00:00,svq1,22580,Cacao puro en polvo La Chocolatera,Cacao soluble y chocolate a la taza,Bote,0.265,kg,4.40,16.604,kg
+2026-09-28T11:01:18.315402+00:00,svq1,22631,Mascarilla sin aclarado Curl Perfect Deliplus cabello rizado,Acondicionador y mascarilla,Bote,0.2,l,3.75,1.875,100 ml
+2026-09-28T11:01:18.315402+00:00,svq1,22726,Fabada asturiana Litoral,Platos preparados calientes,Bote,0.42,kg,2.25,5.358,kg
+2026-09-28T11:01:18.315402+00:00,svq1,24586,Fruta + leche Proteína 20 gr Don Simón con colágeno y vitamina C,Fruta variada,Brik,0.33,l,1.25,3.788,L
+2026-09-28T11:01:18.315402+00:00,svq1,25181,Medio pollo,Aves y pollo,Bandeja,0.9,kg,3.42,3.800,kg
+2026-09-28T11:01:18.315402+00:00,svq1,26138,Alubias con tomate Heinz,Platos preparados calientes,Bote,0.415,kg,1.50,3.615,kg
+2026-09-28T11:01:18.315402+00:00,svq1,27216,Agua mineral grande Lanjarón,Agua,Botella,1.5,l,0.63,0.420,L
+2026-09-28T11:01:18.315402+00:00,svq1,27291,Agua mineral grande Lanjarón,Agua,,9.0,l,3.60,0.400,L
+2026-09-28T11:01:18.315402+00:00,svq1,27449,Refresco Coca-Cola zero azúcar,Refresco de cola,,4.0,l,3.80,0.950,L
+2026-09-28T11:01:18.315402+00:00,svq1,27479,Agua mineral grande Lanjarón,Agua,Garrafa,6.25,l,1.89,0.303,L
+2026-09-28T11:01:18.315402+00:00,svq1,27545,Refresco Fanta naranja zero azúcares añadidos,Refresco de naranja y de limón,Botella,2.0,l,1.85,0.925,L
+2026-09-28T11:01:18.315402+00:00,svq1,27761,Refresco limón Schweppes original,Refresco de naranja y de limón,Pack-8,2.64,l,7.76,2.940,L
+2026-09-28T11:01:18.315402+00:00,svq1,28059,Tinto de verano limón La Casera,Tinto de verano y sangría,,3.0,l,4.78,1.594,L
+2026-09-28T11:01:18.315402+00:00,svq1,28180,Refresco Coca-Cola zero azúcar zero cafeína,Refresco de cola,,4.0,l,3.80,0.950,L
+2026-09-28T11:01:18.315402+00:00,svq1,29062,Chocolate negro 72% de cacao Hacendado con almendras enteras,Chocolate,Tableta,0.2,kg,2.65,13.250,kg
+2026-09-28T11:01:18.315402+00:00,svq1,29608,Bebida isotónica limón Aquarius,Isotónico y energético,Botella,1.5,l,1.91,1.274,L
+2026-09-28T11:01:18.315402+00:00,svq1,29609,Bebida isotónica naranja Aquarius,Isotónico y energético,Botella,1.5,l,1.91,1.274,L
+2026-09-28T11:01:18.315402+00:00,svq1,3028,Manzana Golden,Fruta,Pieza,0.21,kg,0.42,2.000,kg
+2026-09-28T11:01:18.315402+00:00,svq1,3269,Manzanas Golden,Fruta,,1.5,kg,2.70,1.800,kg
+2026-09-28T11:01:18.315402+00:00,svq1,33555,Aperitivo de patata sabor original Pringles,Patatas fritas y snacks,Bote,0.165,kg,2.65,16.061,kg
+2026-09-28T11:01:18.315402+00:00,svq1,33556,Aperitivo de patata sabor crema agria y cebolla Pringles,Patatas fritas y snacks,Bote,0.165,kg,2.65,16.061,kg
+2026-09-28T11:01:18.315402+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,4.4,kg,5.94,1.350,kg
+2026-09-28T11:01:18.315402+00:00,svq1,3515,Medio melón piel de sapo,Fruta,1/2 Pieza,2.28,kg,4.10,1.800,kg
+2026-09-28T11:01:18.315402+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.55,kg,1.49,2.700,kg
+2026-09-28T11:01:18.315402+00:00,svq1,3819,Plátano de Canarias IGP,Fruta,Pieza,0.17,kg,0.43,2.500,kg
+2026-09-28T11:01:18.315402+00:00,svq1,50935,Queso tierno de vaca Hacendado,"Queso curado, semicurado y tierno",Pieza,1.05,kg,6.00,5.715,kg
+2026-09-28T11:01:18.315402+00:00,svq1,51068,Queso fundido con palitos La vaca que ríe,"Queso lonchas, rallado y en porciones",Caja,0.14,kg,2.60,18.572,kg
+2026-09-28T11:01:18.315402+00:00,svq1,5940,Castañas,Frutos secos y fruta desecada,Malla,0.5,kg,3.75,7.500,kg
+2026-09-28T11:01:18.315402+00:00,svq1,62162,Filetes de merluza Argentina sin piel Hacendado ultracongelados,Pescado,Paquete,,kg,4.90,8.167,kg
+2026-09-28T11:01:18.315402+00:00,svq1,63159,Figuritas de merluza empanadas Hacendado ultracongeladas,Rebozados,Paquete,0.5,kg,3.75,7.500,kg
+2026-09-28T11:01:18.315402+00:00,svq1,69079,Cebollas,Verdura,Malla,2.0,kg,3.00,1.500,kg
+2026-09-28T11:01:18.315402+00:00,svq1,69089,Cebollas,Verdura,Malla,1.0,kg,1.50,1.500,kg
+2026-09-28T11:01:18.315402+00:00,svq1,69499,Preparado de verdura para potaje,Verdura,Bandeja,0.92,kg,2.48,2.700,kg
+2026-09-28T11:01:18.315402+00:00,svq1,69580,Brócoli,Verdura,Pieza,0.44,kg,1.19,2.700,kg
+2026-09-28T11:01:18.315402+00:00,svq1,69687,Preparado de verdura para puchero,Verdura,Bandeja,0.9,kg,2.21,2.450,kg
+2026-09-28T11:01:18.315402+00:00,svq1,81200.1,Trucha abierta en libro con cabeza,Pescado fresco,Pieza,0.55,kg,4.92,8.950,kg
+2026-09-28T11:01:18.315402+00:00,svq1,81200.2,Trucha abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.55,kg,4.92,8.950,kg
+2026-09-28T11:01:18.315402+00:00,svq1,81200.3,Trucha sin aletas,Pescado fresco,Pieza,0.55,kg,4.92,8.950,kg
+2026-09-28T11:01:18.315402+00:00,svq1,86503,Margarina Flora Original,Mantequilla y margarina,Tarrina,0.4,kg,2.69,6.725,kg
+2026-09-28T11:01:18.315402+00:00,svq1,87196,Lenguado rubio,Pescado fresco,Bandeja,0.25,kg,8.75,35.000,kg
+2026-09-28T11:01:18.315402+00:00,svq1,87342,Filetes de trucha Arco iris,Pescado fresco,Bandeja,0.226,kg,3.50,15.500,kg
