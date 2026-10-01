@@ -4477,3 +4477,105 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-09-30T10:34:15.997070+00:00,svq1,86352,Compresa normal Evax Cottonlike con alas,Higiene íntima,Paquete,1.0,ud,4.35,0.136,ud
 2026-09-30T10:34:15.997070+00:00,svq1,8889,Whisky escocés Grand Old Parr 12 años,Licores,Botella,1.0,l,22.00,22.000,L
 2026-09-30T10:34:15.997070+00:00,svq1,92091,Pastillas enciende fuegos Bosque Verde,Menaje y conservación de alimentos,Caja,32.0,ud,1.15,0.036,ud
+2026-10-01T11:02:05.775262+00:00,svq1,12055,Vino blanco Croft Twist,Vino blanco,Botella,0.75,l,7.00,9.334,L
+2026-10-01T11:02:05.775262+00:00,svq1,12094,Disquitos Pintarolas de chocolate con leche coloreados,Chocolate,Paquete,0.2,kg,1.90,9.500,kg
+2026-10-01T11:02:05.775262+00:00,svq1,13917,Postre de soja sabor lima limón Alpro,Postres de soja,Bote,0.4,kg,2.00,5.000,kg
+2026-10-01T11:02:05.775262+00:00,svq1,14140,Galletas caramelizadas Lotus Biscoff,Galletas,Paquete,0.186,kg,1.30,6.990,kg
+2026-10-01T11:02:05.775262+00:00,svq1,14934,Surtido de caramelos Diver Xuxes Hacendado,Golosinas,Paquete,0.375,kg,2.80,7.467,kg
+2026-10-01T11:02:05.775262+00:00,svq1,16285,Barritas de barquillo Kit-Kat bañadas de chocolate con leche,Chocolate,Paquete,0.1245,kg,2.15,17.270,kg
+2026-10-01T11:02:05.775262+00:00,svq1,16293,Compresa normal Evax Cottonlike sin alas,Higiene íntima,Paquete,1.0,ud,3.90,0.163,ud
+2026-10-01T11:02:05.775262+00:00,svq1,17618,Maquinilla de afeitar recargable Gillette Labs Body + Intimate 2 hojas,Afeitado y cuidado para hombre,Caja,1.0,ud,16.90,16.900,ud
+2026-10-01T11:02:05.775262+00:00,svq1,17619,Recambios maquinilla de afeitar Gillette Labs Body + Intimate,Afeitado y cuidado para hombre,Caja,1.0,ud,14.90,4.967,ud
+2026-10-01T11:02:05.775262+00:00,svq1,17721,Laca cabello ultra fuerte Pantene fijación 5,Fijación cabello,Spray,0.37,l,5.10,1.379,100 ml
+2026-10-01T11:02:05.775262+00:00,svq1,17724,Espuma cabello rizos definidos Pantene fijación 5,Fijación cabello,Bote,0.3,l,5.00,1.667,100 ml
+2026-10-01T11:02:05.775262+00:00,svq1,18344,Queso rallado mozzarella y gouda Hacendado,"Queso lonchas, rallado y en porciones",Paquete,0.4,kg,2.40,6.000,kg
+2026-10-01T11:02:05.775262+00:00,svq1,20150,Longaniza de payés extra Hacendado lonchas,Embutido curado,,0.15,kg,2.30,15.334,kg
+2026-10-01T11:02:05.775262+00:00,svq1,20281,Tampones regular Tampax Pearl con aplicador,Higiene íntima,Caja,1.0,ud,4.90,0.205,ud
+2026-10-01T11:02:05.775262+00:00,svq1,20288,Tampones super Tampax Pearl con aplicador,Higiene íntima,Caja,1.0,ud,4.90,0.205,ud
+2026-10-01T11:02:05.775262+00:00,svq1,20290,Tampones super plus Tampax Pearl con aplicador,Higiene íntima,Caja,1.0,ud,4.90,0.205,ud
+2026-10-01T11:02:05.775262+00:00,svq1,20954,Champú y acondicionador anticaspa Classic 2 en 1 H&S,Champú,Bote,0.33,l,3.40,1.031,100 ml
+2026-10-01T11:02:05.775262+00:00,svq1,20955,Champú anticaspa Citrus Fresh H&S cabello graso,Champú,Bote,0.33,l,3.40,1.031,100 ml
+2026-10-01T11:02:05.775262+00:00,svq1,20956,Champú anticaspa Menthol Fresh H&S,Champú,Bote,0.33,l,3.40,1.031,100 ml
+2026-10-01T11:02:05.775262+00:00,svq1,21369,Postre de soja sabor mango Alpro sin azúcares añadidos,Postres de soja,Bote,0.4,kg,2.30,5.750,kg
+2026-10-01T11:02:05.775262+00:00,svq1,22216,Queso rallado emmental gratinar Hacendado,"Queso lonchas, rallado y en porciones",Paquete,0.2,kg,1.60,8.000,kg
+2026-10-01T11:02:05.775262+00:00,svq1,22981,Postre de coco natural Alpro sin azúcares añadidos,Postres de soja,Bote,0.35,kg,2.30,6.572,kg
+2026-10-01T11:02:05.775262+00:00,svq1,25972,Medio conejo troceado,Conejo y cordero,Bandeja,0.66,kg,6.40,9.700,kg
+2026-10-01T11:02:05.775262+00:00,svq1,27119,Cerveza Pilsen Cruzcampo,Cerveza,Lata,0.33,l,0.58,1.758,L
+2026-10-01T11:02:05.775262+00:00,svq1,27759,Bebida Florida Sunny Delight,Refresco de té y sin gas,Botella,1.25,l,1.99,1.592,L
+2026-10-01T11:02:05.775262+00:00,svq1,28032,Ginebra Dry Gin Seagram's,Licores,Botella,0.7,l,16.50,23.572,L
+2026-10-01T11:02:05.775262+00:00,svq1,28381,Licor de anís dulce La Castellana,Licores,Botella,0.7,l,7.50,10.715,L
+2026-10-01T11:02:05.775262+00:00,svq1,28600,Whisky DYC,Licores,Botella,0.7,l,9.95,14.215,L
+2026-10-01T11:02:05.775262+00:00,svq1,28604,Whisky escocés Ballantine's,Licores,Botella,0.7,l,13.95,19.929,L
+2026-10-01T11:02:05.775262+00:00,svq1,28715,Ginebra London Dry Gin Larios,Licores,Botella,1.0,l,12.20,12.200,L
+2026-10-01T11:02:05.775262+00:00,svq1,28731,Ron añejo Negrita,Licores,Botella,0.7,l,8.95,12.786,L
+2026-10-01T11:02:05.775262+00:00,svq1,3026,Papaya,Fruta,Pieza,0.6,kg,3.15,5.250,kg
+2026-10-01T11:02:05.775262+00:00,svq1,3050,Mango,Fruta,Pieza,0.41,kg,1.11,2.700,kg
+2026-10-01T11:02:05.775262+00:00,svq1,3076,Piña,Fruta,Pieza,2.23,kg,4.46,2.000,kg
+2026-10-01T11:02:05.775262+00:00,svq1,3119,Pera Conferencia,Fruta,Pieza,0.19,kg,0.52,2.750,kg
+2026-10-01T11:02:05.775262+00:00,svq1,3132,Plátano macho,Fruta,Pieza,0.27,kg,0.78,2.900,kg
+2026-10-01T11:02:05.775262+00:00,svq1,3172,Pera Limonera,Fruta,Pieza,0.16,kg,0.45,2.800,kg
+2026-10-01T11:02:05.775262+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,3.33,kg,4.50,1.350,kg
+2026-10-01T11:02:05.775262+00:00,svq1,3515,Medio melón piel de sapo,Fruta,1/2 Pieza,1.82,kg,3.28,1.800,kg
+2026-10-01T11:02:05.775262+00:00,svq1,35397,Champú anticaspa Citric Ultrex cabello graso,Champú,Bote,0.36,l,2.50,0.695,100 ml
+2026-10-01T11:02:05.775262+00:00,svq1,35398,Champú anticaspa Menthol Ultrex todo tipo de cabello,Champú,Bote,0.36,l,2.50,0.695,100 ml
+2026-10-01T11:02:05.775262+00:00,svq1,35399,Champú y acondicionador anticaspa Classic 2 en 1 Ultrex todo tipo de cabello,Champú,Bote,0.36,l,2.50,0.695,100 ml
+2026-10-01T11:02:05.775262+00:00,svq1,35612,Champú Repara & Protege Pantene cabello débil y dañado,Champú,Bote,0.3,l,3.55,1.184,100 ml
+2026-10-01T11:02:05.775262+00:00,svq1,35613,Mascarilla Repara & Protege Pantene cabello dañado y seco,Acondicionador y mascarilla,Tarro,0.2,l,2.85,1.425,100 ml
+2026-10-01T11:02:05.775262+00:00,svq1,35614,Ampollas tratamiento intensivo Repara & Protege Pantene cabello dañado,Acondicionador y mascarilla,Caja,0.045,l,4.25,1.417,ud
+2026-10-01T11:02:05.775262+00:00,svq1,35615,Acondicionador Repara & Protege Pantene,Acondicionador y mascarilla,Bote,0.25,l,4.00,1.600,100 ml
+2026-10-01T11:02:05.775262+00:00,svq1,35840,Mayonesa Hellmann's,"Mayonesa, ketchup y mostaza",Tarro,0.45,l,2.95,6.556,L
+2026-10-01T11:02:05.775262+00:00,svq1,3649,Ciruela amarilla,Fruta,Pieza,0.1,kg,0.38,3.800,kg
+2026-10-01T11:02:05.775262+00:00,svq1,37134,Vino tinto crianza Viña Albali DO Valdepeñas,Vino tinto,Botella,0.75,l,2.80,3.734,L
+2026-10-01T11:02:05.775262+00:00,svq1,3830,Aguacate,Fruta,Pieza,0.23,kg,1.15,5.000,kg
+2026-10-01T11:02:05.775262+00:00,svq1,47554,Protegeslip Flexiform Carefree Cotton feel regular + tanga,Higiene íntima,Caja,1.0,ud,1.55,0.052,ud
+2026-10-01T11:02:05.775262+00:00,svq1,51630,Queso curado cheddar Hacendado,"Queso curado, semicurado y tierno",Pieza,0.3,kg,2.95,9.834,kg
+2026-10-01T11:02:05.775262+00:00,svq1,52513,Postre de soja sabor natural con coco Alpro,Postres de soja,Bote,0.4,kg,2.00,5.000,kg
+2026-10-01T11:02:05.775262+00:00,svq1,52615,Vela perfumada Amber Bosque Verde,Insecticida y ambientador,Caja,1.0,ud,5.50,5.500,ud
+2026-10-01T11:02:05.775262+00:00,svq1,52645,Maquinilla de afeitar recargable Gillette Fusion Sport 5 hojas,Afeitado y cuidado para hombre,Caja,1.0,ud,9.60,9.600,ud
+2026-10-01T11:02:05.775262+00:00,svq1,52647,Maquinilla de afeitar recargable Gillette Mach Sport 3 hojas,Afeitado y cuidado para hombre,Caja,1.0,ud,9.30,9.300,ud
+2026-10-01T11:02:05.775262+00:00,svq1,52805,Perfilador de ojos Deliplus 02 marrón,Ojos,,1.0,ud,2.30,2.300,ud
+2026-10-01T11:02:05.775262+00:00,svq1,5673,Horchata de chufa Hacendado,Leche y bebidas vegetales,Brik,1.0,l,1.35,1.350,L
+2026-10-01T11:02:05.775262+00:00,svq1,60710,Queso lonchas emmental de vaca Hacendado,"Queso lonchas, rallado y en porciones",Paquete,0.2,kg,2.00,10.000,kg
+2026-10-01T11:02:05.775262+00:00,svq1,63101,Filetes de merluza al huevo Hacendado ultracongelados,Rebozados,Paquete,0.6,kg,5.05,8.417,kg
+2026-10-01T11:02:05.775262+00:00,svq1,63151,Palitos de merluza a la romana Hacendado ultracongelados,Rebozados,Paquete,0.5,kg,2.80,5.600,kg
+2026-10-01T11:02:05.775262+00:00,svq1,66586,Cerveza especial Estrella Galicia,Cerveza,Pack-10,3.3,l,7.60,2.304,L
+2026-10-01T11:02:05.775262+00:00,svq1,66587,Cerveza especial Estrella Galicia,Cerveza,Pack-12,3.0,l,8.16,2.720,L
+2026-10-01T11:02:05.775262+00:00,svq1,67089,Cerveza Pilsen Cruzcampo,Cerveza,,5.94,l,9.90,1.667,L
+2026-10-01T11:02:05.775262+00:00,svq1,69173,Yuca,Verdura,Pieza,0.64,kg,2.11,3.300,kg
+2026-10-01T11:02:05.775262+00:00,svq1,69220,Coliflor,Verdura,Pieza,0.96,kg,2.40,2.500,kg
+2026-10-01T11:02:05.775262+00:00,svq1,69310,Pimiento rojo,Verdura,Pieza,0.3,kg,0.87,2.900,kg
+2026-10-01T11:02:05.775262+00:00,svq1,69326,Berenjena,Verdura,Pieza,0.37,kg,0.81,2.200,kg
+2026-10-01T11:02:05.775262+00:00,svq1,69338,Calabacín verde,Verdura,Pieza,0.34,kg,0.65,1.900,kg
+2026-10-01T11:02:05.775262+00:00,svq1,69339,Calabacín blanco,Verdura,Pieza,0.42,kg,0.92,2.200,kg
+2026-10-01T11:02:05.775262+00:00,svq1,69487,Rama de Tomates,Verdura,Granel,0.76,kg,1.82,2.400,kg
+2026-10-01T11:02:05.775262+00:00,svq1,69586,Zanahorias,Verdura,Paquete,1.0,kg,1.00,1.000,kg
+2026-10-01T11:02:05.775262+00:00,svq1,69912,Tomate pera,Verdura,Pieza,0.11,kg,0.22,2.000,kg
+2026-10-01T11:02:05.775262+00:00,svq1,69937,Tomate ensalada,Verdura,Pieza,0.22,kg,0.48,2.200,kg
+2026-10-01T11:02:05.775262+00:00,svq1,73002,Maquinillas de afeitar desechables Gillette Sensor Comfort 3 hojas,Afeitado y cuidado para hombre,Paquete,1.0,ud,5.75,1.150,ud
+2026-10-01T11:02:05.775262+00:00,svq1,81055.1,Corvina limpia con cabeza,Pescado fresco,Pieza,1.11,kg,12.77,11.500,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81055.2,Corvina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,1.11,kg,12.77,11.500,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81055.3,Corvina a filetes,Pescado fresco,Pieza,1.11,kg,12.77,11.500,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81100.2,Sardina limpia sin cabeza,Pescado fresco,Granel,0.2,kg,0.99,4.950,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81234.1,Dorada limpia con cabeza,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81234.2,Dorada abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81234.3,Dorada sin limpiar,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81234.4,Dorada abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81234.5,Dorada a filetes sin cabeza y sin espina,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81638.1,Acedía sin cabeza y sin piel oscura,Pescado fresco,Granel,0.2,kg,2.99,14.950,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81638.2,Acedía sin escamas,Pescado fresco,Granel,0.2,kg,2.99,14.950,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81649.1,Salmón a rodajas,Pescado fresco,Pieza,2.85,kg,28.36,9.950,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81649.2,Salmón abierto en libro sin cabeza y sin espina,Pescado fresco,Pieza,2.85,kg,28.36,9.950,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81649.3,Salmón sin aletas y sin escamas,Pescado fresco,Pieza,2.85,kg,28.36,9.950,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81649.4,Salmón media pieza a rodajas,Pescado fresco,1/2 Pieza,1.46,kg,14.53,9.950,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,Pescado fresco,1/2 Pieza,1.46,kg,14.53,9.950,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81649.6,Salmón media pieza sin aletas y sin escamas,Pescado fresco,1/2 Pieza,1.46,kg,14.53,9.950,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81661.1,Boquerón sin limpiar,Pescado fresco,Granel,0.2,kg,1.19,5.950,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81661.2,Boquerón limpio sin cabeza,Pescado fresco,Granel,0.2,kg,1.19,5.950,kg
+2026-10-01T11:02:05.775262+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.63,kg,9.42,14.950,kg
+2026-10-01T11:02:05.775262+00:00,svq1,8179,Postre de soja sabor arándanos Alpro,Postres de soja,Bote,0.4,kg,2.00,5.000,kg
+2026-10-01T11:02:05.775262+00:00,svq1,8180,Queso lonchas cheddar de vaca Hacendado,"Queso lonchas, rallado y en porciones",Paquete,0.2,kg,1.95,9.750,kg
+2026-10-01T11:02:05.775262+00:00,svq1,8618,Fideos orientales Yatekomo sabor pollo Gallina Blanca,Pasta y fideos,Vaso,0.06,kg,1.65,27.500,kg
+2026-10-01T11:02:05.775262+00:00,svq1,86352,Compresa normal Evax Cottonlike con alas,Higiene íntima,Paquete,1.0,ud,3.85,0.121,ud
+2026-10-01T11:02:05.775262+00:00,svq1,86353,Compresa super Evax Cottonlike con alas,Higiene íntima,Paquete,1.0,ud,3.85,0.161,ud
+2026-10-01T11:02:05.775262+00:00,svq1,8645,Fideos orientales Yatekomo sabor pollo Gallina Blanca,Pasta y fideos,,0.18,kg,4.10,22.778,kg
+2026-10-01T11:02:05.775262+00:00,svq1,8980,Recambios cepillo dental eléctrico Oral-B Pro Precision Clean,Higiene bucal,Paquete,1.0,ud,13.50,3.375,ud
