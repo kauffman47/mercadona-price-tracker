@@ -4689,3 +4689,35 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-10-03T09:55:51.581340+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.62,kg,9.27,14.950,kg
 2026-10-03T09:55:51.581340+00:00,svq1,8177,Manzana roja dulce,Fruta,Pieza,0.2,kg,0.40,2.000,kg
 2026-10-03T09:55:51.581340+00:00,svq1,86100,Aceitunas verdes partidas Olives Garcia,Aceitunas y encurtidos,Bote,0.815,kg,3.90,8.667,kg
+2026-10-04T10:39:04.383667+00:00,svq1,17786,Pañales bebé talla 1 Deliplus de 2-4 kg,Toallitas y pañales,Paquete,48.0,ud,7.90,0.165,ud
+2026-10-04T10:39:04.383667+00:00,svq1,17791,Pañales bebé talla 4 Deliplus de 10-15 kg,Toallitas y pañales,,114.0,ud,19.00,0.167,ud
+2026-10-04T10:39:04.383667+00:00,svq1,17999,Sombra de ojos mate Long Lasting Multi-Stick Deliplus 11 hueso,Ojos,,1.0,ud,4.00,4.000,ud
+2026-10-04T10:39:04.383667+00:00,svq1,18001,Sombra de ojos mate Long Lasting Multi-Stick Deliplus 12 marrón,Ojos,,1.0,ud,4.00,4.000,ud
+2026-10-04T10:39:04.383667+00:00,svq1,18336,Mousse de chocolate Hacendado,Gelatina y otros postres,,0.24,kg,1.15,4.792,kg
+2026-10-04T10:39:04.383667+00:00,svq1,3026,Papaya,Fruta,Pieza,0.6,kg,3.15,5.250,kg
+2026-10-04T10:39:04.383667+00:00,svq1,3076,Piña,Fruta,Pieza,2.03,kg,4.06,2.000,kg
+2026-10-04T10:39:04.383667+00:00,svq1,3132,Plátano macho,Fruta,Pieza,0.29,kg,0.84,2.900,kg
+2026-10-04T10:39:04.383667+00:00,svq1,3172,Pera Limonera,Fruta,Pieza,0.23,kg,0.64,2.800,kg
+2026-10-04T10:39:04.383667+00:00,svq1,3601,Ciruela roja,Fruta,Pieza,0.13,kg,0.46,3.500,kg
+2026-10-04T10:39:04.383667+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.54,kg,1.46,2.700,kg
+2026-10-04T10:39:04.383667+00:00,svq1,69173,Yuca,Verdura,Pieza,0.63,kg,2.08,3.300,kg
+2026-10-04T10:39:04.383667+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.01,kg,2.53,2.500,kg
+2026-10-04T10:39:04.383667+00:00,svq1,69239,Batata,Verdura,Pieza,0.42,kg,1.07,2.550,kg
+2026-10-04T10:39:04.383667+00:00,svq1,69310,Pimiento rojo,Verdura,Pieza,0.29,kg,0.84,2.900,kg
+2026-10-04T10:39:04.383667+00:00,svq1,69338,Calabacín verde,Verdura,Pieza,0.4,kg,0.76,1.900,kg
+2026-10-04T10:39:04.383667+00:00,svq1,69487,Rama de Tomates,Verdura,Granel,0.7,kg,1.68,2.400,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81200.1,Trucha abierta en libro con cabeza,Pescado fresco,Pieza,0.53,kg,4.74,8.950,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81200.2,Trucha abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.53,kg,4.74,8.950,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81200.3,Trucha sin aletas,Pescado fresco,Pieza,0.53,kg,4.74,8.950,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81234.1,Dorada limpia con cabeza,Pescado fresco,Pieza,0.52,kg,4.94,9.500,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81234.2,Dorada abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,0.52,kg,4.94,9.500,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81234.3,Dorada sin limpiar,Pescado fresco,Pieza,0.52,kg,4.94,9.500,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81234.4,Dorada abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.52,kg,4.94,9.500,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81234.5,Dorada a filetes sin cabeza y sin espina,Pescado fresco,Pieza,0.52,kg,4.94,9.500,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81649.1,Salmón a rodajas,Pescado fresco,Pieza,2.75,kg,27.36,9.950,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81649.2,Salmón abierto en libro sin cabeza y sin espina,Pescado fresco,Pieza,2.75,kg,27.36,9.950,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81649.3,Salmón sin aletas y sin escamas,Pescado fresco,Pieza,2.75,kg,27.36,9.950,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81649.4,Salmón media pieza a rodajas,Pescado fresco,1/2 Pieza,1.39,kg,13.83,9.950,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,Pescado fresco,1/2 Pieza,1.39,kg,13.83,9.950,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81649.6,Salmón media pieza sin aletas y sin escamas,Pescado fresco,1/2 Pieza,1.39,kg,13.83,9.950,kg
+2026-10-04T10:39:04.383667+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.65,kg,9.72,14.950,kg
