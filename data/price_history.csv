@@ -4775,3 +4775,49 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-10-05T11:37:17.808611+00:00,svq1,8268,Manzanas rojas acidulces,Fruta,,1.61,kg,3.38,2.100,kg
 2026-10-05T11:37:17.808611+00:00,svq1,9445,Barritas con proteínas sabor coco y chocolate Enervit Sport,Cereales,Caja,0.12,kg,3.60,30.000,kg
 2026-10-05T11:37:17.808611+00:00,svq1,9826,Cerveza especial Mahou,Cerveza,,3.3,l,8.40,2.546,L
+2026-10-06T11:21:51.210319+00:00,svq1,12786,Solomillo de cerdo adobado,Cerdo,Paquete,0.66,kg,4.55,6.900,kg
+2026-10-06T11:21:51.210319+00:00,svq1,13069,Patatas fritas onduladas sabor queso de cabra y cebolla caramelizada Hacendado,Patatas fritas y snacks,Paquete,0.15,kg,1.25,8.334,kg
+2026-10-06T11:21:51.210319+00:00,svq1,15589,Patatas fritas onduladas Hacendado,Patatas fritas y snacks,Paquete,0.15,kg,1.15,7.667,kg
+2026-10-06T11:21:51.210319+00:00,svq1,17677,Kit de blanqueamiento dental Deliplus,Higiene bucal,Caja,1.0,ud,7.00,7.000,ud
+2026-10-06T11:21:51.210319+00:00,svq1,18158,Bollo bañado de chocolate y huevo con disquitos,Bollería de horno,Bandeja,0.16,kg,2.25,14.063,kg
+2026-10-06T11:21:51.210319+00:00,svq1,18586,Aceite de oliva virgen extra Hacendado,"Aceite, vinagre y sal",Spray,0.4,l,4.25,10.625,L
+2026-10-06T11:21:51.210319+00:00,svq1,18599,Agua de colonia infantil Deliplus con notas cítricas y florales,Higiene y cuidado,Bote,0.4,l,1.30,0.325,100 ml
+2026-10-06T11:21:51.210319+00:00,svq1,19975,Patatas fritas onduladas sabor campestre Hacendado,Patatas fritas y snacks,Paquete,0.15,kg,1.25,8.334,kg
+2026-10-06T11:21:51.210319+00:00,svq1,19976,Patatas fritas onduladas sabor sal y vinagre,Patatas fritas y snacks,Paquete,0.15,kg,1.25,8.334,kg
+2026-10-06T11:21:51.210319+00:00,svq1,22428,Lomo cerdo 98% Florencia La Carloteña asado al horno lonchas,Aves y jamón cocido,Paquete,0.125,kg,2.50,20.000,kg
+2026-10-06T11:21:51.210319+00:00,svq1,27103,Cerveza especial San Miguel,Cerveza,Lata,0.33,l,0.74,2.243,L
+2026-10-06T11:21:51.210319+00:00,svq1,28575,Bebida isotónica sabor cítrico Iso drink,Isotónico y energético,,1.98,l,2.70,1.364,L
+2026-10-06T11:21:51.210319+00:00,svq1,28690,Bebida isotónica de naranja Iso drink,Isotónico y energético,,1.98,l,2.70,1.364,L
+2026-10-06T11:21:51.210319+00:00,svq1,3026,Papaya,Fruta,Pieza,0.59,kg,3.10,5.250,kg
+2026-10-06T11:21:51.210319+00:00,svq1,3028,Manzana Golden,Fruta,Pieza,0.2,kg,0.40,2.000,kg
+2026-10-06T11:21:51.210319+00:00,svq1,3050,Mango,Fruta,Pieza,0.41,kg,1.11,2.700,kg
+2026-10-06T11:21:51.210319+00:00,svq1,3076,Piña,Fruta,Pieza,1.88,kg,3.76,2.000,kg
+2026-10-06T11:21:51.210319+00:00,svq1,3119,Pera Conferencia,Fruta,Pieza,0.18,kg,0.45,2.500,kg
+2026-10-06T11:21:51.210319+00:00,svq1,3172,Pera Limonera,Fruta,Pieza,0.25,kg,0.70,2.800,kg
+2026-10-06T11:21:51.210319+00:00,svq1,3235,Naranja de mesa,Fruta,Pieza,0.36,kg,0.90,2.500,kg
+2026-10-06T11:21:51.210319+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,2.82,kg,6.20,2.200,kg
+2026-10-06T11:21:51.210319+00:00,svq1,3515,Medio melón piel de sapo,Fruta,1/2 Pieza,1.66,kg,4.32,2.600,kg
+2026-10-06T11:21:51.210319+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.53,kg,1.70,3.200,kg
+2026-10-06T11:21:51.210319+00:00,svq1,3897,Lima,Fruta,Pieza,0.09,kg,0.40,4.400,kg
+2026-10-06T11:21:51.210319+00:00,svq1,4717,Aceite de oliva virgen extra Hacendado,"Aceite, vinagre y sal",Garrafa,3.0,l,12.15,4.050,L
+2026-10-06T11:21:51.210319+00:00,svq1,4740,Aceite de oliva virgen extra Hacendado,"Aceite, vinagre y sal",Botella,1.0,l,4.35,4.350,L
+2026-10-06T11:21:51.210319+00:00,svq1,63425,Buñuelos de bacalao Hacendado ultracongelados,Rebozados,Paquete,0.4,kg,4.75,11.875,kg
+2026-10-06T11:21:51.210319+00:00,svq1,66026,Cerveza especial San Miguel,Cerveza,Pack-12,3.96,l,6.96,1.758,L
+2026-10-06T11:21:51.210319+00:00,svq1,69173,Yuca,Verdura,Pieza,0.67,kg,2.21,3.300,kg
+2026-10-06T11:21:51.210319+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.03,kg,2.58,2.500,kg
+2026-10-06T11:21:51.210319+00:00,svq1,69239,Batata,Verdura,Pieza,0.41,kg,1.05,2.550,kg
+2026-10-06T11:21:51.210319+00:00,svq1,69487,Rama de Tomates,Verdura,Granel,0.67,kg,1.61,2.400,kg
+2026-10-06T11:21:51.210319+00:00,svq1,69912,Tomate pera,Verdura,Pieza,0.11,kg,0.24,2.200,kg
+2026-10-06T11:21:51.210319+00:00,svq1,69975,Tomates pera,Verdura,,1.13,kg,2.60,2.300,kg
+2026-10-06T11:21:51.210319+00:00,svq1,7031,Caldo de pollo Hacendado bajo en sal,Sopa y caldo,Brik,1.0,l,1.20,1.200,L
+2026-10-06T11:21:51.210319+00:00,svq1,81055.1,Corvina limpia con cabeza,Pescado fresco,Pieza,1.29,kg,14.84,11.500,kg
+2026-10-06T11:21:51.210319+00:00,svq1,81055.2,Corvina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,1.29,kg,14.84,11.500,kg
+2026-10-06T11:21:51.210319+00:00,svq1,81055.3,Corvina a filetes,Pescado fresco,Pieza,1.29,kg,14.84,11.500,kg
+2026-10-06T11:21:51.210319+00:00,svq1,81200.1,Trucha abierta en libro con cabeza,Pescado fresco,Pieza,0.49,kg,4.39,8.950,kg
+2026-10-06T11:21:51.210319+00:00,svq1,81200.2,Trucha abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.49,kg,4.39,8.950,kg
+2026-10-06T11:21:51.210319+00:00,svq1,81200.3,Trucha sin aletas,Pescado fresco,Pieza,0.49,kg,4.39,8.950,kg
+2026-10-06T11:21:51.210319+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.64,kg,9.57,14.950,kg
+2026-10-06T11:21:51.210319+00:00,svq1,8177,Manzana roja dulce,Fruta,Pieza,0.21,kg,0.42,2.000,kg
+2026-10-06T11:21:51.210319+00:00,svq1,8243,Patatas fritas sabor chili y lima Hacendado,Patatas fritas y snacks,Paquete,0.15,kg,1.25,8.334,kg
+2026-10-06T11:21:51.210319+00:00,svq1,8448,Crema de pollo Hacendado con verduras,Gazpacho y cremas,Brik,0.5,l,1.00,2.000,L
+2026-10-06T11:21:51.210319+00:00,svq1,86145,Patatas fritas onduladas sabor jamón serrano Hacendado,Patatas fritas y snacks,Paquete,0.15,kg,1.25,8.334,kg
