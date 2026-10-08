@@ -4865,3 +4865,59 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-10-07T11:09:31.784677+00:00,svq1,81649.2,Salmón abierto en libro sin cabeza y sin espina,Pescado fresco,Pieza,2.65,kg,26.37,9.950,kg
 2026-10-07T11:09:31.784677+00:00,svq1,81649.3,Salmón sin aletas y sin escamas,Pescado fresco,Pieza,2.65,kg,26.37,9.950,kg
 2026-10-07T11:09:31.784677+00:00,svq1,8175,Manzana roja acidulce,Fruta,Pieza,0.26,kg,0.62,2.400,kg
+2026-10-08T11:27:22.156231+00:00,svq1,11556,Pañales bebé talla 6 Dodot de 13-18 kg,Toallitas y pañales,Paquete,48.0,ud,16.75,0.349,ud
+2026-10-08T11:27:22.156231+00:00,svq1,13499,Crema de calabaza Hacendado,Gazpacho y cremas,Brik,0.5,l,1.00,2.000,L
+2026-10-08T11:27:22.156231+00:00,svq1,13869,Dentífrico Repair & Protect Sensodyne,Higiene bucal,Tubo,0.075,l,4.95,6.600,100 ml
+2026-10-08T11:27:22.156231+00:00,svq1,13913,Dentífrico Pro-Expert Oral-B sabor menta especiada,Higiene bucal,Tubo,0.075,l,2.50,3.334,100 ml
+2026-10-08T11:27:22.156231+00:00,svq1,13998,Caldo de carne con sofrito Hacendado,Sopa y caldo,Brik,1.0,l,1.80,1.800,L
+2026-10-08T11:27:22.156231+00:00,svq1,17564,Taquitos de pollo,Aves y pollo,Bandeja,0.36,kg,2.70,7.500,kg
+2026-10-08T11:27:22.156231+00:00,svq1,18234,Refresco Fanta naranja,Refresco de naranja y de limón,Botella,1.25,l,1.55,1.240,L
+2026-10-08T11:27:22.156231+00:00,svq1,18290,Bebida energética Vice Guava Monster Energy Ultra zero azúcar,Isotónico y energético,Lata,0.5,l,1.45,2.900,L
+2026-10-08T11:27:22.156231+00:00,svq1,18444,Bacón ahumado natural Oscar Mayer lonchas,Bacón y salchichas,Paquete,0.16,kg,2.35,14.688,kg
+2026-10-08T11:27:22.156231+00:00,svq1,18627,Crema facial gel Hidrata & Ilumina K-Skin con cápsulas de niacinamida y colágeno,Cuidado e higiene facial,Tarro,0.05,l,6.50,13.000,100 ml
+2026-10-08T11:27:22.156231+00:00,svq1,18657,Sérum facial PDRN & Colágeno K-Skin efecto lifting,Cuidado e higiene facial,Caja,0.035,l,7.00,20.000,100 ml
+2026-10-08T11:27:22.156231+00:00,svq1,27103,Cerveza especial San Miguel,Cerveza,Lata,0.33,l,0.50,1.516,L
+2026-10-08T11:27:22.156231+00:00,svq1,2787,Filetes pechuga de pollo,Aves y pollo,Bandeja,0.59,kg,4.54,7.700,kg
+2026-10-08T11:27:22.156231+00:00,svq1,29368,Cerveza Pilsen Cruzcampo,Cerveza,Pack-12,3.0,l,4.44,1.480,L
+2026-10-08T11:27:22.156231+00:00,svq1,29411,Cerveza Pilsen Cruzcampo,Cerveza,Botellín,0.25,l,0.44,1.760,L
+2026-10-08T11:27:22.156231+00:00,svq1,3026,Papaya,Fruta,Pieza,0.62,kg,3.26,5.250,kg
+2026-10-08T11:27:22.156231+00:00,svq1,3050,Mango,Fruta,Pieza,0.44,kg,1.19,2.700,kg
+2026-10-08T11:27:22.156231+00:00,svq1,3076,Piña,Fruta,Pieza,1.9,kg,3.80,2.000,kg
+2026-10-08T11:27:22.156231+00:00,svq1,3119,Pera Conferencia,Fruta,Pieza,0.2,kg,0.50,2.500,kg
+2026-10-08T11:27:22.156231+00:00,svq1,3210,Limón,Fruta,Pieza,0.16,kg,0.42,2.600,kg
+2026-10-08T11:27:22.156231+00:00,svq1,3400,Filetes pechuga de pollo corte fino,Aves y pollo,Bandeja,0.57,kg,4.67,8.200,kg
+2026-10-08T11:27:22.156231+00:00,svq1,3515,Medio melón piel de sapo,Fruta,1/2 Pieza,1.7,kg,4.42,2.600,kg
+2026-10-08T11:27:22.156231+00:00,svq1,35390,Pañales bebé talla 4 Dodot de 9-14 kg,Toallitas y pañales,Paquete,58.0,ud,16.75,0.289,ud
+2026-10-08T11:27:22.156231+00:00,svq1,35391,Pañales bebé talla 5 Dodot de 11-16 kg,Toallitas y pañales,Paquete,54.0,ud,16.75,0.311,ud
+2026-10-08T11:27:22.156231+00:00,svq1,3653,Filetes pechuga de pollo extra tiernos,Aves y pollo,Bandeja,0.56,kg,4.31,7.700,kg
+2026-10-08T11:27:22.156231+00:00,svq1,3830,Aguacate,Fruta,Pieza,0.25,kg,1.40,5.600,kg
+2026-10-08T11:27:22.156231+00:00,svq1,3858,Aguacates,Fruta,,0.65,kg,3.45,5.300,kg
+2026-10-08T11:27:22.156231+00:00,svq1,4488,Lasaña boloñesa familiar Hacendado,Platos preparados calientes,Bandeja,0.7,kg,4.70,6.715,kg
+2026-10-08T11:27:22.156231+00:00,svq1,60308,Crema de verduras Hacendado,Gazpacho y cremas,Brik,0.5,l,1.00,2.000,L
+2026-10-08T11:27:22.156231+00:00,svq1,69173,Yuca,Verdura,Pieza,0.63,kg,2.08,3.300,kg
+2026-10-08T11:27:22.156231+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.09,kg,2.73,2.500,kg
+2026-10-08T11:27:22.156231+00:00,svq1,69312,Pimiento verde,Verdura,Pieza,0.24,kg,0.67,2.800,kg
+2026-10-08T11:27:22.156231+00:00,svq1,69326,Berenjena,Verdura,Pieza,0.39,kg,0.86,2.200,kg
+2026-10-08T11:27:22.156231+00:00,svq1,69580,Brócoli,Verdura,Pieza,0.46,kg,1.24,2.700,kg
+2026-10-08T11:27:22.156231+00:00,svq1,69584,Pepino,Verdura,Pieza,0.2,kg,0.34,1.700,kg
+2026-10-08T11:27:22.156231+00:00,svq1,69937,Tomate ensalada,Verdura,Pieza,0.23,kg,0.51,2.200,kg
+2026-10-08T11:27:22.156231+00:00,svq1,69968,Tomate canario,Verdura,Pieza,0.13,kg,0.29,2.200,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81055.1,Corvina limpia con cabeza,Pescado fresco,Pieza,1.51,kg,17.37,11.500,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81055.2,Corvina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,1.51,kg,17.37,11.500,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81055.3,Corvina a filetes,Pescado fresco,Pieza,1.51,kg,17.37,11.500,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81234.1,Dorada limpia con cabeza,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81234.2,Dorada abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81234.3,Dorada sin limpiar,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81234.4,Dorada abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81234.5,Dorada a filetes sin cabeza y sin espina,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81649.1,Salmón a rodajas,Pescado fresco,Pieza,2.61,kg,25.97,9.950,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81649.2,Salmón abierto en libro sin cabeza y sin espina,Pescado fresco,Pieza,2.61,kg,25.97,9.950,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81649.3,Salmón sin aletas y sin escamas,Pescado fresco,Pieza,2.61,kg,25.97,9.950,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81649.4,Salmón media pieza a rodajas,Pescado fresco,1/2 Pieza,1.38,kg,13.73,9.950,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,Pescado fresco,1/2 Pieza,1.38,kg,13.73,9.950,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81649.6,Salmón media pieza sin aletas y sin escamas,Pescado fresco,1/2 Pieza,1.38,kg,13.73,9.950,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81661.1,Boquerón sin limpiar,Pescado fresco,Granel,0.2,kg,0.79,3.950,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81661.2,Boquerón limpio sin cabeza,Pescado fresco,Granel,0.2,kg,0.79,3.950,kg
+2026-10-08T11:27:22.156231+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.65,kg,9.72,14.950,kg
+2026-10-08T11:27:22.156231+00:00,svq1,82850,Pulpo cocido,Pescado fresco,Bandeja,0.3,kg,10.80,36.000,kg
+2026-10-08T11:27:22.156231+00:00,svq1,8920,Surtido bombones Caja Roja Nestlé,Chocolate,Caja,0.198,kg,5.25,26.516,kg
