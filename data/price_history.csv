@@ -4989,3 +4989,45 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-10-09T11:24:10.548784+00:00,svq1,8175,Manzana roja acidulce,Fruta,Pieza,0.21,kg,0.50,2.400,kg
 2026-10-09T11:24:10.548784+00:00,svq1,8778,Refresco Fanta naranja zero azúcares añadidos,Refresco de naranja y de limón,,2.64,l,4.24,1.607,L
 2026-10-09T11:24:10.548784+00:00,svq1,8779,Refresco Fanta limón zero azúcares añadidos,Refresco de naranja y de limón,,2.64,l,4.24,1.607,L
+2026-10-10T10:41:22.654871+00:00,svq1,14484,Surtido bombones Senzza de chocolate,Chocolate,Paquete,0.33,kg,3.50,10.607,kg
+2026-10-10T10:41:22.654871+00:00,svq1,18259,Pipas de calabaza natural Hacendado peladas,Frutos secos y fruta desecada,Paquete,0.2,kg,2.20,11.000,kg
+2026-10-10T10:41:22.654871+00:00,svq1,18416,Tarta infantil deportes Hacendado congelada,Tartas y pasteles,Bandeja,1.57,kg,13.80,8.790,kg
+2026-10-10T10:41:22.654871+00:00,svq1,24350,Filete de salmón rosado salvaje con piel Hacendado ultracongelado,Pescado,Pieza,,kg,6.10,16.500,kg
+2026-10-10T10:41:22.654871+00:00,svq1,28032,Ginebra Dry Gin Seagram's,Licores,Botella,0.7,l,15.45,22.072,L
+2026-10-10T10:41:22.654871+00:00,svq1,28604,Whisky escocés Ballantine's,Licores,Botella,0.7,l,13.25,18.929,L
+2026-10-10T10:41:22.654871+00:00,svq1,3050,Mango,Fruta,Pieza,0.41,kg,1.11,2.700,kg
+2026-10-10T10:41:22.654871+00:00,svq1,3076,Piña,Fruta,Pieza,1.88,kg,3.76,2.000,kg
+2026-10-10T10:41:22.654871+00:00,svq1,3119,Pera Conferencia,Fruta,Pieza,0.19,kg,0.48,2.500,kg
+2026-10-10T10:41:22.654871+00:00,svq1,3172,Pera Limonera,Fruta,Pieza,0.24,kg,0.67,2.800,kg
+2026-10-10T10:41:22.654871+00:00,svq1,3235,Naranja de mesa,Fruta,Pieza,0.36,kg,0.90,2.500,kg
+2026-10-10T10:41:22.654871+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,3.19,kg,7.02,2.200,kg
+2026-10-10T10:41:22.654871+00:00,svq1,35785,Recambios maquinilla depilación Gillette Venus 3 hojas Comfortglide,Depilación,Caja,1.0,ud,10.60,2.650,ud
+2026-10-10T10:41:22.654871+00:00,svq1,3601,Ciruela roja,Fruta,Pieza,0.12,kg,0.42,3.500,kg
+2026-10-10T10:41:22.654871+00:00,svq1,3649,Ciruela amarilla,Fruta,Pieza,0.13,kg,0.49,3.800,kg
+2026-10-10T10:41:22.654871+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.5,kg,1.60,3.200,kg
+2026-10-10T10:41:22.654871+00:00,svq1,52645,Maquinilla de afeitar recargable Gillette Fusion Sport 5 hojas,Afeitado y cuidado para hombre,Caja,1.0,ud,9.00,9.000,ud
+2026-10-10T10:41:22.654871+00:00,svq1,52646,Recambios maquinilla de afeitar Gillette Fusion Sport 5 hojas,Afeitado y cuidado para hombre,Caja,1.0,ud,13.45,3.363,ud
+2026-10-10T10:41:22.654871+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.32,kg,3.30,2.500,kg
+2026-10-10T10:41:22.654871+00:00,svq1,69239,Batata,Verdura,Pieza,0.4,kg,1.02,2.550,kg
+2026-10-10T10:41:22.654871+00:00,svq1,69310,Pimiento rojo,Verdura,Pieza,0.32,kg,0.93,2.900,kg
+2026-10-10T10:41:22.654871+00:00,svq1,69312,Pimiento verde,Verdura,Pieza,0.26,kg,0.73,2.800,kg
+2026-10-10T10:41:22.654871+00:00,svq1,69326,Berenjena,Verdura,Pieza,0.38,kg,0.84,2.200,kg
+2026-10-10T10:41:22.654871+00:00,svq1,69339,Calabacín blanco,Verdura,Pieza,0.41,kg,0.90,2.200,kg
+2026-10-10T10:41:22.654871+00:00,svq1,69580,Brócoli,Verdura,Pieza,0.46,kg,1.24,2.700,kg
+2026-10-10T10:41:22.654871+00:00,svq1,69968,Tomate canario,Verdura,Pieza,0.12,kg,0.26,2.200,kg
+2026-10-10T10:41:22.654871+00:00,svq1,73002,Maquinillas de afeitar desechables Gillette Sensor Comfort 3 hojas,Afeitado y cuidado para hombre,Paquete,1.0,ud,5.60,1.120,ud
+2026-10-10T10:41:22.654871+00:00,svq1,81055.1,Corvina limpia con cabeza,Pescado fresco,Pieza,1.36,kg,15.64,11.500,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81055.2,Corvina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,1.36,kg,15.64,11.500,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81055.3,Corvina a filetes,Pescado fresco,Pieza,1.36,kg,15.64,11.500,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81200.1,Trucha abierta en libro con cabeza,Pescado fresco,Pieza,0.49,kg,4.39,8.950,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81200.2,Trucha abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.49,kg,4.39,8.950,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81200.3,Trucha sin aletas,Pescado fresco,Pieza,0.49,kg,4.39,8.950,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81649.1,Salmón a rodajas,Pescado fresco,Pieza,2.6,kg,25.87,9.950,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81649.2,Salmón abierto en libro sin cabeza y sin espina,Pescado fresco,Pieza,2.6,kg,25.87,9.950,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81649.3,Salmón sin aletas y sin escamas,Pescado fresco,Pieza,2.6,kg,25.87,9.950,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81649.4,Salmón media pieza a rodajas,Pescado fresco,1/2 Pieza,1.38,kg,13.73,9.950,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,Pescado fresco,1/2 Pieza,1.38,kg,13.73,9.950,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81649.6,Salmón media pieza sin aletas y sin escamas,Pescado fresco,1/2 Pieza,1.38,kg,13.73,9.950,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81661.1,Boquerón sin limpiar,Pescado fresco,Granel,0.2,kg,0.99,4.950,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81661.2,Boquerón limpio sin cabeza,Pescado fresco,Granel,0.2,kg,0.99,4.950,kg
+2026-10-10T10:41:22.654871+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.74,kg,11.06,14.950,kg
