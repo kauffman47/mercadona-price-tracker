@@ -5148,3 +5148,40 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-10-13T11:54:58.713602+00:00,svq1,87208,Filete de salmón,Pescado fresco,Bandeja,0.85,kg,17.85,21.000,kg
 2026-10-13T11:54:58.713602+00:00,svq1,87734,Merluza rebozada,Pescado fresco,Bandeja,0.23,kg,3.90,16.957,kg
 2026-10-13T11:54:58.713602+00:00,svq1,9210,Cereales copos de maíz Corn Flakes Kellogg's,Cereales,Caja,0.5,kg,3.00,6.000,kg
+2026-10-14T09:36:04.592583+00:00,svq1,18389,Serum uñas & cutículas Double Action Deliplus suaviza e hidrata,Manicura y pedicura,,0.0145,l,3.50,3.500,ud
+2026-10-14T09:36:04.592583+00:00,svq1,18390,Laca de uñas color & queratina Deliplus 159 lavanda,Manicura y pedicura,,0.011,l,2.50,2.500,ud
+2026-10-14T09:36:04.592583+00:00,svq1,18594,Chupete silicona reversible tacto suave Deliplus +0 a 6 meses,Biberón y chupete,Paquete,1.0,ud,2.90,2.900,ud
+2026-10-14T09:36:04.592583+00:00,svq1,18595,Chupete silicona reversible tacto suave Deliplus +6 a 18 meses luminiscente,Biberón y chupete,Paquete,1.0,ud,2.90,2.900,ud
+2026-10-14T09:36:04.592583+00:00,svq1,19959,Corazones de alcachofa Hacendado,Conservas de verdura y frutas,Bandeja,0.26,kg,3.00,15.000,kg
+2026-10-14T09:36:04.592583+00:00,svq1,3026,Papaya,Fruta,Pieza,0.64,kg,3.36,5.250,kg
+2026-10-14T09:36:04.592583+00:00,svq1,30501,Mandarinas,Fruta,,1.5,kg,4.13,2.754,kg
+2026-10-14T09:36:04.592583+00:00,svq1,3076,Piña,Fruta,Pieza,1.58,kg,3.16,2.000,kg
+2026-10-14T09:36:04.592583+00:00,svq1,3119,Pera Conferencia,Fruta,Pieza,0.18,kg,0.45,2.500,kg
+2026-10-14T09:36:04.592583+00:00,svq1,3172,Pera Limonera,Fruta,Pieza,0.2,kg,0.56,2.800,kg
+2026-10-14T09:36:04.592583+00:00,svq1,3238,Mandarina,Fruta,Pieza,0.13,kg,0.33,2.550,kg
+2026-10-14T09:36:04.592583+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,3.3,kg,7.26,2.200,kg
+2026-10-14T09:36:04.592583+00:00,svq1,3515,Medio melón piel de sapo,Fruta,1/2 Pieza,1.67,kg,4.34,2.600,kg
+2026-10-14T09:36:04.592583+00:00,svq1,3830,Aguacate,Fruta,Pieza,0.21,kg,1.18,5.600,kg
+2026-10-14T09:36:04.592583+00:00,svq1,3915,Granada,Fruta,Pieza,0.3,kg,0.90,3.000,kg
+2026-10-14T09:36:04.592583+00:00,svq1,5503,Mandarina,Fruta,Malla,1.0,kg,2.35,2.350,kg
+2026-10-14T09:36:04.592583+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.43,kg,3.58,2.500,kg
+2026-10-14T09:36:04.592583+00:00,svq1,69239,Batata,Verdura,Pieza,0.38,kg,0.97,2.550,kg
+2026-10-14T09:36:04.592583+00:00,svq1,69326,Berenjena,Verdura,Pieza,0.37,kg,0.81,2.200,kg
+2026-10-14T09:36:04.592583+00:00,svq1,69584,Pepino,Verdura,Pieza,0.21,kg,0.36,1.700,kg
+2026-10-14T09:36:04.592583+00:00,svq1,80771,Tortilla de patata Hacendado,Platos preparados calientes,Bandeja,0.6,kg,2.70,4.500,kg
+2026-10-14T09:36:04.592583+00:00,svq1,80895,Tortilla de patata y cebolla Hacendado,Platos preparados calientes,Bandeja,0.6,kg,2.70,4.500,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81055.1,Corvina limpia con cabeza,Pescado fresco,Pieza,1.3,kg,14.95,11.500,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81055.2,Corvina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,1.3,kg,14.95,11.500,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81055.3,Corvina a filetes,Pescado fresco,Pieza,1.3,kg,14.95,11.500,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81200.1,Trucha abierta en libro con cabeza,Pescado fresco,Pieza,0.67,kg,6.00,8.950,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81200.2,Trucha abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.67,kg,6.00,8.950,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81200.3,Trucha sin aletas,Pescado fresco,Pieza,0.67,kg,6.00,8.950,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81234.1,Dorada limpia con cabeza,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81234.2,Dorada abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81234.3,Dorada sin limpiar,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81234.4,Dorada abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81234.5,Dorada a filetes sin cabeza y sin espina,Pescado fresco,Pieza,0.53,kg,5.04,9.500,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81649.4,Salmón media pieza a rodajas,Pescado fresco,1/2 Pieza,1.33,kg,14.56,10.950,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,Pescado fresco,1/2 Pieza,1.33,kg,14.56,10.950,kg
+2026-10-14T09:36:04.592583+00:00,svq1,81649.6,Salmón media pieza sin aletas y sin escamas,Pescado fresco,1/2 Pieza,1.33,kg,14.56,10.950,kg
+2026-10-14T09:36:04.592583+00:00,svq1,8177,Manzana roja dulce,Fruta,Pieza,0.21,kg,0.42,2.000,kg
