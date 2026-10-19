@@ -5380,3 +5380,34 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-10-18T08:55:35.895942+00:00,svq1,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,Pescado fresco,1/2 Pieza,1.39,kg,15.22,10.950,kg
 2026-10-18T08:55:35.895942+00:00,svq1,81649.6,Salmón media pieza sin aletas y sin escamas,Pescado fresco,1/2 Pieza,1.39,kg,15.22,10.950,kg
 2026-10-18T08:55:35.895942+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.7,kg,10.47,14.950,kg
+2026-10-19T10:01:56.597383+00:00,svq1,10066,Batido de chocolate ColaCao Energy,Leche y bebidas vegetales,Pack-4,0.752,l,2.85,3.790,L
+2026-10-19T10:01:56.597383+00:00,svq1,10502,Leche semidesnatada Asturiana,Leche y bebidas vegetales,Botella,1.5,l,1.79,1.194,L
+2026-10-19T10:01:56.597383+00:00,svq1,10504,Leche entera Asturiana,Leche y bebidas vegetales,Pack-6,9.0,l,11.82,1.314,L
+2026-10-19T10:01:56.597383+00:00,svq1,10505,Leche semidesnatada Asturiana,Leche y bebidas vegetales,Pack-6,9.0,l,10.74,1.194,L
+2026-10-19T10:01:56.597383+00:00,svq1,10506,Leche entera Asturiana,Leche y bebidas vegetales,Botella,1.5,l,1.97,1.314,L
+2026-10-19T10:01:56.597383+00:00,svq1,12874,Tacos de pavo,Aves y pollo,Bandeja,0.57,kg,4.16,7.300,kg
+2026-10-19T10:01:56.597383+00:00,svq1,14087,Galletas tostadas Tosta Rica,Galletas,Caja,0.57,kg,2.95,5.176,kg
+2026-10-19T10:01:56.597383+00:00,svq1,14140,Galletas caramelizadas Lotus Biscoff,Galletas,Paquete,0.186,kg,1.60,8.603,kg
+2026-10-19T10:01:56.597383+00:00,svq1,14713,Barritas de avena y chocolate negro Crunchy Nature Valley,Cereales,Caja,0.21,kg,1.95,9.286,kg
+2026-10-19T10:01:56.597383+00:00,svq1,18235,Cacao soluble instantáneo Nesquik,Cacao soluble y chocolate a la taza,Paquete,0.9,kg,6.75,7.500,kg
+2026-10-19T10:01:56.597383+00:00,svq1,21985,Cacao soluble instantáneo Nesquik,Cacao soluble y chocolate a la taza,Caja,2.5,kg,12.95,5.180,kg
+2026-10-19T10:01:56.597383+00:00,svq1,23249,Empanados vegetales con proteína de soja Tivall,Platos preparados calientes,Bandeja,0.18,kg,2.80,15.556,kg
+2026-10-19T10:01:56.597383+00:00,svq1,24023,Migas de bacalao sin piel MareDeus ultracongeladas,Pescado,Paquete,,kg,5.50,18.334,kg
+2026-10-19T10:01:56.597383+00:00,svq1,24561,Semillas de chía Hacendado,Frutos secos y fruta desecada,Paquete,0.25,kg,2.05,8.200,kg
+2026-10-19T10:01:56.597383+00:00,svq1,2794,Filetes pechuga de pavo,Aves y pollo,Bandeja,0.59,kg,5.16,8.750,kg
+2026-10-19T10:01:56.597383+00:00,svq1,35266,Gelatina selección de aves gato adulto Quartett,Gato,Paquete,0.34,kg,1.60,4.706,kg
+2026-10-19T10:01:56.597383+00:00,svq1,35267,Gelatina selección de pescado gato adulto Quartett,Gato,Paquete,0.34,kg,1.60,4.706,kg
+2026-10-19T10:01:56.597383+00:00,svq1,35707,Cereales copos de trigo integral y arroz Special K Classic,Cereales,Caja,0.45,kg,2.40,5.334,kg
+2026-10-19T10:01:56.597383+00:00,svq1,35839,Salsa Original Ligeresa,"Mayonesa, ketchup y mostaza",Tarro,0.425,l,2.50,5.883,L
+2026-10-19T10:01:56.597383+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.47,kg,1.50,3.200,kg
+2026-10-19T10:01:56.597383+00:00,svq1,3914,Kaki,Fruta,Pieza,0.27,kg,0.81,3.000,kg
+2026-10-19T10:01:56.597383+00:00,svq1,60552,Trozos de pollo y verduras en salsa perros adultos Quartett,Perro,Paquete,0.4,kg,2.00,5.000,kg
+2026-10-19T10:01:56.597383+00:00,svq1,61215,Guisante fino Hacendado ultracongelado,Fruta y verdura,Paquete,1.0,kg,1.55,1.550,kg
+2026-10-19T10:01:56.597383+00:00,svq1,61279,Espinaca en porciones Hacendado ultracongelada,Fruta y verdura,Paquete,0.45,kg,0.95,2.112,kg
+2026-10-19T10:01:56.597383+00:00,svq1,66586,Cerveza especial Estrella Galicia,Cerveza,Pack-10,3.3,l,8.80,2.667,L
+2026-10-19T10:01:56.597383+00:00,svq1,69338,Calabacín verde,Verdura,Pieza,0.4,kg,0.56,1.400,kg
+2026-10-19T10:01:56.597383+00:00,svq1,81638.1,Acedía sin cabeza y sin piel oscura,Pescado fresco,Granel,0.2,kg,2.79,13.950,kg
+2026-10-19T10:01:56.597383+00:00,svq1,81638.2,Acedía sin escamas,Pescado fresco,Granel,0.2,kg,2.79,13.950,kg
+2026-10-19T10:01:56.597383+00:00,svq1,86503,Margarina Flora Original,Mantequilla y margarina,Tarrina,0.4,kg,3.19,7.975,kg
+2026-10-19T10:01:56.597383+00:00,svq1,86820,"Relleno fajitas pollo, pimientos y cebolla Hacendado ultracongelado",Fruta y verdura,Paquete,0.3,kg,1.95,6.500,kg
+2026-10-19T10:01:56.597383+00:00,svq1,8920,Surtido bombones Caja Roja Nestlé,Chocolate,Caja,0.198,kg,6.95,35.102,kg
