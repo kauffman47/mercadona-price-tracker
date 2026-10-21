@@ -5411,3 +5411,86 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-10-19T10:01:56.597383+00:00,svq1,86503,Margarina Flora Original,Mantequilla y margarina,Tarrina,0.4,kg,3.19,7.975,kg
 2026-10-19T10:01:56.597383+00:00,svq1,86820,"Relleno fajitas pollo, pimientos y cebolla Hacendado ultracongelado",Fruta y verdura,Paquete,0.3,kg,1.95,6.500,kg
 2026-10-19T10:01:56.597383+00:00,svq1,8920,Surtido bombones Caja Roja Nestlé,Chocolate,Caja,0.198,kg,6.95,35.102,kg
+2026-10-21T09:26:16.232480+00:00,svq1,13025,Macarrón grueso Hacendado,Pasta y fideos,Paquete,0.5,kg,0.95,1.900,kg
+2026-10-21T09:26:16.232480+00:00,svq1,13577,Fideo cabello de ángel Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,17943,Lote Face Beauty Deliplus,Colorete y polvos,,1.0,ud,11.00,11.000,ud
+2026-10-21T09:26:16.232480+00:00,svq1,17945,Queso grana padano Zanetti,"Queso curado, semicurado y tierno",Pieza,0.2,kg,3.15,15.750,kg
+2026-10-21T09:26:16.232480+00:00,svq1,18288,Salsa especiada y agridulce Hannibal Hacendado,Otras salsas,Bote,0.305,kg,1.80,5.902,kg
+2026-10-21T09:26:16.232480+00:00,svq1,18297,Napolitana mixta,Bollería de horno,Pieza,0.147,kg,0.90,6.123,kg
+2026-10-21T09:26:16.232480+00:00,svq1,18319,Mousse de carne y pescado Gourmet Gold gato adulto Purina,Gato,Tarrina,0.34,kg,3.35,9.853,kg
+2026-10-21T09:26:16.232480+00:00,svq1,18455,Vela perfumada Red Elixir Bosque Verde,Insecticida y ambientador,Caja,1.0,ud,1.90,1.900,ud
+2026-10-21T09:26:16.232480+00:00,svq1,18470,Desodorante stick antibacteriano Rexona antitranspirante,Desodorante,,0.05,l,2.75,5.500,100 ml
+2026-10-21T09:26:16.232480+00:00,svq1,21988,Pappardelle Hacendado,Pasta y fideos,Paquete,0.45,kg,1.50,3.334,kg
+2026-10-21T09:26:16.232480+00:00,svq1,27074,Cerveza Victoria Málaga,Cerveza,Lata,0.33,l,0.76,2.304,L
+2026-10-21T09:26:16.232480+00:00,svq1,27100,Cerveza Heineken,Cerveza,Lata,0.33,l,0.68,2.061,L
+2026-10-21T09:26:16.232480+00:00,svq1,27679,Cerveza Heineken,Cerveza,Pack-8,2.64,l,5.12,1.940,L
+2026-10-21T09:26:16.232480+00:00,svq1,28381,Licor de anís dulce La Castellana,Licores,Botella,0.7,l,9.35,13.358,L
+2026-10-21T09:26:16.232480+00:00,svq1,3026,Papaya,Fruta,Pieza,0.57,kg,2.99,5.250,kg
+2026-10-21T09:26:16.232480+00:00,svq1,3028,Manzana Golden,Fruta,Pieza,0.21,kg,0.42,2.000,kg
+2026-10-21T09:26:16.232480+00:00,svq1,3050,Mango,Fruta,Pieza,0.5,kg,1.35,2.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,3076,Piña,Fruta,Pieza,1.84,kg,3.68,2.000,kg
+2026-10-21T09:26:16.232480+00:00,svq1,3119,Pera Conferencia,Fruta,Pieza,0.17,kg,0.43,2.500,kg
+2026-10-21T09:26:16.232480+00:00,svq1,3132,Plátano macho,Fruta,Pieza,0.28,kg,0.81,2.900,kg
+2026-10-21T09:26:16.232480+00:00,svq1,3210,Limón,Fruta,Pieza,0.19,kg,0.49,2.600,kg
+2026-10-21T09:26:16.232480+00:00,svq1,3235,Naranja de mesa,Fruta,Pieza,0.35,kg,0.88,2.500,kg
+2026-10-21T09:26:16.232480+00:00,svq1,34209,Mango deshidratado Hacendado,Frutos secos y fruta desecada,Paquete,0.06,kg,1.45,24.167,kg
+2026-10-21T09:26:16.232480+00:00,svq1,34838,Nuez macadamia Hacendado tostada con sal,Frutos secos y fruta desecada,Paquete,0.1,kg,2.90,29.000,kg
+2026-10-21T09:26:16.232480+00:00,svq1,35777,Macarrón rayado integral Hacendado,Pasta y fideos,Paquete,0.5,kg,1.20,2.400,kg
+2026-10-21T09:26:16.232480+00:00,svq1,35778,Spaghetti integral Hacendado,Pasta y fideos,Paquete,0.5,kg,1.20,2.400,kg
+2026-10-21T09:26:16.232480+00:00,svq1,3649,Ciruela amarilla,Fruta,Pieza,0.15,kg,0.57,3.800,kg
+2026-10-21T09:26:16.232480+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.48,kg,1.63,3.400,kg
+2026-10-21T09:26:16.232480+00:00,svq1,3897,Lima,Fruta,Pieza,0.07,kg,0.31,4.400,kg
+2026-10-21T09:26:16.232480+00:00,svq1,39033,Zumo pura naranja Hacendado,Naranja,Pack-6,1.2,l,2.70,2.250,L
+2026-10-21T09:26:16.232480+00:00,svq1,39106,Bebida de piña Hacendado sin azúcares añadidos,Melocotón y piña,Pack-6,1.2,l,1.55,1.292,L
+2026-10-21T09:26:16.232480+00:00,svq1,3914,Kaki,Fruta,Pieza,0.23,kg,0.69,3.000,kg
+2026-10-21T09:26:16.232480+00:00,svq1,3915,Granada,Fruta,Pieza,0.42,kg,1.26,3.000,kg
+2026-10-21T09:26:16.232480+00:00,svq1,3928,Kakis,Fruta,,1.0,kg,2.70,2.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6048,Chorizo oreado,Embutido,Bandeja,0.36,kg,2.48,6.900,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6238,Hélices Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6244,Pasta tiburón Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6246,Tallarines Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6253,Fideuá Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6256,Fideo mediano Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6258,Pasta maravilla Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6260,Macarrón fino Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6261,Fideo grueso Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6277,Spaghetti fino Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6300,Macarrón al huevo Hacendado,Pasta y fideos,Paquete,0.5,kg,1.50,3.000,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6302,Spaghetti al huevo Hacendado,Pasta y fideos,Paquete,0.5,kg,1.50,3.000,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6321,Nidos al huevo Hacendado,Pasta y fideos,Paquete,0.5,kg,1.50,3.000,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6326,Macarrón Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6331,Spaghetti Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,6363,Pasta estrellas Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,66358,Cerveza Victoria Málaga,Cerveza,,3.96,l,8.88,2.243,L
+2026-10-21T09:26:16.232480+00:00,svq1,69173,Yuca,Verdura,Pieza,0.65,kg,2.15,3.300,kg
+2026-10-21T09:26:16.232480+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.14,kg,2.85,2.500,kg
+2026-10-21T09:26:16.232480+00:00,svq1,69239,Batata,Verdura,Pieza,0.42,kg,1.07,2.550,kg
+2026-10-21T09:26:16.232480+00:00,svq1,69312,Pimiento verde,Verdura,Pieza,0.28,kg,0.78,2.800,kg
+2026-10-21T09:26:16.232480+00:00,svq1,69326,Berenjena,Verdura,Pieza,0.37,kg,0.81,2.200,kg
+2026-10-21T09:26:16.232480+00:00,svq1,69339,Calabacín blanco,Verdura,Pieza,0.37,kg,0.81,2.200,kg
+2026-10-21T09:26:16.232480+00:00,svq1,69443,Pimiento verde freír,Verdura,Pieza,0.05,kg,0.13,2.500,kg
+2026-10-21T09:26:16.232480+00:00,svq1,69487,Rama de Tomates,Verdura,Granel,0.68,kg,1.84,2.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81055.1,Corvina limpia con cabeza,Pescado fresco,Pieza,1.22,kg,14.03,11.500,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81055.2,Corvina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,1.22,kg,14.03,11.500,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81055.3,Corvina a filetes,Pescado fresco,Pieza,1.22,kg,14.03,11.500,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81234.1,Dorada limpia con cabeza,Pescado fresco,Pieza,0.54,kg,5.13,9.500,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81234.2,Dorada abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,0.54,kg,5.13,9.500,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81234.3,Dorada sin limpiar,Pescado fresco,Pieza,0.54,kg,5.13,9.500,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81234.4,Dorada abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.54,kg,5.13,9.500,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81234.5,Dorada a filetes sin cabeza y sin espina,Pescado fresco,Pieza,0.54,kg,5.13,9.500,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81241.1,Lubina limpia con cabeza,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81241.2,Lubina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81241.3,Lubina sin limpiar,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81241.4,Lubina abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81241.5,Lubina a filetes sin cabeza y sin espina,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,8138,Pasta penne rigate Hacendado,Pasta y fideos,Paquete,0.5,kg,0.85,1.700,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81638.1,Acedía sin cabeza y sin piel oscura,Pescado fresco,Granel,0.2,kg,3.39,16.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81638.2,Acedía sin escamas,Pescado fresco,Granel,0.2,kg,3.39,16.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81649.1,Salmón a rodajas,Pescado fresco,Pieza,2.61,kg,28.58,10.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81649.2,Salmón abierto en libro sin cabeza y sin espina,Pescado fresco,Pieza,2.61,kg,28.58,10.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81649.3,Salmón sin aletas y sin escamas,Pescado fresco,Pieza,2.61,kg,28.58,10.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81649.4,Salmón media pieza a rodajas,Pescado fresco,1/2 Pieza,1.41,kg,15.44,10.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,Pescado fresco,1/2 Pieza,1.41,kg,15.44,10.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81649.6,Salmón media pieza sin aletas y sin escamas,Pescado fresco,1/2 Pieza,1.41,kg,15.44,10.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.71,kg,10.61,14.950,kg
+2026-10-21T09:26:16.232480+00:00,svq1,8177,Manzana roja dulce,Fruta,Pieza,0.19,kg,0.38,2.000,kg
