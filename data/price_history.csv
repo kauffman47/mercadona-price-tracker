@@ -5559,3 +5559,48 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-10-22T09:29:19.159882+00:00,svq1,81649.6,Salmón media pieza sin aletas y sin escamas,Pescado fresco,1/2 Pieza,1.4,kg,15.33,10.950,kg
 2026-10-22T09:29:19.159882+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.69,kg,10.32,14.950,kg
 2026-10-22T09:29:19.159882+00:00,svq1,8820,Surtido de caramelos Mix El Conde Drácula y Zombie Lokopop Cerdán,Chicles y caramelos,Paquete,0.15,kg,1.00,6.667,kg
+2026-10-23T09:25:29.417829+00:00,svq1,11021,Café en grano Hacendado descafeinado,Café molido y en grano,Paquete,0.5,kg,6.25,12.500,kg
+2026-10-23T09:25:29.417829+00:00,svq1,14727,Aceite de oliva virgen extra Hacendado,"Aceite, vinagre y sal",Garrafa,5.0,l,18.85,3.770,L
+2026-10-23T09:25:29.417829+00:00,svq1,17793,Pañales bebé talla 5 Deliplus de 14-18 kg,Toallitas y pañales,,108.0,ud,20.00,0.186,ud
+2026-10-23T09:25:29.417829+00:00,svq1,18136,Pintalabios Creamy Deliplus 201 nude,Labios,,1.0,ud,4.65,4.650,ud
+2026-10-23T09:25:29.417829+00:00,svq1,18137,Pintalabios Creamy Deliplus 202 rosa cálido,Labios,,1.0,ud,4.65,4.650,ud
+2026-10-23T09:25:29.417829+00:00,svq1,18138,Pintalabios Creamy Deliplus 203 nude rosado,Labios,,1.0,ud,4.65,4.650,ud
+2026-10-23T09:25:29.417829+00:00,svq1,18139,Pintalabios Creamy Deliplus 204 rosa pétalo,Labios,,1.0,ud,4.65,4.650,ud
+2026-10-23T09:25:29.417829+00:00,svq1,18140,Pintalabios Creamy Deliplus 205 marrón crema,Labios,,1.0,ud,4.65,4.650,ud
+2026-10-23T09:25:29.417829+00:00,svq1,18141,Pintalabios Creamy Deliplus 206 ciruela,Labios,,1.0,ud,4.65,4.650,ud
+2026-10-23T09:25:29.417829+00:00,svq1,18142,Pintalabios Creamy Deliplus 207 rojo suave,Labios,,1.0,ud,4.65,4.650,ud
+2026-10-23T09:25:29.417829+00:00,svq1,18143,Pintalabios Creamy Deliplus 208 marsala,Labios,,1.0,ud,4.65,4.650,ud
+2026-10-23T09:25:29.417829+00:00,svq1,18165,Bocaditos de carne y pescado en salsa gato adulto Delikuit,Gato,Paquete,2.04,kg,5.75,2.819,kg
+2026-10-23T09:25:29.417829+00:00,svq1,18291,Bebida energética Zero Nefara Energy drink Hacendado,Isotónico y energético,Lata,0.5,l,1.00,2.000,L
+2026-10-23T09:25:29.417829+00:00,svq1,21852,Bayeta multiusos Bosque Verde microfibra,"Estropajo, bayeta y guantes",Paquete,1.0,ud,0.95,0.950,ud
+2026-10-23T09:25:29.417829+00:00,svq1,24529,Vino tinto roble Pata Negra DO Ribera del Duero,Vino tinto,Botella,0.75,l,2.95,3.934,L
+2026-10-23T09:25:29.417829+00:00,svq1,3026,Papaya,Fruta,Pieza,0.61,kg,3.20,5.250,kg
+2026-10-23T09:25:29.417829+00:00,svq1,3050,Mango,Fruta,Pieza,0.51,kg,1.38,2.700,kg
+2026-10-23T09:25:29.417829+00:00,svq1,3076,Piña,Fruta,Pieza,2.01,kg,4.02,2.000,kg
+2026-10-23T09:25:29.417829+00:00,svq1,3119,Pera Conferencia,Fruta,Pieza,0.17,kg,0.43,2.500,kg
+2026-10-23T09:25:29.417829+00:00,svq1,3172,Pera Limonera,Fruta,Pieza,0.19,kg,0.53,2.800,kg
+2026-10-23T09:25:29.417829+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,3.35,kg,7.37,2.200,kg
+2026-10-23T09:25:29.417829+00:00,svq1,3515,Medio melón piel de sapo,Fruta,1/2 Pieza,1.8,kg,4.68,2.600,kg
+2026-10-23T09:25:29.417829+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.45,kg,1.53,3.400,kg
+2026-10-23T09:25:29.417829+00:00,svq1,3915,Granada,Fruta,Pieza,0.41,kg,1.23,3.000,kg
+2026-10-23T09:25:29.417829+00:00,svq1,69173,Yuca,Verdura,Pieza,0.63,kg,2.08,3.300,kg
+2026-10-23T09:25:29.417829+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.1,kg,2.75,2.500,kg
+2026-10-23T09:25:29.417829+00:00,svq1,69239,Batata,Verdura,Pieza,0.41,kg,0.70,1.700,kg
+2026-10-23T09:25:29.417829+00:00,svq1,69312,Pimiento verde,Verdura,Pieza,0.27,kg,0.76,2.800,kg
+2026-10-23T09:25:29.417829+00:00,svq1,69326,Berenjena,Verdura,Pieza,0.38,kg,0.84,2.200,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81055.1,Corvina limpia con cabeza,Pescado fresco,Pieza,1.3,kg,14.95,11.500,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81055.2,Corvina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,1.3,kg,14.95,11.500,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81055.3,Corvina a filetes,Pescado fresco,Pieza,1.3,kg,14.95,11.500,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81200.1,Trucha abierta en libro con cabeza,Pescado fresco,Pieza,0.57,kg,5.10,8.950,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81200.2,Trucha abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.57,kg,5.10,8.950,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81200.3,Trucha sin aletas,Pescado fresco,Pieza,0.57,kg,5.10,8.950,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81234.1,Dorada limpia con cabeza,Pescado fresco,Pieza,0.56,kg,5.32,9.500,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81234.2,Dorada abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,0.56,kg,5.32,9.500,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81234.3,Dorada sin limpiar,Pescado fresco,Pieza,0.56,kg,5.32,9.500,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81234.4,Dorada abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.56,kg,5.32,9.500,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81234.5,Dorada a filetes sin cabeza y sin espina,Pescado fresco,Pieza,0.56,kg,5.32,9.500,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81649.4,Salmón media pieza a rodajas,Pescado fresco,1/2 Pieza,1.41,kg,15.44,10.950,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,Pescado fresco,1/2 Pieza,1.41,kg,15.44,10.950,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81649.6,Salmón media pieza sin aletas y sin escamas,Pescado fresco,1/2 Pieza,1.41,kg,15.44,10.950,kg
+2026-10-23T09:25:29.417829+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.71,kg,10.61,14.950,kg
+2026-10-23T09:25:29.417829+00:00,svq1,9445,Barritas con proteínas sabor coco y chocolate Enervit Sport,Cereales,Caja,0.12,kg,2.95,24.584,kg
