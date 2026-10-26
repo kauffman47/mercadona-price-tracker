@@ -5701,3 +5701,80 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-10-25T09:13:42.916612+00:00,svq1,85745,Cortadillo de cabello de Ángel La Muralla,Bollería envasada,,0.057,kg,0.24,4.200,kg
 2026-10-25T09:13:42.916612+00:00,svq1,85780,Mantecado de limón sin azúcar añadido La Muralla,Bollería envasada,,0.04,kg,0.17,4.200,kg
 2026-10-25T09:13:42.916612+00:00,svq1,85845,Mantecado de cacao sin gluten La Muralla,Bollería envasada,,0.04,kg,0.17,4.200,kg
+2026-10-26T10:15:42.650076+00:00,svq1,10362,Fruta + leche tropical Bifrutas,Fruta variada,,0.99,l,2.59,2.617,L
+2026-10-26T10:15:42.650076+00:00,svq1,11547,Pan de higo con almendras Villacruz,Frutos secos y fruta desecada,,0.2,kg,2.35,11.750,kg
+2026-10-26T10:15:42.650076+00:00,svq1,11688,Refresco té sabor limón Fuze Tea,Refresco de té y sin gas,Botella,1.5,l,1.49,0.994,L
+2026-10-26T10:15:42.650076+00:00,svq1,11785,Café en cápsula cortado Dolce Gusto,Café cápsula y monodosis,Caja,0.1008,kg,3.95,0.247,ud
+2026-10-26T10:15:42.650076+00:00,svq1,11801,Café con leche en cápsula Dolce Gusto,Café cápsula y monodosis,Caja,0.16,kg,3.95,0.247,ud
+2026-10-26T10:15:42.650076+00:00,svq1,11855,Café molido descafeinado natural Saimaza,Café molido y en grano,Paquete,0.25,kg,3.50,14.000,kg
+2026-10-26T10:15:42.650076+00:00,svq1,11869,Café en cápsula descafeinado espresso intenso Dolce Gusto,Café cápsula y monodosis,Caja,0.0992,kg,3.95,0.247,ud
+2026-10-26T10:15:42.650076+00:00,svq1,11918,Café en cápsula ristretto napoli Dolce Gusto,Café cápsula y monodosis,Caja,0.128,kg,3.95,0.247,ud
+2026-10-26T10:15:42.650076+00:00,svq1,11931,Café en cápsula espresso intenso Dolce Gusto,Café cápsula y monodosis,Caja,0.112,kg,3.95,0.247,ud
+2026-10-26T10:15:42.650076+00:00,svq1,12151,Chocolate con leche Milka,Chocolate,Tableta,0.15,kg,1.95,13.000,kg
+2026-10-26T10:15:42.650076+00:00,svq1,13817,Refresco Fanta limón,Refresco de naranja y de limón,Pack-9,2.97,l,6.93,2.334,L
+2026-10-26T10:15:42.650076+00:00,svq1,14133,Barritas de galleta bañadas en chocolate con leche Chips Ahoy,Galletas,Caja,0.14,kg,1.50,10.715,kg
+2026-10-26T10:15:42.650076+00:00,svq1,14248,Turrón imperial de cacahuete Hacendado,Turrones,Tableta,0.2,kg,1.50,7.500,kg
+2026-10-26T10:15:42.650076+00:00,svq1,14249,Turrón crema de cacahuete Hacendado,Turrones,Tableta,0.2,kg,1.50,7.500,kg
+2026-10-26T10:15:42.650076+00:00,svq1,15847,Turrón blando de almendras Hacendado 0% azúcares añadidos,Turrones,Tableta,0.2,kg,3.00,15.000,kg
+2026-10-26T10:15:42.650076+00:00,svq1,15848,Turrón duro de almendras Hacendado 0% azúcares añadidos,Turrones,Tableta,0.2,kg,3.00,15.000,kg
+2026-10-26T10:15:42.650076+00:00,svq1,15860,Figuritas de mazapán Hacendado,Bollería envasada,Paquete,0.2,kg,2.30,11.500,kg
+2026-10-26T10:15:42.650076+00:00,svq1,15861,Mazapán de Soto Hacendado,Bollería envasada,Paquete,0.2,kg,3.35,16.750,kg
+2026-10-26T10:15:42.650076+00:00,svq1,15909,Margarina Flora Proactiv,Mantequilla y margarina,Tarrina,0.225,kg,2.69,11.956,kg
+2026-10-26T10:15:42.650076+00:00,svq1,17572,Pan tostado fino con sésamo y sal marina Delicate Crisp Wasa,Pan tostado y rallado,Paquete,0.19,kg,1.80,9.474,kg
+2026-10-26T10:15:42.650076+00:00,svq1,18234,Refresco Fanta naranja,Refresco de naranja y de limón,Botella,1.25,l,1.55,1.240,L
+2026-10-26T10:15:42.650076+00:00,svq1,24547,Bebida energética Red Bull,Isotónico y energético,,2.0,l,10.64,5.320,L
+2026-10-26T10:15:42.650076+00:00,svq1,26997,Refresco Coca-Cola zero azúcar zero cafeína,Refresco de cola,,3.96,l,11.16,2.819,L
+2026-10-26T10:15:42.650076+00:00,svq1,27099,Agua mineral grande Nestlé Aquarel,Agua,,9.0,l,3.84,0.427,L
+2026-10-26T10:15:42.650076+00:00,svq1,27184,Refresco Coca-Cola light,Refresco de cola,Pack-9,2.97,l,8.37,2.819,L
+2026-10-26T10:15:42.650076+00:00,svq1,27216,Agua mineral grande Lanjarón,Agua,Botella,1.5,l,0.63,0.420,L
+2026-10-26T10:15:42.650076+00:00,svq1,27232,Agua mineral grande Nestlé Aquarel,Agua,Botella,1.5,l,0.64,0.427,L
+2026-10-26T10:15:42.650076+00:00,svq1,27291,Agua mineral grande Lanjarón,Agua,,9.0,l,3.60,0.400,L
+2026-10-26T10:15:42.650076+00:00,svq1,27321,Refresco Coca-Cola,Refresco de cola,Pack-12,3.96,l,11.16,2.819,L
+2026-10-26T10:15:42.650076+00:00,svq1,27426,Refresco Coca-Cola zero azúcar,Refresco de cola,,3.96,l,11.16,2.819,L
+2026-10-26T10:15:42.650076+00:00,svq1,27479,Agua mineral grande Lanjarón,Agua,Garrafa,6.25,l,1.89,0.303,L
+2026-10-26T10:15:42.650076+00:00,svq1,27487,Tónica Zero Schweppes,Tónica y bitter,,2.64,l,7.68,2.910,L
+2026-10-26T10:15:42.650076+00:00,svq1,27502,Refresco Fanta naranja,Refresco de naranja y de limón,Lata,0.33,l,0.80,2.425,L
+2026-10-26T10:15:42.650076+00:00,svq1,27510,Refresco Fanta naranja zero azúcares añadidos,Refresco de naranja y de limón,Lata,0.33,l,0.80,2.425,L
+2026-10-26T10:15:42.650076+00:00,svq1,27571,Refresco Fanta naranja,Refresco de naranja y de limón,Pack-9,2.97,l,6.93,2.334,L
+2026-10-26T10:15:42.650076+00:00,svq1,27602,Refresco Fanta limón,Refresco de naranja y de limón,Lata,0.33,l,0.80,2.425,L
+2026-10-26T10:15:42.650076+00:00,svq1,27608,Refresco Fanta limón zero azúcares añadidos,Refresco de naranja y de limón,Lata,0.33,l,0.80,2.425,L
+2026-10-26T10:15:42.650076+00:00,svq1,27666,Tónica original Schweppes,Tónica y bitter,Pack-8,2.64,l,7.68,2.910,L
+2026-10-26T10:15:42.650076+00:00,svq1,27905,Bebida energética Red Bull,Isotónico y energético,Lata,0.25,l,1.69,6.760,L
+2026-10-26T10:15:42.650076+00:00,svq1,28032,Ginebra Dry Gin Seagram's,Licores,Botella,0.7,l,16.50,23.572,L
+2026-10-26T10:15:42.650076+00:00,svq1,28119,Bebida energética Monster Energy Ultra zero azúcar,Isotónico y energético,Lata,0.5,l,1.45,2.900,L
+2026-10-26T10:15:42.650076+00:00,svq1,28401,Vermouth rojo Martini,Licores,Botella,1.0,l,11.65,11.650,L
+2026-10-26T10:15:42.650076+00:00,svq1,28604,Whisky escocés Ballantine's,Licores,Botella,0.7,l,13.95,19.929,L
+2026-10-26T10:15:42.650076+00:00,svq1,28610,Whisky escocés Red Label Johnnie Walker,Licores,Botella,0.7,l,15.50,22.143,L
+2026-10-26T10:15:42.650076+00:00,svq1,28613,Whisky escocés J&B,Licores,Botella,0.7,l,11.95,17.072,L
+2026-10-26T10:15:42.650076+00:00,svq1,28670,Bebida energética Monster Energy Ultra zero azúcar,Isotónico y energético,,2.0,l,5.28,2.640,L
+2026-10-26T10:15:42.650076+00:00,svq1,28712,Ginebra London Dry Gin Beefeater,Licores,Botella,0.7,l,13.95,19.929,L
+2026-10-26T10:15:42.650076+00:00,svq1,28775,Ginebra London Dry Gin Tanqueray,Licores,Botella,0.7,l,14.95,21.358,L
+2026-10-26T10:15:42.650076+00:00,svq1,29604,Bebida isotónica naranja Aquarius,Isotónico y energético,Pack-8,2.64,l,6.88,2.607,L
+2026-10-26T10:15:42.650076+00:00,svq1,29605,Bebida isotónica limón Aquarius,Isotónico y energético,Pack-8,2.64,l,6.88,2.607,L
+2026-10-26T10:15:42.650076+00:00,svq1,29624,Bebida isotónica naranja Aquarius,Isotónico y energético,Lata,0.33,l,0.89,2.697,L
+2026-10-26T10:15:42.650076+00:00,svq1,29625,Bebida isotónica limón Aquarius,Isotónico y energético,Lata,0.33,l,0.89,2.697,L
+2026-10-26T10:15:42.650076+00:00,svq1,3313,Uva blanca sin semillas,Fruta,Bandeja,0.6,kg,2.76,4.600,kg
+2026-10-26T10:15:42.650076+00:00,svq1,33555,Aperitivo de patata sabor original Pringles,Patatas fritas y snacks,Bote,0.165,kg,2.65,16.061,kg
+2026-10-26T10:15:42.650076+00:00,svq1,33556,Aperitivo de patata sabor crema agria y cebolla Pringles,Patatas fritas y snacks,Bote,0.165,kg,2.65,16.061,kg
+2026-10-26T10:15:42.650076+00:00,svq1,36013,Pan de Cádiz Hacendado,Bollería envasada,Caja,0.25,kg,3.05,12.200,kg
+2026-10-26T10:15:42.650076+00:00,svq1,36020,Turrón blando de Jijona Antiu Xixona,Turrones,Tableta,0.25,kg,4.35,17.400,kg
+2026-10-26T10:15:42.650076+00:00,svq1,36029,Turrón de guirlache Hacendado,Turrones,Tableta,0.15,kg,2.50,16.667,kg
+2026-10-26T10:15:42.650076+00:00,svq1,36203,Barquillos rellenos de crema turrón Hacendado,Galletas,Bote,0.2,kg,2.25,11.250,kg
+2026-10-26T10:15:42.650076+00:00,svq1,36333,Turrón de yema tostada Hacendado,Turrones,Tableta,0.25,kg,2.75,11.000,kg
+2026-10-26T10:15:42.650076+00:00,svq1,36334,Turrón de fruta Hacendado,Turrones,Tableta,0.25,kg,2.75,11.000,kg
+2026-10-26T10:15:42.650076+00:00,svq1,36421,Almendras rellenas de turrón Hacendado,Bollería envasada,Paquete,0.15,kg,2.75,18.334,kg
+2026-10-26T10:15:42.650076+00:00,svq1,3819,Plátano de Canarias IGP,Fruta,Pieza,0.17,kg,0.51,3.000,kg
+2026-10-26T10:15:42.650076+00:00,svq1,3914,Kaki,Fruta,Pieza,0.26,kg,0.56,2.150,kg
+2026-10-26T10:15:42.650076+00:00,svq1,3928,Kakis,Fruta,,1.0,kg,2.15,2.150,kg
+2026-10-26T10:15:42.650076+00:00,svq1,51073,Queso untar original Philadelphia,"Queso untable, fresco y especialidades",Tarrina,0.27,kg,1.95,7.223,kg
+2026-10-26T10:15:42.650076+00:00,svq1,51079,Queso untar light Philadelphia,"Queso untable, fresco y especialidades",Tarrina,0.27,kg,1.95,7.223,kg
+2026-10-26T10:15:42.650076+00:00,svq1,52426,Alas de pollo barbacoa congeladas,Carne congelada,Paquete,0.75,kg,3.50,4.667,kg
+2026-10-26T10:15:42.650076+00:00,svq1,67835,Torta imperial Hacendado,Turrones,Caja,0.18,kg,2.85,15.834,kg
+2026-10-26T10:15:42.650076+00:00,svq1,69121,Lechugas corazón romana,Lechuga y ensalada preparada,,2.0,ud,1.85,0.925,ud
+2026-10-26T10:15:42.650076+00:00,svq1,69584,Pepino,Verdura,Pieza,0.2,kg,0.37,1.850,kg
+2026-10-26T10:15:42.650076+00:00,svq1,81638.1,Acedía sin cabeza y sin piel oscura,Pescado fresco,Granel,0.2,kg,3.19,15.950,kg
+2026-10-26T10:15:42.650076+00:00,svq1,81638.2,Acedía sin escamas,Pescado fresco,Granel,0.2,kg,3.19,15.950,kg
+2026-10-26T10:15:42.650076+00:00,svq1,87095,Pestiños de miel Hacendado,Bollería de horno,Bandeja,0.24,kg,2.60,10.834,kg
+2026-10-26T10:15:42.650076+00:00,svq1,8778,Refresco Fanta naranja zero azúcares añadidos,Refresco de naranja y de limón,,2.64,l,6.16,2.334,L
+2026-10-26T10:15:42.650076+00:00,svq1,8779,Refresco Fanta limón zero azúcares añadidos,Refresco de naranja y de limón,,2.64,l,6.16,2.334,L
+2026-10-26T10:15:42.650076+00:00,svq1,9408,Leche de continuación en polvo 2 Nidina Nestlé,Alimentación infantil,Bote,0.8,kg,14.95,18.688,kg
