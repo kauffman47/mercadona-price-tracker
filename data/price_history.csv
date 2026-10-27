@@ -5778,3 +5778,95 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-10-26T10:15:42.650076+00:00,svq1,8778,Refresco Fanta naranja zero azúcares añadidos,Refresco de naranja y de limón,,2.64,l,6.16,2.334,L
 2026-10-26T10:15:42.650076+00:00,svq1,8779,Refresco Fanta limón zero azúcares añadidos,Refresco de naranja y de limón,,2.64,l,6.16,2.334,L
 2026-10-26T10:15:42.650076+00:00,svq1,9408,Leche de continuación en polvo 2 Nidina Nestlé,Alimentación infantil,Bote,0.8,kg,14.95,18.688,kg
+2026-10-27T09:53:34.294317+00:00,svq1,12431,Chocolatinas de chocolate negro Royal Mints 49% rellenas de crema sabor a menta,Chocolate,Caja,0.2,kg,2.40,12.000,kg
+2026-10-27T09:53:34.294317+00:00,svq1,13816,Refresco Coca-Cola zero azúcar,Refresco de cola,Botella,1.25,l,1.69,1.352,L
+2026-10-27T09:53:34.294317+00:00,svq1,14250,Turrón de chocolate negro crujiente Hacendado,Turrones,Tableta,0.2,kg,2.20,11.000,kg
+2026-10-27T09:53:34.294317+00:00,svq1,14468,Surtido bombones de chocolate Belga Hacendado,Chocolate,Caja,0.21,kg,4.60,21.905,kg
+2026-10-27T09:53:34.294317+00:00,svq1,15137,Porras Hacendado congeladas,Tartas y churros,Paquete,0.24,kg,2.05,8.542,kg
+2026-10-27T09:53:34.294317+00:00,svq1,15901,Turrón de chocolate Cream Avellana Hacendado con galleta crujiente,Turrones,Tableta,0.14,kg,2.00,14.286,kg
+2026-10-27T09:53:34.294317+00:00,svq1,17640,Pasta fusilloni vegetal Hacendado,Pasta y fideos,Paquete,0.5,kg,1.15,2.300,kg
+2026-10-27T09:53:34.294317+00:00,svq1,17671,Café en cápsula sabor Biscuit Hacendado,Café cápsula y monodosis,Caja,0.05,kg,2.40,0.240,ud
+2026-10-27T09:53:34.294317+00:00,svq1,17707,Refresco Coca-Cola zero azúcar zero cafeína,Refresco de cola,Botella,1.25,l,1.69,1.352,L
+2026-10-27T09:53:34.294317+00:00,svq1,18240,Bombones de chocolate con leche Cream Avellana Senzza,Chocolate,Paquete,0.135,kg,2.20,16.297,kg
+2026-10-27T09:53:34.294317+00:00,svq1,18592,Biberón 360 ml tetina silicona tres posiciones Deliplus +1 mes,Biberón y chupete,,1.0,ud,4.40,4.400,ud
+2026-10-27T09:53:34.294317+00:00,svq1,18593,Biberón 150 ml tetina silicona flujo lento anticólicos Deliplus +0 meses,Biberón y chupete,,1.0,ud,3.80,3.800,ud
+2026-10-27T09:53:34.294317+00:00,svq1,18787,Crema de galleta caramelizada Lotus Biscoff,Chocolate,Tarro,0.4,kg,2.50,6.250,kg
+2026-10-27T09:53:34.294317+00:00,svq1,22099,Surtido de mini turrones Hacendado,Turrones,Paquete,0.311,kg,4.95,15.917,kg
+2026-10-27T09:53:34.294317+00:00,svq1,22838,Surtido bombones Senzza de chocolate con leche 0% azúcares añadidos,Chocolate,Paquete,0.125,kg,3.20,25.600,kg
+2026-10-27T09:53:34.294317+00:00,svq1,27074,Cerveza Victoria Málaga,Cerveza,Lata,0.33,l,0.64,1.940,L
+2026-10-27T09:53:34.294317+00:00,svq1,27342,Refresco Coca-Cola,Refresco de cola,Botella,2.0,l,2.35,1.175,L
+2026-10-27T09:53:34.294317+00:00,svq1,27348,Refresco Coca-Cola,Refresco de cola,Pack-2,4.0,l,4.50,1.125,L
+2026-10-27T09:53:34.294317+00:00,svq1,27445,Refresco Coca-Cola zero azúcar,Refresco de cola,Botella,2.0,l,2.35,1.175,L
+2026-10-27T09:53:34.294317+00:00,svq1,27449,Refresco Coca-Cola zero azúcar,Refresco de cola,,4.0,l,4.50,1.125,L
+2026-10-27T09:53:34.294317+00:00,svq1,27462,Refresco Coca-Cola zero azúcar zero cafeína,Refresco de cola,Botella,2.0,l,2.35,1.175,L
+2026-10-27T09:53:34.294317+00:00,svq1,28113,Refresco Coca-Cola,Refresco de cola,Pack-4,2.0,l,6.00,3.000,L
+2026-10-27T09:53:34.294317+00:00,svq1,28115,Refresco Coca-Cola zero azúcar,Refresco de cola,,2.0,l,6.00,3.000,L
+2026-10-27T09:53:34.294317+00:00,svq1,28180,Refresco Coca-Cola zero azúcar zero cafeína,Refresco de cola,,4.0,l,4.50,1.125,L
+2026-10-27T09:53:34.294317+00:00,svq1,28181,Refresco Coca-Cola,Refresco de cola,Botella,1.25,l,1.69,1.352,L
+2026-10-27T09:53:34.294317+00:00,svq1,29165,Harina de maíz blanco precocida Hacendado,Harina y preparado repostería,Paquete,1.0,kg,1.70,1.700,kg
+2026-10-27T09:53:34.294317+00:00,svq1,29360,Refresco Coca-Cola,Refresco de cola,Botella,0.5,l,1.60,3.200,L
+2026-10-27T09:53:34.294317+00:00,svq1,29361,Refresco Coca-Cola zero azúcar,Refresco de cola,Botella,0.5,l,1.60,3.200,L
+2026-10-27T09:53:34.294317+00:00,svq1,3026,Papaya,Fruta,Pieza,0.61,kg,3.20,5.250,kg
+2026-10-27T09:53:34.294317+00:00,svq1,3050,Mango,Fruta,Pieza,0.63,kg,1.70,2.700,kg
+2026-10-27T09:53:34.294317+00:00,svq1,3076,Piña,Fruta,Pieza,2.0,kg,4.00,2.000,kg
+2026-10-27T09:53:34.294317+00:00,svq1,3172,Pera Limonera,Fruta,Pieza,0.16,kg,0.45,2.800,kg
+2026-10-27T09:53:34.294317+00:00,svq1,3210,Limón,Fruta,Pieza,0.17,kg,0.44,2.600,kg
+2026-10-27T09:53:34.294317+00:00,svq1,3235,Naranja de mesa,Fruta,Pieza,0.31,kg,0.78,2.500,kg
+2026-10-27T09:53:34.294317+00:00,svq1,3321,Uva roja sin semillas,Fruta,Bandeja,0.6,kg,2.76,4.600,kg
+2026-10-27T09:53:34.294317+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,3.03,kg,6.67,2.200,kg
+2026-10-27T09:53:34.294317+00:00,svq1,36012,Turrón de chocolate con leche y cacahuete Hacendado con miel y caramelo troceado,Turrones,Tableta,0.25,kg,2.00,8.000,kg
+2026-10-27T09:53:34.294317+00:00,svq1,36030,Turrón tres chocolates con trozos de galleta Hacendado,Turrones,Tableta,0.15,kg,2.00,13.334,kg
+2026-10-27T09:53:34.294317+00:00,svq1,36033,Turrón de chocolate negro con crema de yogur y frutos silvestres Hacendado,Turrones,Tableta,0.15,kg,2.00,13.334,kg
+2026-10-27T09:53:34.294317+00:00,svq1,36204,Barquillos rellenos de crema de chocolate Hacendado,Galletas,Bote,0.2,kg,2.25,11.250,kg
+2026-10-27T09:53:34.294317+00:00,svq1,36307,Trufas clásicas al cacao Hacendado,Chocolate,Caja,0.25,kg,2.15,8.600,kg
+2026-10-27T09:53:34.294317+00:00,svq1,36313,Turrón de chocolate con almendras Hacendado,Turrones,Tableta,0.25,kg,2.70,10.800,kg
+2026-10-27T09:53:34.294317+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.44,kg,1.50,3.400,kg
+2026-10-27T09:53:34.294317+00:00,svq1,3914,Kaki,Fruta,Pieza,0.24,kg,0.52,2.150,kg
+2026-10-27T09:53:34.294317+00:00,svq1,3915,Granada,Fruta,Pieza,0.3,kg,0.90,3.000,kg
+2026-10-27T09:53:34.294317+00:00,svq1,52447,Naranja confitada Choco Orange bañada con chocolate negro Hacendado,Chocolate,Caja,0.15,kg,2.60,17.334,kg
+2026-10-27T09:53:34.294317+00:00,svq1,6245,Spaghetti Hacendado,Pasta y fideos,Paquete,1.0,kg,1.20,1.200,kg
+2026-10-27T09:53:34.294317+00:00,svq1,6250,Macarrón Hacendado,Pasta y fideos,Paquete,1.0,kg,1.20,1.200,kg
+2026-10-27T09:53:34.294317+00:00,svq1,6305,Pajaritas vegetales Hacendado,Pasta y fideos,Paquete,0.5,kg,1.00,2.000,kg
+2026-10-27T09:53:34.294317+00:00,svq1,6344,Hélices con vegetales Hacendado,Pasta y fideos,Paquete,1.0,kg,1.60,1.600,kg
+2026-10-27T09:53:34.294317+00:00,svq1,6371,Pasta trottole vegetales Hacendado,Pasta y fideos,Paquete,0.5,kg,1.15,2.300,kg
+2026-10-27T09:53:34.294317+00:00,svq1,66358,Cerveza Victoria Málaga,Cerveza,,3.96,l,6.24,1.576,L
+2026-10-27T09:53:34.294317+00:00,svq1,69066,Patata,Verdura,Pieza,0.23,kg,0.44,1.900,kg
+2026-10-27T09:53:34.294317+00:00,svq1,69173,Yuca,Verdura,Pieza,0.64,kg,2.11,3.300,kg
+2026-10-27T09:53:34.294317+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.09,kg,2.73,2.500,kg
+2026-10-27T09:53:34.294317+00:00,svq1,69487,Rama de Tomates,Verdura,Granel,0.71,kg,1.92,2.700,kg
+2026-10-27T09:53:34.294317+00:00,svq1,69580,Brócoli,Verdura,Pieza,0.48,kg,1.10,2.300,kg
+2026-10-27T09:53:34.294317+00:00,svq1,7307,Extracto original de buey Bovril,Otras salsas,Tarro,0.125,kg,3.15,25.200,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81055.1,Corvina limpia con cabeza,Pescado fresco,Pieza,0.97,kg,11.16,11.500,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81055.2,Corvina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,0.97,kg,11.16,11.500,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81055.3,Corvina a filetes,Pescado fresco,Pieza,0.97,kg,11.16,11.500,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81200.1,Trucha abierta en libro con cabeza,Pescado fresco,Pieza,0.47,kg,4.21,8.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81200.2,Trucha abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.47,kg,4.21,8.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81200.3,Trucha sin aletas,Pescado fresco,Pieza,0.47,kg,4.21,8.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81241.1,Lubina limpia con cabeza,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81241.2,Lubina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81241.3,Lubina sin limpiar,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81241.4,Lubina abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81241.5,Lubina a filetes sin cabeza y sin espina,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81649.1,Salmón a rodajas,Pescado fresco,Pieza,2.51,kg,27.48,10.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81649.2,Salmón abierto en libro sin cabeza y sin espina,Pescado fresco,Pieza,2.51,kg,27.48,10.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81649.3,Salmón sin aletas y sin escamas,Pescado fresco,Pieza,2.51,kg,27.48,10.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81649.4,Salmón media pieza a rodajas,Pescado fresco,1/2 Pieza,1.32,kg,14.45,10.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,Pescado fresco,1/2 Pieza,1.32,kg,14.45,10.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,81649.6,Salmón media pieza sin aletas y sin escamas,Pescado fresco,1/2 Pieza,1.32,kg,14.45,10.950,kg
+2026-10-27T09:53:34.294317+00:00,svq1,85701,Mantecado casero La Muralla,Bollería envasada,,0.05,kg,0.30,5.900,kg
+2026-10-27T09:53:34.294317+00:00,svq1,85705,Mantecado de coco La Muralla,Bollería envasada,,0.04,kg,0.24,5.900,kg
+2026-10-27T09:53:34.294317+00:00,svq1,85708,Polvorón de almendra La Muralla,Bollería envasada,,0.04,kg,0.24,5.900,kg
+2026-10-27T09:53:34.294317+00:00,svq1,85709,Mantecado de cacao La Muralla,Bollería envasada,,0.04,kg,0.24,5.900,kg
+2026-10-27T09:53:34.294317+00:00,svq1,85713,Hojaldrada La Muralla,Bollería envasada,,0.03,kg,0.18,5.900,kg
+2026-10-27T09:53:34.294317+00:00,svq1,85715,Hojaldrada al chocolate La Muralla,Bollería envasada,,0.045,kg,0.27,5.900,kg
+2026-10-27T09:53:34.294317+00:00,svq1,85716,Alfajor de almendra La Muralla,Bollería envasada,,0.028,kg,0.17,5.900,kg
+2026-10-27T09:53:34.294317+00:00,svq1,85717,Rosco de vino y almendra La Muralla,Bollería envasada,,0.035,kg,0.21,5.900,kg
+2026-10-27T09:53:34.294317+00:00,svq1,85725,Mantecado de limón La Muralla,Bollería envasada,,0.04,kg,0.24,5.900,kg
+2026-10-27T09:53:34.294317+00:00,svq1,85745,Cortadillo de cabello de Ángel La Muralla,Bollería envasada,,0.057,kg,0.34,5.900,kg
+2026-10-27T09:53:34.294317+00:00,svq1,85780,Mantecado de limón sin azúcar añadido La Muralla,Bollería envasada,,0.04,kg,0.24,5.900,kg
+2026-10-27T09:53:34.294317+00:00,svq1,85845,Mantecado de cacao sin gluten La Muralla,Bollería envasada,,0.04,kg,0.24,5.900,kg
+2026-10-27T09:53:34.294317+00:00,svq1,86406,Bombones de coco Cocolizze Hacendado,Chocolate,Caja,0.132,kg,3.00,22.728,kg
+2026-10-27T09:53:34.294317+00:00,svq1,86496,Bombones de chocolate con leche Lindor Lindt,Chocolate,Caja,0.2,kg,9.95,49.750,kg
+2026-10-27T09:53:34.294317+00:00,svq1,8950,Turrón de chocolate Suchard,Turrones,Tableta,0.23,kg,4.90,21.305,kg
+2026-10-27T09:53:34.294317+00:00,svq1,9886,Refresco Coca-Cola,Refresco de cola,,2.5,l,3.30,1.320,L
+2026-10-27T09:53:34.294317+00:00,svq1,9887,Refresco Coca-Cola zero azúcar,Refresco de cola,,2.5,l,3.30,1.320,L
