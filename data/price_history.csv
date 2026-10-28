@@ -5870,3 +5870,48 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-10-27T09:53:34.294317+00:00,svq1,8950,Turrón de chocolate Suchard,Turrones,Tableta,0.23,kg,4.90,21.305,kg
 2026-10-27T09:53:34.294317+00:00,svq1,9886,Refresco Coca-Cola,Refresco de cola,,2.5,l,3.30,1.320,L
 2026-10-27T09:53:34.294317+00:00,svq1,9887,Refresco Coca-Cola zero azúcar,Refresco de cola,,2.5,l,3.30,1.320,L
+2026-10-28T10:40:21.052445+00:00,svq1,12157,Bombones Ferrero Rocher,Chocolate,Caja,0.2,kg,6.95,34.750,kg
+2026-10-28T10:40:21.052445+00:00,svq1,18422,Ambientador Azul armarios y cajones Bosque Verde,Insecticida y ambientador,Paquete,1.0,ud,1.75,0.584,ud
+2026-10-28T10:40:21.052445+00:00,svq1,18768,Naranjada natural sin gas light Don Simón,Refresco de té y sin gas,Botella,1.5,l,1.25,0.834,L
+2026-10-28T10:40:21.052445+00:00,svq1,19847,Petit sabor fresa Hacendado,Yogures y postres infantiles,,0.36,kg,0.85,2.362,kg
+2026-10-28T10:40:21.052445+00:00,svq1,27342,Refresco Coca-Cola,Refresco de cola,Botella,2.0,l,2.19,1.095,L
+2026-10-28T10:40:21.052445+00:00,svq1,27348,Refresco Coca-Cola,Refresco de cola,Pack-2,4.0,l,4.18,1.045,L
+2026-10-28T10:40:21.052445+00:00,svq1,27445,Refresco Coca-Cola zero azúcar,Refresco de cola,Botella,2.0,l,2.19,1.095,L
+2026-10-28T10:40:21.052445+00:00,svq1,27449,Refresco Coca-Cola zero azúcar,Refresco de cola,,4.0,l,4.18,1.045,L
+2026-10-28T10:40:21.052445+00:00,svq1,27462,Refresco Coca-Cola zero azúcar zero cafeína,Refresco de cola,Botella,2.0,l,2.19,1.095,L
+2026-10-28T10:40:21.052445+00:00,svq1,28180,Refresco Coca-Cola zero azúcar zero cafeína,Refresco de cola,,4.0,l,4.18,1.045,L
+2026-10-28T10:40:21.052445+00:00,svq1,3026,Papaya,Fruta,Pieza,0.59,kg,3.10,5.250,kg
+2026-10-28T10:40:21.052445+00:00,svq1,3050,Mango,Fruta,Pieza,0.64,kg,1.73,2.700,kg
+2026-10-28T10:40:21.052445+00:00,svq1,3076,Piña,Fruta,Pieza,2.09,kg,4.18,2.000,kg
+2026-10-28T10:40:21.052445+00:00,svq1,3235,Naranja de mesa,Fruta,Pieza,0.29,kg,0.73,2.500,kg
+2026-10-28T10:40:21.052445+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,3.04,kg,6.69,2.200,kg
+2026-10-28T10:40:21.052445+00:00,svq1,3515,Medio melón piel de sapo,Fruta,1/2 Pieza,1.76,kg,4.58,2.600,kg
+2026-10-28T10:40:21.052445+00:00,svq1,36628,Hojaldrina Mata,Bollería envasada,Paquete,0.5,kg,5.05,10.100,kg
+2026-10-28T10:40:21.052445+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.45,kg,1.53,3.400,kg
+2026-10-28T10:40:21.052445+00:00,svq1,3819,Plátano de Canarias IGP,Fruta,Pieza,0.16,kg,0.48,3.000,kg
+2026-10-28T10:40:21.052445+00:00,svq1,50939,Queso mezcla semicurado Hacendado,"Queso curado, semicurado y tierno",Pieza,3.0,kg,18.00,6.000,kg
+2026-10-28T10:40:21.052445+00:00,svq1,69173,Yuca,Verdura,Pieza,0.69,kg,2.28,3.300,kg
+2026-10-28T10:40:21.052445+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.08,kg,2.70,2.500,kg
+2026-10-28T10:40:21.052445+00:00,svq1,69339,Calabacín blanco,Verdura,Pieza,0.39,kg,0.86,2.200,kg
+2026-10-28T10:40:21.052445+00:00,svq1,69443,Pimiento verde freír,Verdura,Pieza,0.05,kg,0.13,2.500,kg
+2026-10-28T10:40:21.052445+00:00,svq1,69487,Rama de Tomates,Verdura,Granel,0.7,kg,1.89,2.700,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81055.1,Corvina limpia con cabeza,Pescado fresco,Pieza,1.11,kg,12.77,11.500,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81055.2,Corvina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,1.11,kg,12.77,11.500,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81055.3,Corvina a filetes,Pescado fresco,Pieza,1.11,kg,12.77,11.500,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81100.1,Sardina sin limpiar,Pescado fresco,Granel,0.2,kg,0.90,4.500,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81100.2,Sardina limpia sin cabeza,Pescado fresco,Granel,0.2,kg,0.90,4.500,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81200.1,Trucha abierta en libro con cabeza,Pescado fresco,Pieza,0.48,kg,4.30,8.950,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81200.2,Trucha abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.48,kg,4.30,8.950,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81200.3,Trucha sin aletas,Pescado fresco,Pieza,0.48,kg,4.30,8.950,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81234.1,Dorada limpia con cabeza,Pescado fresco,Pieza,0.55,kg,5.23,9.500,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81234.2,Dorada abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,0.55,kg,5.23,9.500,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81234.3,Dorada sin limpiar,Pescado fresco,Pieza,0.55,kg,5.23,9.500,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81234.4,Dorada abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.55,kg,5.23,9.500,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81234.5,Dorada a filetes sin cabeza y sin espina,Pescado fresco,Pieza,0.55,kg,5.23,9.500,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81638.1,Acedía sin cabeza y sin piel oscura,Pescado fresco,Granel,0.2,kg,3.39,16.950,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81638.2,Acedía sin escamas,Pescado fresco,Granel,0.2,kg,3.39,16.950,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81649.1,Salmón a rodajas,Pescado fresco,Pieza,2.41,kg,26.39,10.950,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81649.2,Salmón abierto en libro sin cabeza y sin espina,Pescado fresco,Pieza,2.41,kg,26.39,10.950,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81649.3,Salmón sin aletas y sin escamas,Pescado fresco,Pieza,2.41,kg,26.39,10.950,kg
+2026-10-28T10:40:21.052445+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.69,kg,10.32,14.950,kg
+2026-10-28T10:40:21.052445+00:00,svq1,8175,Manzana roja acidulce,Fruta,Pieza,0.21,kg,0.50,2.400,kg
