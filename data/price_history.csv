@@ -6139,3 +6139,71 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-11-01T11:22:01.393002+00:00,svq1,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,Pescado fresco,1/2 Pieza,1.35,kg,14.78,10.950,kg
 2026-11-01T11:22:01.393002+00:00,svq1,81649.6,Salmón media pieza sin aletas y sin escamas,Pescado fresco,1/2 Pieza,1.35,kg,14.78,10.950,kg
 2026-11-01T11:22:01.393002+00:00,svq1,87027,Roscón de Reyes relleno de preparado a base de nata Hacendado congelado,Tartas y churros,Caja,0.8,kg,9.30,11.625,kg
+2026-11-02T12:35:47.658566+00:00,svq1,10043,Batido de chocolate 90% leche Puleva,Leche y bebidas vegetales,Pack-6,1.2,l,2.40,2.000,L
+2026-11-02T12:35:47.658566+00:00,svq1,10126,Fruta + leche tropical Bifrutas,Fruta variada,,1.2,l,2.00,1.667,L
+2026-11-02T12:35:47.658566+00:00,svq1,10143,Leche entera calcio Puleva,Leche y bebidas vegetales,Pack-6,6.0,l,9.54,1.590,L
+2026-11-02T12:35:47.658566+00:00,svq1,10144,Leche semidesnatada calcio Puleva,Leche y bebidas vegetales,Pack-6,6.0,l,9.54,1.590,L
+2026-11-02T12:35:47.658566+00:00,svq1,10145,Leche desnatada calcio Puleva,Leche y bebidas vegetales,Pack-6,6.0,l,9.54,1.590,L
+2026-11-02T12:35:47.658566+00:00,svq1,10146,Bebida láctea Omega 3 Puleva con leche desnatada,Leche y bebidas vegetales,,6.0,l,10.14,1.690,L
+2026-11-02T12:35:47.658566+00:00,svq1,10281,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,Leche y bebidas vegetales,Pack-6,6.0,l,10.14,1.690,L
+2026-11-02T12:35:47.658566+00:00,svq1,10282,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,Leche y bebidas vegetales,Brik,1.0,l,1.69,1.690,L
+2026-11-02T12:35:47.658566+00:00,svq1,10635,Leche entera calcio Puleva,Leche y bebidas vegetales,Brik,1.0,l,1.59,1.590,L
+2026-11-02T12:35:47.658566+00:00,svq1,10713,Leche semidesnatada calcio Puleva,Leche y bebidas vegetales,Brik,1.0,l,1.59,1.590,L
+2026-11-02T12:35:47.658566+00:00,svq1,10813,Leche desnatada calcio Puleva,Leche y bebidas vegetales,Brik,1.0,l,1.59,1.590,L
+2026-11-02T12:35:47.658566+00:00,svq1,10884,Bebida láctea Omega 3 Puleva con leche desnatada,Leche y bebidas vegetales,Brik,1.0,l,1.69,1.690,L
+2026-11-02T12:35:47.658566+00:00,svq1,11104,Café soluble descafeinado Nescafé classic,Café soluble y otras bebidas,Tarro,0.1,kg,4.95,49.500,kg
+2026-11-02T12:35:47.658566+00:00,svq1,11111,Café soluble natural Nescafé classic,Café soluble y otras bebidas,Tarro,0.1,kg,4.95,49.500,kg
+2026-11-02T12:35:47.658566+00:00,svq1,12055,Vino blanco Croft Twist,Vino blanco,Botella,0.75,l,8.00,10.667,L
+2026-11-02T12:35:47.658566+00:00,svq1,12107,Chocolate con leche Valor almendras enteras,Chocolate,Tableta,0.25,kg,3.95,15.800,kg
+2026-11-02T12:35:47.658566+00:00,svq1,12130,Chocolate puro Valor con almendras enteras,Chocolate,Tableta,0.25,kg,3.95,15.800,kg
+2026-11-02T12:35:47.658566+00:00,svq1,14221,Surtido bombones Senzza de chocolate negro 70%,Chocolate,Paquete,0.18,kg,2.75,15.278,kg
+2026-11-02T12:35:47.658566+00:00,svq1,14713,Barritas de avena y chocolate negro Crunchy Nature Valley,Cereales,Caja,0.21,kg,2.60,12.381,kg
+2026-11-02T12:35:47.658566+00:00,svq1,14934,Surtido de caramelos Diver Xuxes Hacendado,Golosinas,Paquete,0.375,kg,2.80,7.467,kg
+2026-11-02T12:35:47.658566+00:00,svq1,16285,Barritas de barquillo Kit-Kat bañadas de chocolate con leche,Chocolate,Paquete,0.1245,kg,1.95,15.663,kg
+2026-11-02T12:35:47.658566+00:00,svq1,16562,Fingers de merluza Hacendado ultracongelados,Rebozados,Paquete,0.4,kg,3.65,9.125,kg
+2026-11-02T12:35:47.658566+00:00,svq1,17618,Maquinilla de afeitar recargable Gillette Labs Body + Intimate 2 hojas,Afeitado y cuidado para hombre,Caja,1.0,ud,9.70,9.700,ud
+2026-11-02T12:35:47.658566+00:00,svq1,18694,Buñuelos surtidos congelados,Tartas y churros,Bandeja,0.42,kg,6.90,16.429,kg
+2026-11-02T12:35:47.658566+00:00,svq1,20321,Preparado lácteo con cereales y frutas Peques 3 Puleva,Alimentación infantil,,0.6,l,1.79,2.984,L
+2026-11-02T12:35:47.658566+00:00,svq1,21491,Mix mini barritas de chocolate Hacendado,Chocolate,Caja,0.2044,kg,2.75,13.481,kg
+2026-11-02T12:35:47.658566+00:00,svq1,22726,Fabada asturiana Litoral,Platos preparados calientes,Bote,0.42,kg,1.95,4.643,kg
+2026-11-02T12:35:47.658566+00:00,svq1,27763,Refresco lima limón 7 Up,Refresco de naranja y de limón,Botella,2.0,l,1.69,0.845,L
+2026-11-02T12:35:47.658566+00:00,svq1,28496,"Yogur azucarado YogoMix Hacendado variado de copos maíz, bolitas y disquitos chocolateados",Gelatina y otros postres,,0.9,kg,3.10,3.445,kg
+2026-11-02T12:35:47.658566+00:00,svq1,28969,Cava brut Anna Codorníu,Sidra y cava,Botella,0.75,l,9.95,13.267,L
+2026-11-02T12:35:47.658566+00:00,svq1,29368,Cerveza Pilsen Cruzcampo,Cerveza,Pack-12,3.0,l,6.24,2.080,L
+2026-11-02T12:35:47.658566+00:00,svq1,29411,Cerveza Pilsen Cruzcampo,Cerveza,Botellín,0.25,l,0.55,2.200,L
+2026-11-02T12:35:47.658566+00:00,svq1,3050,Mango,Fruta,Pieza,0.59,kg,1.71,2.900,kg
+2026-11-02T12:35:47.658566+00:00,svq1,35266,Gelatina selección de aves gato adulto Quartett,Gato,Paquete,0.34,kg,1.85,5.442,kg
+2026-11-02T12:35:47.658566+00:00,svq1,35267,Gelatina selección de pescado gato adulto Quartett,Gato,Paquete,0.34,kg,1.85,5.442,kg
+2026-11-02T12:35:47.658566+00:00,svq1,3527,Calabaza cacahuete cortada a trozos,Verdura,Bandeja,0.56,kg,2.24,4.000,kg
+2026-11-02T12:35:47.658566+00:00,svq1,35397,Champú anticaspa Citric Ultrex cabello graso,Champú,Bote,0.36,l,2.00,0.556,100 ml
+2026-11-02T12:35:47.658566+00:00,svq1,35398,Champú anticaspa Menthol Ultrex todo tipo de cabello,Champú,Bote,0.36,l,2.00,0.556,100 ml
+2026-11-02T12:35:47.658566+00:00,svq1,35399,Champú y acondicionador anticaspa Classic 2 en 1 Ultrex todo tipo de cabello,Champú,Bote,0.36,l,2.00,0.556,100 ml
+2026-11-02T12:35:47.658566+00:00,svq1,35612,Champú Repara & Protege Pantene cabello débil y dañado,Champú,Bote,0.3,l,3.00,1.000,100 ml
+2026-11-02T12:35:47.658566+00:00,svq1,35613,Mascarilla Repara & Protege Pantene cabello dañado y seco,Acondicionador y mascarilla,Tarro,0.2,l,2.50,1.250,100 ml
+2026-11-02T12:35:47.658566+00:00,svq1,35614,Ampollas tratamiento intensivo Repara & Protege Pantene cabello dañado,Acondicionador y mascarilla,Caja,0.045,l,3.75,1.250,ud
+2026-11-02T12:35:47.658566+00:00,svq1,35615,Acondicionador Repara & Protege Pantene,Acondicionador y mascarilla,Bote,0.25,l,3.40,1.360,100 ml
+2026-11-02T12:35:47.658566+00:00,svq1,52645,Maquinilla de afeitar recargable Gillette Fusion Sport 5 hojas,Afeitado y cuidado para hombre,Caja,1.0,ud,8.40,8.400,ud
+2026-11-02T12:35:47.658566+00:00,svq1,60552,Trozos de pollo y verduras en salsa perros adultos Quartett,Perro,Paquete,0.4,kg,2.25,5.625,kg
+2026-11-02T12:35:47.658566+00:00,svq1,61089,Mix frutos rojos Hacendado ultracongeladas,Fruta y verdura,Paquete,0.3,kg,2.00,6.667,kg
+2026-11-02T12:35:47.658566+00:00,svq1,61093,Arándanos enteros Hacendado ultracongelados,Fruta y verdura,Paquete,0.3,kg,2.25,7.500,kg
+2026-11-02T12:35:47.658566+00:00,svq1,63101,Filetes de merluza al huevo Hacendado ultracongelados,Rebozados,Paquete,0.6,kg,5.15,8.584,kg
+2026-11-02T12:35:47.658566+00:00,svq1,66587,Cerveza especial Estrella Galicia,Cerveza,Pack-12,3.0,l,8.16,2.720,L
+2026-11-02T12:35:47.658566+00:00,svq1,66902,Vino fino muy seco Palomino fino Tio Pepe DO Jerez Xerés sherry,Vino blanco,Botella,0.75,l,7.95,10.600,L
+2026-11-02T12:35:47.658566+00:00,svq1,67041,Cerveza Pilsen Cruzcampo,Cerveza,Pack-6,6.0,l,9.54,1.590,L
+2026-11-02T12:35:47.658566+00:00,svq1,67042,Cerveza Pilsen Cruzcampo,Cerveza,Botella,1.0,l,1.59,1.590,L
+2026-11-02T12:35:47.658566+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.23,kg,2.09,1.700,kg
+2026-11-02T12:35:47.658566+00:00,svq1,69239,Batata,Verdura,Pieza,0.39,kg,0.99,2.550,kg
+2026-11-02T12:35:47.658566+00:00,svq1,69580,Brócoli,Verdura,Pieza,0.45,kg,1.22,2.700,kg
+2026-11-02T12:35:47.658566+00:00,svq1,69585,Maíz dulce en mazorca,Verdura,Bandeja,2.0,ud,2.65,1.325,ud
+2026-11-02T12:35:47.658566+00:00,svq1,69586,Zanahorias,Verdura,Paquete,1.0,kg,1.20,1.200,kg
+2026-11-02T12:35:47.658566+00:00,svq1,73002,Maquinillas de afeitar desechables Gillette Sensor Comfort 3 hojas,Afeitado y cuidado para hombre,Paquete,1.0,ud,4.85,0.970,ud
+2026-11-02T12:35:47.658566+00:00,svq1,81638.1,Acedía sin cabeza y sin piel oscura,Pescado fresco,Granel,0.2,kg,3.39,16.950,kg
+2026-11-02T12:35:47.658566+00:00,svq1,81638.2,Acedía sin escamas,Pescado fresco,Granel,0.2,kg,3.39,16.950,kg
+2026-11-02T12:35:47.658566+00:00,svq1,87341,Trucha Arco iris abierta a la espalda,Pescado fresco,Bandeja,0.35,kg,4.90,14.000,kg
+2026-11-02T12:35:47.658566+00:00,svq1,8920,Surtido bombones Caja Roja Nestlé,Chocolate,Caja,0.198,kg,5.60,28.283,kg
+2026-11-02T12:35:47.658566+00:00,svq1,8980,Recambios cepillo dental eléctrico Oral-B Pro Precision Clean,Higiene bucal,Paquete,1.0,ud,14.50,3.625,ud
+2026-11-02T12:35:47.658566+00:00,svq1,9034,Preparado lácteo con cereales crecimiento Peques 3 Puleva,Alimentación infantil,Brik,1.0,l,1.79,1.790,L
+2026-11-02T12:35:47.658566+00:00,svq1,9040,Preparado lácteo crecimiento Peques 3 Puleva,Alimentación infantil,Brik,1.0,l,1.79,1.790,L
+2026-11-02T12:35:47.658566+00:00,svq1,9049,Preparado lácteo crecimiento Peques 3 Puleva,Alimentación infantil,,6.0,l,10.74,1.790,L
+2026-11-02T12:35:47.658566+00:00,svq1,9057,Preparado lácteo con cereales crecimiento Peques 3 Puleva,Alimentación infantil,,6.0,l,10.74,1.790,L
+2026-11-02T12:35:47.658566+00:00,svq1,9826,Cerveza especial Mahou,Cerveza,,3.3,l,8.40,2.546,L
