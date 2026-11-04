@@ -6207,3 +6207,98 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-11-02T12:35:47.658566+00:00,svq1,9049,Preparado lácteo crecimiento Peques 3 Puleva,Alimentación infantil,,6.0,l,10.74,1.790,L
 2026-11-02T12:35:47.658566+00:00,svq1,9057,Preparado lácteo con cereales crecimiento Peques 3 Puleva,Alimentación infantil,,6.0,l,10.74,1.790,L
 2026-11-02T12:35:47.658566+00:00,svq1,9826,Cerveza especial Mahou,Cerveza,,3.3,l,8.40,2.546,L
+2026-11-04T12:16:47.935975+00:00,svq1,10066,Batido de chocolate ColaCao Energy,Leche y bebidas vegetales,Pack-4,0.752,l,2.95,3.923,L
+2026-11-04T12:16:47.935975+00:00,svq1,12836,Trampa con cebo contra hormigas Bosque Verde,Insecticida y ambientador,Caja,1.0,ud,3.50,1.167,ud
+2026-11-04T12:16:47.935975+00:00,svq1,12888,Preparado en polvo gelatina fresa Hacendado,Harina y preparado repostería,Paquete,0.178,kg,1.80,10.113,kg
+2026-11-04T12:16:47.935975+00:00,svq1,12890,Preparado en polvo gelatina cereza Hacendado,Harina y preparado repostería,Paquete,0.178,kg,1.80,10.113,kg
+2026-11-04T12:16:47.935975+00:00,svq1,13817,Refresco Fanta limón,Refresco de naranja y de limón,Pack-9,2.97,l,7.38,2.485,L
+2026-11-04T12:16:47.935975+00:00,svq1,14379,Moras,Fruta,Bandeja,0.17,kg,3.06,18.000,kg
+2026-11-04T12:16:47.935975+00:00,svq1,15275,Preparado en polvo gelatina maracuyá Hacendado,Harina y preparado repostería,Paquete,0.178,kg,1.80,10.113,kg
+2026-11-04T12:16:47.935975+00:00,svq1,15966,Guindillas picantes Hacendado,Aceitunas y encurtidos,Tarro,0.29,kg,1.70,13.077,kg
+2026-11-04T12:16:47.935975+00:00,svq1,17818,Preparado de verdura Tradicional cortado y lavado,Verdura,Paquete,0.4,kg,2.40,6.000,kg
+2026-11-04T12:16:47.935975+00:00,svq1,18284,Jabón de manos Vanilla Noir Deliplus,Gel y jabón de manos,Bote,0.3,l,2.50,0.834,100 ml
+2026-11-04T12:16:47.935975+00:00,svq1,18285,Gel de baño exfoliante Vanilla Noir Deliplus piel normal,Gel y jabón de manos,Botella,0.5,l,2.60,0.520,100 ml
+2026-11-04T12:16:47.935975+00:00,svq1,18341,Nuez troceada pelada Hacendado,Frutos secos y fruta desecada,Paquete,0.2,kg,2.25,11.250,kg
+2026-11-04T12:16:47.935975+00:00,svq1,18692,Roscón de Reyes Bombón bañado en cacao relleno de crema y preparado a base de nata Hacendado congelado,Tartas y churros,Caja,0.55,kg,9.50,17.273,kg
+2026-11-04T12:16:47.935975+00:00,svq1,21366,Tarta de queso Hacendado,Gelatina y otros postres,Tarrina,0.18,kg,1.80,10.000,kg
+2026-11-04T12:16:47.935975+00:00,svq1,21534,Detergente ropa de Color y Oscura Bosque Verde líquido,Detergente y suavizante ropa,Botella,3.0,l,4.90,0.098,lv
+2026-11-04T12:16:47.935975+00:00,svq1,21807,Chuletas de cordero palo y riñonada,Conejo y cordero,Bandeja,0.29,kg,10.15,35.000,kg
+2026-11-04T12:16:47.935975+00:00,svq1,21811,Chuletas de cordero pierna,Conejo y cordero,Bandeja,0.26,kg,5.98,23.000,kg
+2026-11-04T12:16:47.935975+00:00,svq1,24528,Noodles orientales Hacendado,Pasta y fideos,,0.22,kg,1.70,7.728,kg
+2026-11-04T12:16:47.935975+00:00,svq1,24557,Planchado fácil Bosque Verde perfumado,Detergente y suavizante ropa,Botella,0.5,l,1.50,3.000,L
+2026-11-04T12:16:47.935975+00:00,svq1,26997,Refresco Coca-Cola zero azúcar zero cafeína,Refresco de cola,,3.96,l,11.64,2.940,L
+2026-11-04T12:16:47.935975+00:00,svq1,27103,Cerveza especial San Miguel,Cerveza,Lata,0.33,l,0.74,2.243,L
+2026-11-04T12:16:47.935975+00:00,svq1,27184,Refresco Coca-Cola light,Refresco de cola,Pack-9,2.97,l,8.73,2.940,L
+2026-11-04T12:16:47.935975+00:00,svq1,27321,Refresco Coca-Cola,Refresco de cola,Pack-12,3.96,l,11.64,2.940,L
+2026-11-04T12:16:47.935975+00:00,svq1,27326,Refresco Coca-Cola,Refresco de cola,Lata,0.33,l,0.99,3.000,L
+2026-11-04T12:16:47.935975+00:00,svq1,27406,Refresco Coca-Cola light,Refresco de cola,Lata,0.33,l,0.99,3.000,L
+2026-11-04T12:16:47.935975+00:00,svq1,27414,Refresco Coca-Cola zero azúcar,Refresco de cola,Lata,0.33,l,0.99,3.000,L
+2026-11-04T12:16:47.935975+00:00,svq1,27426,Refresco Coca-Cola zero azúcar,Refresco de cola,,3.96,l,11.64,2.940,L
+2026-11-04T12:16:47.935975+00:00,svq1,27502,Refresco Fanta naranja,Refresco de naranja y de limón,Lata,0.33,l,0.85,2.576,L
+2026-11-04T12:16:47.935975+00:00,svq1,27510,Refresco Fanta naranja zero azúcares añadidos,Refresco de naranja y de limón,Lata,0.33,l,0.85,2.576,L
+2026-11-04T12:16:47.935975+00:00,svq1,27559,Refresco Coca-Cola zero azúcar zero cafeína,Refresco de cola,Lata,0.33,l,0.99,3.000,L
+2026-11-04T12:16:47.935975+00:00,svq1,27571,Refresco Fanta naranja,Refresco de naranja y de limón,Pack-9,2.97,l,7.38,2.485,L
+2026-11-04T12:16:47.935975+00:00,svq1,27602,Refresco Fanta limón,Refresco de naranja y de limón,Lata,0.33,l,0.85,2.576,L
+2026-11-04T12:16:47.935975+00:00,svq1,27608,Refresco Fanta limón zero azúcares añadidos,Refresco de naranja y de limón,Lata,0.33,l,0.85,2.576,L
+2026-11-04T12:16:47.935975+00:00,svq1,28600,Whisky DYC,Licores,Botella,0.7,l,10.25,14.643,L
+2026-11-04T12:16:47.935975+00:00,svq1,28715,Ginebra London Dry Gin Larios,Licores,Botella,1.0,l,12.20,12.200,L
+2026-11-04T12:16:47.935975+00:00,svq1,28731,Ron añejo Negrita,Licores,Botella,0.7,l,9.50,13.572,L
+2026-11-04T12:16:47.935975+00:00,svq1,3021,Manzana Granny Smith,Fruta,Pieza,0.18,kg,0.45,2.500,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3026,Papaya,Fruta,Pieza,0.61,kg,3.20,5.250,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3050,Mango,Fruta,Pieza,0.56,kg,1.62,2.900,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3076,Piña,Fruta,Pieza,2.05,kg,4.10,2.000,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3119,Pera Conferencia,Fruta,Pieza,0.2,kg,0.50,2.500,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3132,Plátano macho,Fruta,Pieza,0.27,kg,0.78,2.900,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3172,Pera Limonera,Fruta,Pieza,0.2,kg,0.56,2.800,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3210,Limón,Fruta,Pieza,0.19,kg,0.49,2.600,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3235,Naranja de mesa,Fruta,Pieza,0.29,kg,0.62,2.150,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3238,Mandarina,Fruta,Pieza,0.11,kg,0.28,2.550,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3277,Naranjas,Fruta,Malla,3.0,kg,4.65,1.550,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3485,Naranjas,Fruta,Malla,5.0,kg,5.75,1.150,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,2.75,kg,6.05,2.200,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3515,Medio melón piel de sapo,Fruta,1/2 Pieza,1.42,kg,3.69,2.600,kg
+2026-11-04T12:16:47.935975+00:00,svq1,35530,Insecticida moscas y mosquitos Bosque Verde sin perfume,Insecticida y ambientador,Spray,0.75,l,2.50,3.334,L
+2026-11-04T12:16:47.935975+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.44,kg,1.50,3.400,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3824,Banana,Fruta,Pieza,0.17,kg,0.26,1.550,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3830,Aguacate,Fruta,Pieza,0.19,kg,1.06,5.600,kg
+2026-11-04T12:16:47.935975+00:00,svq1,3915,Granada,Fruta,Pieza,0.31,kg,0.93,3.000,kg
+2026-11-04T12:16:47.935975+00:00,svq1,66026,Cerveza especial San Miguel,Cerveza,Pack-12,3.96,l,6.96,1.758,L
+2026-11-04T12:16:47.935975+00:00,svq1,67089,Cerveza Pilsen Cruzcampo,Cerveza,,5.94,l,9.72,1.637,L
+2026-11-04T12:16:47.935975+00:00,svq1,68116,Flan de queso Hacendado,Flan y natillas,,0.4,kg,2.05,5.125,kg
+2026-11-04T12:16:47.935975+00:00,svq1,68149,Flan de huevo Hacendado,Flan y natillas,Pack-4,0.4,kg,1.55,3.875,kg
+2026-11-04T12:16:47.935975+00:00,svq1,68204,Flan de huevo Hacendado,Flan y natillas,Pack-9,0.9,kg,3.50,3.889,kg
+2026-11-04T12:16:47.935975+00:00,svq1,69066,Patata,Verdura,Pieza,0.22,kg,0.42,1.900,kg
+2026-11-04T12:16:47.935975+00:00,svq1,69173,Yuca,Verdura,Pieza,0.68,kg,2.24,3.300,kg
+2026-11-04T12:16:47.935975+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.19,kg,2.02,1.700,kg
+2026-11-04T12:16:47.935975+00:00,svq1,69251,Col lombarda,Verdura,Pieza,0.94,kg,1.88,2.000,kg
+2026-11-04T12:16:47.935975+00:00,svq1,69310,Pimiento rojo,Verdura,Pieza,0.33,kg,0.96,2.900,kg
+2026-11-04T12:16:47.935975+00:00,svq1,69312,Pimiento verde,Verdura,Pieza,0.3,kg,0.84,2.800,kg
+2026-11-04T12:16:47.935975+00:00,svq1,69326,Berenjena,Verdura,Pieza,0.41,kg,0.90,2.200,kg
+2026-11-04T12:16:47.935975+00:00,svq1,69338,Calabacín verde,Verdura,Pieza,0.43,kg,0.60,1.400,kg
+2026-11-04T12:16:47.935975+00:00,svq1,69339,Calabacín blanco,Verdura,Pieza,0.39,kg,0.86,2.200,kg
+2026-11-04T12:16:47.935975+00:00,svq1,69580,Brócoli,Verdura,Pieza,0.43,kg,1.16,2.700,kg
+2026-11-04T12:16:47.935975+00:00,svq1,69656,Espárragos verdes finos,Verdura,Manojo,0.25,kg,4.00,16.000,kg
+2026-11-04T12:16:47.935975+00:00,svq1,69968,Tomate canario,Verdura,Pieza,0.16,kg,0.35,2.200,kg
+2026-11-04T12:16:47.935975+00:00,svq1,72090,Insecticida cucarachas y hormigas Bosque Verde,Insecticida y ambientador,Spray,0.4,l,2.85,7.125,L
+2026-11-04T12:16:47.935975+00:00,svq1,77248,Alcohol 96º Deliplus antiséptico,Parafarmacia,Botella,0.25,l,0.85,0.340,100 ml
+2026-11-04T12:16:47.935975+00:00,svq1,81055.1,Corvina limpia con cabeza,Pescado fresco,Pieza,1.14,kg,13.11,11.500,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81055.2,Corvina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,1.14,kg,13.11,11.500,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81055.3,Corvina a filetes,Pescado fresco,Pieza,1.14,kg,13.11,11.500,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81234.1,Dorada limpia con cabeza,Pescado fresco,Pieza,0.51,kg,4.85,9.500,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81234.2,Dorada abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,0.51,kg,4.85,9.500,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81234.3,Dorada sin limpiar,Pescado fresco,Pieza,0.51,kg,4.85,9.500,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81234.4,Dorada abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.51,kg,4.85,9.500,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81234.5,Dorada a filetes sin cabeza y sin espina,Pescado fresco,Pieza,0.51,kg,4.85,9.500,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81638.1,Acedía sin cabeza y sin piel oscura,Pescado fresco,Granel,0.2,kg,2.79,13.950,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81638.2,Acedía sin escamas,Pescado fresco,Granel,0.2,kg,2.79,13.950,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81649.1,Salmón a rodajas,Pescado fresco,Pieza,2.62,kg,28.69,10.950,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81649.2,Salmón abierto en libro sin cabeza y sin espina,Pescado fresco,Pieza,2.62,kg,28.69,10.950,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81649.3,Salmón sin aletas y sin escamas,Pescado fresco,Pieza,2.62,kg,28.69,10.950,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81661.1,Boquerón sin limpiar,Pescado fresco,Granel,0.2,kg,0.99,4.950,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81661.2,Boquerón limpio sin cabeza,Pescado fresco,Granel,0.2,kg,0.99,4.950,kg
+2026-11-04T12:16:47.935975+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.62,kg,9.27,14.950,kg
+2026-11-04T12:16:47.935975+00:00,svq1,8175,Manzana roja acidulce,Fruta,Pieza,0.22,kg,0.53,2.400,kg
+2026-11-04T12:16:47.935975+00:00,svq1,82938,Coulant de chocolate Hacendado,Gelatina y otros postres,Caja,0.18,kg,2.00,11.112,kg
+2026-11-04T12:16:47.935975+00:00,svq1,86480,Insecticida moscas y mosquitos Bosque Verde perfumado,Insecticida y ambientador,Spray,0.75,l,2.50,3.334,L
+2026-11-04T12:16:47.935975+00:00,svq1,8778,Refresco Fanta naranja zero azúcares añadidos,Refresco de naranja y de limón,,2.64,l,6.56,2.485,L
+2026-11-04T12:16:47.935975+00:00,svq1,8779,Refresco Fanta limón zero azúcares añadidos,Refresco de naranja y de limón,,2.64,l,6.56,2.485,L
