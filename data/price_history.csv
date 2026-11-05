@@ -6302,3 +6302,67 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-11-04T12:16:47.935975+00:00,svq1,86480,Insecticida moscas y mosquitos Bosque Verde perfumado,Insecticida y ambientador,Spray,0.75,l,2.50,3.334,L
 2026-11-04T12:16:47.935975+00:00,svq1,8778,Refresco Fanta naranja zero azúcares añadidos,Refresco de naranja y de limón,,2.64,l,6.56,2.485,L
 2026-11-04T12:16:47.935975+00:00,svq1,8779,Refresco Fanta limón zero azúcares añadidos,Refresco de naranja y de limón,,2.64,l,6.56,2.485,L
+2026-11-05T12:30:13.451663+00:00,svq1,12157,Bombones Ferrero Rocher,Chocolate,Caja,0.2,kg,6.35,31.750,kg
+2026-11-05T12:30:13.451663+00:00,svq1,13868,Dentífrico Blanqueante Sensodyne,Higiene bucal,Tubo,0.075,l,2.95,3.934,100 ml
+2026-11-05T12:30:13.451663+00:00,svq1,13869,Dentífrico Repair & Protect Sensodyne,Higiene bucal,Tubo,0.075,l,3.95,5.267,100 ml
+2026-11-05T12:30:13.451663+00:00,svq1,13913,Dentífrico Pro-Expert Oral-B sabor menta especiada,Higiene bucal,Tubo,0.075,l,2.85,3.800,100 ml
+2026-11-05T12:30:13.451663+00:00,svq1,16374,Lote corporal mujer Pistacho Cream Deliplus,Cuidado corporal,Caja,1.0,ud,6.00,6.000,ud
+2026-11-05T12:30:13.451663+00:00,svq1,16397,Lote mujer Extratime Como tú,Cuidado corporal,Caja,1.0,ud,10.00,10.000,ud
+2026-11-05T12:30:13.451663+00:00,svq1,16438,Bebida isotónica melocotón rojo Aquarius,Isotónico y energético,Botella,1.5,l,2.20,1.467,L
+2026-11-05T12:30:13.451663+00:00,svq1,17625,Lote mujer Elección Como tú,Perfume y colonia,Caja,1.0,ud,10.50,10.500,ud
+2026-11-05T12:30:13.451663+00:00,svq1,17693,Gel fijador cabello X-trem Deliplus fijación 6,Fijación cabello,Bote,0.2,l,1.50,0.750,100 ml
+2026-11-05T12:30:13.451663+00:00,svq1,17695,Gel fijador cabello Forte Deliplus fijación 3,Fijación cabello,Bote,0.2,l,1.30,0.650,100 ml
+2026-11-05T12:30:13.451663+00:00,svq1,18176,Lote mujer Wonder Aqua Royale,Perfume y colonia,Caja,1.0,ud,9.00,9.000,ud
+2026-11-05T12:30:13.451663+00:00,svq1,20709,Bebida láctea natural Actimel 0% MG 0% azúcares añadidos,Yogures líquidos,,1.2,kg,4.95,4.125,kg
+2026-11-05T12:30:13.451663+00:00,svq1,20738,Bebida láctea natural Actimel,Yogures líquidos,,1.2,kg,4.95,4.125,kg
+2026-11-05T12:30:13.451663+00:00,svq1,20940,Bebida láctea natural Danacol 0% azúcares añadidos 0% MG,Yogures líquidos,,1.0,kg,5.45,5.450,kg
+2026-11-05T12:30:13.451663+00:00,svq1,23476,Bífidus natural edulcorado probióticos Activia 0% MG 0% azúcares añadidos,Bífidus,,0.96,kg,3.99,4.157,kg
+2026-11-05T12:30:13.451663+00:00,svq1,23477,Bífidus natural probióticos Activia 0% MG  0% azúcares añadidos,Bífidus,,0.96,kg,3.99,4.157,kg
+2026-11-05T12:30:13.451663+00:00,svq1,27103,Cerveza especial San Miguel,Cerveza,Lata,0.33,l,0.50,1.516,L
+2026-11-05T12:30:13.451663+00:00,svq1,28715,Ginebra London Dry Gin Larios,Licores,Botella,1.0,l,11.95,11.950,L
+2026-11-05T12:30:13.451663+00:00,svq1,2876,Morcilla de arroz y cebolla,Embutido,Paquete,0.36,kg,1.96,5.450,kg
+2026-11-05T12:30:13.451663+00:00,svq1,29368,Cerveza Pilsen Cruzcampo,Cerveza,Pack-12,3.0,l,4.44,1.480,L
+2026-11-05T12:30:13.451663+00:00,svq1,29411,Cerveza Pilsen Cruzcampo,Cerveza,Botellín,0.25,l,0.44,1.760,L
+2026-11-05T12:30:13.451663+00:00,svq1,29608,Bebida isotónica limón Aquarius,Isotónico y energético,Botella,1.5,l,2.20,1.467,L
+2026-11-05T12:30:13.451663+00:00,svq1,29609,Bebida isotónica naranja Aquarius,Isotónico y energético,Botella,1.5,l,2.20,1.467,L
+2026-11-05T12:30:13.451663+00:00,svq1,29612,Bebida isotónica limón Aquarius zero azúcar,Isotónico y energético,Botella,1.5,l,2.20,1.467,L
+2026-11-05T12:30:13.451663+00:00,svq1,3026,Papaya,Fruta,Pieza,0.62,kg,3.26,5.250,kg
+2026-11-05T12:30:13.451663+00:00,svq1,31312,Claras de huevo líquidas pasteurizadas,Huevos,Botella,1.0,l,2.75,2.750,L
+2026-11-05T12:30:13.451663+00:00,svq1,3210,Limón,Fruta,Pieza,0.22,kg,0.57,2.600,kg
+2026-11-05T12:30:13.451663+00:00,svq1,3238,Mandarina,Fruta,Pieza,0.11,kg,0.24,2.150,kg
+2026-11-05T12:30:13.451663+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,2.79,kg,6.14,2.200,kg
+2026-11-05T12:30:13.451663+00:00,svq1,3515,Medio melón piel de sapo,Fruta,1/2 Pieza,1.4,kg,3.64,2.600,kg
+2026-11-05T12:30:13.451663+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.41,kg,1.39,3.400,kg
+2026-11-05T12:30:13.451663+00:00,svq1,3819,Plátano de Canarias IGP,Fruta,Pieza,0.16,kg,0.51,3.200,kg
+2026-11-05T12:30:13.451663+00:00,svq1,3824,Banana,Fruta,Pieza,0.18,kg,0.28,1.550,kg
+2026-11-05T12:30:13.451663+00:00,svq1,3915,Granada,Fruta,Pieza,0.35,kg,1.05,3.000,kg
+2026-11-05T12:30:13.451663+00:00,svq1,52920,Malta Maltín Polar,Cerveza sin alcohol,,1.5,l,6.48,4.320,L
+2026-11-05T12:30:13.451663+00:00,svq1,5503,Mandarina,Fruta,Malla,1.0,kg,1.95,1.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,66026,Cerveza especial San Miguel,Cerveza,Pack-12,3.96,l,5.40,1.364,L
+2026-11-05T12:30:13.451663+00:00,svq1,69173,Yuca,Verdura,Pieza,0.64,kg,2.11,3.300,kg
+2026-11-05T12:30:13.451663+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.1,kg,1.87,1.700,kg
+2026-11-05T12:30:13.451663+00:00,svq1,69239,Batata,Verdura,Pieza,0.41,kg,1.05,2.550,kg
+2026-11-05T12:30:13.451663+00:00,svq1,69251,Col lombarda,Verdura,Pieza,0.93,kg,1.86,2.000,kg
+2026-11-05T12:30:13.451663+00:00,svq1,69310,Pimiento rojo,Verdura,Pieza,0.32,kg,0.93,2.900,kg
+2026-11-05T12:30:13.451663+00:00,svq1,69312,Pimiento verde,Verdura,Pieza,0.31,kg,0.87,2.800,kg
+2026-11-05T12:30:13.451663+00:00,svq1,69487,Rama de Tomates,Verdura,Granel,0.72,kg,1.94,2.700,kg
+2026-11-05T12:30:13.451663+00:00,svq1,69580,Brócoli,Verdura,Pieza,0.44,kg,1.19,2.700,kg
+2026-11-05T12:30:13.451663+00:00,svq1,69912,Tomate pera,Verdura,Pieza,0.11,kg,0.24,2.200,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81055.1,Corvina limpia con cabeza,Pescado fresco,Pieza,1.11,kg,12.77,11.500,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81055.2,Corvina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,1.11,kg,12.77,11.500,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81055.3,Corvina a filetes,Pescado fresco,Pieza,1.11,kg,12.77,11.500,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81241.1,Lubina limpia con cabeza,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81241.2,Lubina abierta a la espalda con espinas y con cabeza,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81241.3,Lubina sin limpiar,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81241.4,Lubina abierta en libro sin cabeza y sin espina,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81241.5,Lubina a filetes sin cabeza y sin espina,Pescado fresco,Pieza,0.38,kg,3.78,9.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81638.1,Acedía sin cabeza y sin piel oscura,Pescado fresco,Granel,0.2,kg,3.39,16.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81638.2,Acedía sin escamas,Pescado fresco,Granel,0.2,kg,3.39,16.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81649.1,Salmón a rodajas,Pescado fresco,Pieza,2.7,kg,29.57,10.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81649.2,Salmón abierto en libro sin cabeza y sin espina,Pescado fresco,Pieza,2.7,kg,29.57,10.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81649.3,Salmón sin aletas y sin escamas,Pescado fresco,Pieza,2.7,kg,29.57,10.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81649.4,Salmón media pieza a rodajas,Pescado fresco,1/2 Pieza,1.38,kg,15.11,10.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,Pescado fresco,1/2 Pieza,1.38,kg,15.11,10.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81649.6,Salmón media pieza sin aletas y sin escamas,Pescado fresco,1/2 Pieza,1.38,kg,15.11,10.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.7,kg,10.47,14.950,kg
+2026-11-05T12:30:13.451663+00:00,svq1,8175,Manzana roja acidulce,Fruta,Pieza,0.23,kg,0.55,2.400,kg
