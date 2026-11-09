@@ -6518,3 +6518,62 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-11-08T11:22:32.016560+00:00,svq1,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,Pescado fresco,1/2 Pieza,1.48,kg,16.21,10.950,kg
 2026-11-08T11:22:32.016560+00:00,svq1,81649.6,Salmón media pieza sin aletas y sin escamas,Pescado fresco,1/2 Pieza,1.48,kg,16.21,10.950,kg
 2026-11-08T11:22:32.016560+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.7,kg,10.46,14.950,kg
+2026-11-09T13:00:35.572344+00:00,svq1,11688,Refresco té sabor limón Fuze Tea,Refresco de té y sin gas,Botella,1.5,l,2.09,1.394,L
+2026-11-09T13:00:35.572344+00:00,svq1,11785,Café en cápsula cortado Dolce Gusto,Café cápsula y monodosis,Caja,0.1008,kg,4.95,0.310,ud
+2026-11-09T13:00:35.572344+00:00,svq1,11801,Café con leche en cápsula Dolce Gusto,Café cápsula y monodosis,Caja,0.16,kg,4.95,0.310,ud
+2026-11-09T13:00:35.572344+00:00,svq1,11855,Café molido descafeinado natural Saimaza,Café molido y en grano,Paquete,0.25,kg,4.40,17.600,kg
+2026-11-09T13:00:35.572344+00:00,svq1,11869,Café en cápsula descafeinado espresso intenso Dolce Gusto,Café cápsula y monodosis,Caja,0.0992,kg,4.95,0.310,ud
+2026-11-09T13:00:35.572344+00:00,svq1,11918,Café en cápsula ristretto napoli Dolce Gusto,Café cápsula y monodosis,Caja,0.128,kg,4.95,0.310,ud
+2026-11-09T13:00:35.572344+00:00,svq1,11931,Café en cápsula espresso intenso Dolce Gusto,Café cápsula y monodosis,Caja,0.112,kg,4.95,0.310,ud
+2026-11-09T13:00:35.572344+00:00,svq1,13816,Refresco Coca-Cola zero azúcar,Refresco de cola,Botella,1.25,l,1.39,1.112,L
+2026-11-09T13:00:35.572344+00:00,svq1,16486,Vinagre de manzana Hacendado sin filtrar,"Aceite, vinagre y sal",Botella,0.5,l,2.50,5.000,L
+2026-11-09T13:00:35.572344+00:00,svq1,16864,Sal fina de mesa Hacendado,"Aceite, vinagre y sal",Bote,0.3,kg,0.80,2.667,kg
+2026-11-09T13:00:35.572344+00:00,svq1,17556,Magret de pato,Aves y pollo,Pieza,0.16,kg,3.84,24.000,kg
+2026-11-09T13:00:35.572344+00:00,svq1,17707,Refresco Coca-Cola zero azúcar zero cafeína,Refresco de cola,Botella,1.25,l,1.39,1.112,L
+2026-11-09T13:00:35.572344+00:00,svq1,17776,Bocaditos en salsa gato adulto Delikuit,Gato,,1.2,kg,2.00,1.667,kg
+2026-11-09T13:00:35.572344+00:00,svq1,17813,11 Panecillos integrales 100%,Pan de horno,Bolsa,0.495,kg,1.65,3.334,kg
+2026-11-09T13:00:35.572344+00:00,svq1,18290,Bebida energética Vice Guava Monster Energy Ultra zero azúcar,Isotónico y energético,Lata,0.5,l,1.79,3.580,L
+2026-11-09T13:00:35.572344+00:00,svq1,18391,Laca de uñas Felin Deliplus 160 burdeos,Manicura y pedicura,,0.011,l,3.50,3.500,ud
+2026-11-09T13:00:35.572344+00:00,svq1,18392,Tratamiento para uñas aceite Felin Deliplus 161,Manicura y pedicura,,0.011,l,3.50,3.500,ud
+2026-11-09T13:00:35.572344+00:00,svq1,18456,Aceitera de oliva virgen extra Hacendado,"Aceite, vinagre y sal",Botella,0.7,l,3.55,5.072,L
+2026-11-09T13:00:35.572344+00:00,svq1,1908,Recambios cepillo dental Eléctrico Deliplus tamaño medio,Higiene bucal,Paquete,1.0,ud,3.60,1.800,ud
+2026-11-09T13:00:35.572344+00:00,svq1,19731,Sal fina Hacendado,"Aceite, vinagre y sal",Paquete,1.0,kg,0.45,0.450,kg
+2026-11-09T13:00:35.572344+00:00,svq1,19732,Sal yodada fina Hacendado,"Aceite, vinagre y sal",Paquete,1.0,kg,0.50,0.500,kg
+2026-11-09T13:00:35.572344+00:00,svq1,19733,Sal gruesa Hacendado,"Aceite, vinagre y sal",Paquete,1.0,kg,0.45,0.450,kg
+2026-11-09T13:00:35.572344+00:00,svq1,19734,Sal gruesa para hornear Hacendado,"Aceite, vinagre y sal",Paquete,2.0,kg,1.45,0.725,kg
+2026-11-09T13:00:35.572344+00:00,svq1,20273,Jamón cocido extrafino Hacendado lonchas,Aves y jamón cocido,Paquete,0.15,kg,2.40,16.000,kg
+2026-11-09T13:00:35.572344+00:00,svq1,21985,Cacao soluble instantáneo Nesquik,Cacao soluble y chocolate a la taza,Caja,2.5,kg,16.15,6.460,kg
+2026-11-09T13:00:35.572344+00:00,svq1,24547,Bebida energética Red Bull,Isotónico y energético,,2.0,l,8.00,4.000,L
+2026-11-09T13:00:35.572344+00:00,svq1,27545,Refresco Fanta naranja zero azúcares añadidos,Refresco de naranja y de limón,Botella,2.0,l,1.85,0.925,L
+2026-11-09T13:00:35.572344+00:00,svq1,28059,Tinto de verano limón La Casera,Tinto de verano y sangría,,3.0,l,4.78,1.594,L
+2026-11-09T13:00:35.572344+00:00,svq1,28119,Bebida energética Monster Energy Ultra zero azúcar,Isotónico y energético,Lata,0.5,l,1.79,3.580,L
+2026-11-09T13:00:35.572344+00:00,svq1,28181,Refresco Coca-Cola,Refresco de cola,Botella,1.25,l,1.39,1.112,L
+2026-11-09T13:00:35.572344+00:00,svq1,28670,Bebida energética Monster Energy Ultra zero azúcar,Isotónico y energético,,2.0,l,6.68,3.340,L
+2026-11-09T13:00:35.572344+00:00,svq1,29368,Cerveza Pilsen Cruzcampo,Cerveza,Pack-12,3.0,l,6.24,2.080,L
+2026-11-09T13:00:35.572344+00:00,svq1,29411,Cerveza Pilsen Cruzcampo,Cerveza,Botellín,0.25,l,0.55,2.200,L
+2026-11-09T13:00:35.572344+00:00,svq1,29604,Bebida isotónica naranja Aquarius,Isotónico y energético,Pack-8,2.64,l,7.44,2.819,L
+2026-11-09T13:00:35.572344+00:00,svq1,29605,Bebida isotónica limón Aquarius,Isotónico y energético,Pack-8,2.64,l,7.44,2.819,L
+2026-11-09T13:00:35.572344+00:00,svq1,29624,Bebida isotónica naranja Aquarius,Isotónico y energético,Lata,0.33,l,0.99,3.000,L
+2026-11-09T13:00:35.572344+00:00,svq1,29625,Bebida isotónica limón Aquarius,Isotónico y energético,Lata,0.33,l,0.99,3.000,L
+2026-11-09T13:00:35.572344+00:00,svq1,3210,Limón,Fruta,Pieza,0.23,kg,0.58,2.500,kg
+2026-11-09T13:00:35.572344+00:00,svq1,3236,Limones,Fruta,Malla,1.0,kg,2.20,2.200,kg
+2026-11-09T13:00:35.572344+00:00,svq1,34702,Sazonador para paella Hacendado,Especias,Caja,0.02,kg,1.40,7.000,100 g
+2026-11-09T13:00:35.572344+00:00,svq1,35707,Cereales copos de trigo integral y arroz Special K Classic,Cereales,Caja,0.45,kg,3.25,7.223,kg
+2026-11-09T13:00:35.572344+00:00,svq1,4711,Aceite de oliva virgen Hacendado,"Aceite, vinagre y sal",Garrafa,3.0,l,10.75,3.584,L
+2026-11-09T13:00:35.572344+00:00,svq1,4717,Aceite de oliva virgen extra Hacendado,"Aceite, vinagre y sal",Garrafa,3.0,l,11.25,3.750,L
+2026-11-09T13:00:35.572344+00:00,svq1,4740,Aceite de oliva virgen extra Hacendado,"Aceite, vinagre y sal",Botella,1.0,l,4.10,4.100,L
+2026-11-09T13:00:35.572344+00:00,svq1,4749,Aceite de oliva virgen Hacendado,"Aceite, vinagre y sal",Botella,1.0,l,3.90,3.900,L
+2026-11-09T13:00:35.572344+00:00,svq1,51073,Queso untar original Philadelphia,"Queso untable, fresco y especialidades",Tarrina,0.27,kg,2.90,10.741,kg
+2026-11-09T13:00:35.572344+00:00,svq1,51079,Queso untar light Philadelphia,"Queso untable, fresco y especialidades",Tarrina,0.27,kg,2.90,10.741,kg
+2026-11-09T13:00:35.572344+00:00,svq1,67608,Alubia negra Hacendado,Legumbres,Paquete,1.0,kg,2.45,2.450,kg
+2026-11-09T13:00:35.572344+00:00,svq1,69099,Patatas,Verdura,Malla,5.0,kg,5.30,1.060,kg
+2026-11-09T13:00:35.572344+00:00,svq1,81638.1,Acedía sin cabeza y sin piel oscura,Pescado fresco,Granel,0.2,kg,3.39,16.950,kg
+2026-11-09T13:00:35.572344+00:00,svq1,81638.2,Acedía sin escamas,Pescado fresco,Granel,0.2,kg,3.39,16.950,kg
+2026-11-09T13:00:35.572344+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.7,kg,10.47,14.950,kg
+2026-11-09T13:00:35.572344+00:00,svq1,86496,Bombones de chocolate con leche Lindor Lindt,Chocolate,Caja,0.2,kg,7.95,39.750,kg
+2026-11-09T13:00:35.572344+00:00,svq1,8916,Recambios cepillo dental eléctrico Sensitive Deliplus tamaño medio,Higiene bucal,Paquete,2.0,ud,3.60,1.800,ud
+2026-11-09T13:00:35.572344+00:00,svq1,8950,Turrón de chocolate Suchard,Turrones,Tableta,0.23,kg,4.75,20.653,kg
+2026-11-09T13:00:35.572344+00:00,svq1,9408,Leche de continuación en polvo 2 Nidina Nestlé,Alimentación infantil,Bote,0.8,kg,17.95,22.438,kg
+2026-11-09T13:00:35.572344+00:00,svq1,9445,Barritas con proteínas sabor coco y chocolate Enervit Sport,Cereales,Caja,0.12,kg,3.60,30.000,kg
+2026-11-09T13:00:35.572344+00:00,svq1,9886,Refresco Coca-Cola,Refresco de cola,,2.5,l,2.70,1.080,L
+2026-11-09T13:00:35.572344+00:00,svq1,9887,Refresco Coca-Cola zero azúcar,Refresco de cola,,2.5,l,2.70,1.080,L
