@@ -6828,3 +6828,32 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-11-15T12:01:26.324887+00:00,svq1,81649.3,Salmón sin aletas y sin escamas,Pescado fresco,Pieza,2.67,kg,29.24,10.950,kg
 2026-11-15T12:01:26.324887+00:00,svq1,81704,Sepia limpia,Pescado fresco,Pieza,0.76,kg,11.36,14.950,kg
 2026-11-15T12:01:26.324887+00:00,svq1,8177,Manzana roja dulce,Fruta,Pieza,0.19,kg,0.38,2.000,kg
+2026-11-16T12:54:19.586969+00:00,svq1,12107,Chocolate con leche Valor almendras enteras,Chocolate,Tableta,0.25,kg,4.95,19.800,kg
+2026-11-16T12:54:19.586969+00:00,svq1,12130,Chocolate puro Valor con almendras enteras,Chocolate,Tableta,0.25,kg,4.95,19.800,kg
+2026-11-16T12:54:19.586969+00:00,svq1,12526,Barritas de barquillo Huesitos bañadas de chocolate con leche,Chocolate,Paquete,0.2,kg,1.95,9.750,kg
+2026-11-16T12:54:19.586969+00:00,svq1,13877,Orejones albaricoque Hacendado,Frutos secos y fruta desecada,Paquete,0.2,kg,2.95,14.750,kg
+2026-11-16T12:54:19.586969+00:00,svq1,14713,Barritas de avena y chocolate negro Crunchy Nature Valley,Cereales,Caja,0.21,kg,1.95,9.286,kg
+2026-11-16T12:54:19.586969+00:00,svq1,15909,Margarina Flora Proactiv,Mantequilla y margarina,Tarrina,0.225,kg,3.19,14.178,kg
+2026-11-16T12:54:19.586969+00:00,svq1,16442,Detergente ropa todo en 1 frescor floral Ariel Pods en cápsulas,Detergente y suavizante ropa,Caja,0.4636,kg,4.85,0.256,ud
+2026-11-16T12:54:19.586969+00:00,svq1,18319,Mousse de carne y pescado Gourmet Gold gato adulto Purina,Gato,Tarrina,0.34,kg,2.50,7.353,kg
+2026-11-16T12:54:19.586969+00:00,svq1,18369,Higos secos Villacruz,Frutos secos y fruta desecada,Paquete,0.4,kg,1.85,4.625,kg
+2026-11-16T12:54:19.586969+00:00,svq1,21993,Detergente ropa todo en 1 Ariel Pods en cápsulas,Detergente y suavizante ropa,Caja,0.3477,kg,6.90,0.364,ud
+2026-11-16T12:54:19.586969+00:00,svq1,22726,Fabada asturiana Litoral,Platos preparados calientes,Bote,0.42,kg,2.60,6.191,kg
+2026-11-16T12:54:19.586969+00:00,svq1,24242,Calamar troceado limpio Hacendado congelado,Pescado,Paquete,,kg,5.70,12.000,kg
+2026-11-16T12:54:19.586969+00:00,svq1,24274,Sepia faraónica troceada limpia Hacendado congelada,Pescado,Paquete,,kg,5.70,15.834,kg
+2026-11-16T12:54:19.586969+00:00,svq1,26138,Alubias con tomate Heinz,Platos preparados calientes,Bote,0.415,kg,1.30,3.133,kg
+2026-11-16T12:54:19.586969+00:00,svq1,27357,Cerveza especial Estrella Galicia,Cerveza,Lata,0.33,l,0.90,2.728,L
+2026-11-16T12:54:19.586969+00:00,svq1,3313,Uva blanca sin semillas,Fruta,Bandeja,0.6,kg,3.36,5.600,kg
+2026-11-16T12:54:19.586969+00:00,svq1,33555,Aperitivo de patata sabor original Pringles,Patatas fritas y snacks,Bote,0.165,kg,2.65,16.061,kg
+2026-11-16T12:54:19.586969+00:00,svq1,33556,Aperitivo de patata sabor crema agria y cebolla Pringles,Patatas fritas y snacks,Bote,0.165,kg,2.65,16.061,kg
+2026-11-16T12:54:19.586969+00:00,svq1,34009,Almendra frita y salada Hacendado pelada,Frutos secos y fruta desecada,Paquete,0.2,kg,2.85,14.250,kg
+2026-11-16T12:54:19.586969+00:00,svq1,34025,Avellana tostada Hacendado 0% sal añadida,Frutos secos y fruta desecada,Paquete,0.2,kg,3.85,19.250,kg
+2026-11-16T12:54:19.586969+00:00,svq1,35981,Noodles de arroz Hacendado,Pasta y fideos,Paquete,0.2,kg,1.40,7.000,kg
+2026-11-16T12:54:19.586969+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.39,kg,1.72,4.400,kg
+2026-11-16T12:54:19.586969+00:00,svq1,47554,Protegeslip Flexiform Carefree Cotton feel regular + tanga,Higiene íntima,Caja,1.0,ud,1.55,0.052,ud
+2026-11-16T12:54:19.586969+00:00,svq1,5504,Mandarina,Fruta,Malla,2.0,kg,3.50,1.750,kg
+2026-11-16T12:54:19.586969+00:00,svq1,62103,Porciones de merluza del Cabo sin piel Hacendado ultracongeladas,Pescado,Paquete,,kg,5.15,10.300,kg
+2026-11-16T12:54:19.586969+00:00,svq1,66586,Cerveza especial Estrella Galicia,Cerveza,Pack-10,3.3,l,8.80,2.667,L
+2026-11-16T12:54:19.586969+00:00,svq1,69338,Calabacín verde,Verdura,Pieza,0.41,kg,0.78,1.900,kg
+2026-11-16T12:54:19.586969+00:00,svq1,69495,Pimientos tricolor,Verdura,,0.72,kg,2.52,3.500,kg
+2026-11-16T12:54:19.586969+00:00,svq1,9407,Leche de continuación en polvo 2 Nativa Nestlé,Alimentación infantil,Bote,0.8,kg,10.75,13.438,kg
