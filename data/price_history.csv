@@ -6857,3 +6857,62 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-11-16T12:54:19.586969+00:00,svq1,69338,Calabacín verde,Verdura,Pieza,0.41,kg,0.78,1.900,kg
 2026-11-16T12:54:19.586969+00:00,svq1,69495,Pimientos tricolor,Verdura,,0.72,kg,2.52,3.500,kg
 2026-11-16T12:54:19.586969+00:00,svq1,9407,Leche de continuación en polvo 2 Nativa Nestlé,Alimentación infantil,Bote,0.8,kg,10.75,13.438,kg
+2026-11-17T13:36:41.548567+00:00,svq1,15848,Turrón duro de almendras Hacendado 0% azúcares añadidos,Turrones,Tableta,0.2,kg,2.90,14.500,kg
+2026-11-17T13:36:41.548567+00:00,svq1,17611,Sardina sin limpiar,Pescado fresco,Bandeja,1.0,kg,7.00,7.000,kg
+2026-11-17T13:36:41.548567+00:00,svq1,17938,Set de rostro Felin Deliplus,Colorete y polvos,Caja,1.0,ud,7.50,7.500,ud
+2026-11-17T13:36:41.548567+00:00,svq1,17939,Set de ojos Felin Deliplus,Ojos,Caja,1.0,ud,9.00,9.000,ud
+2026-11-17T13:36:41.548567+00:00,svq1,17940,Set de labios Felin Deliplus,Labios,Caja,1.0,ud,9.00,9.000,ud
+2026-11-17T13:36:41.548567+00:00,svq1,18193,Eau de parfum mujer Onyx Como Tú,Perfume y colonia,Frasco,0.1,l,11.00,11.000,100 ml
+2026-11-17T13:36:41.548567+00:00,svq1,18194,Eau de parfum hombre Caimán Como Tú,Perfume y colonia,Frasco,0.1,l,11.00,11.000,100 ml
+2026-11-17T13:36:41.548567+00:00,svq1,18579,Almejas blancas del norte al natural Hacendado,Berberechos y mejillones,Lata,0.185,kg,1.90,21.112,kg
+2026-11-17T13:36:41.548567+00:00,svq1,18781,Champú Liso Brillante TRESemmé cabello apagado o sin brillo,Champú,Bote,0.35,l,3.25,0.929,100 ml
+2026-11-17T13:36:41.548567+00:00,svq1,18782,Acondicionador Liso Brillante TRESemmé cabello apagado o sin brillo,Acondicionador y mascarilla,Bote,0.35,l,3.25,0.929,100 ml
+2026-11-17T13:36:41.548567+00:00,svq1,18783,Sérum Anti Frizz Liso Brillante TRESemmé,Acondicionador y mascarilla,Bote,0.175,l,5.50,3.143,100 ml
+2026-11-17T13:36:41.548567+00:00,svq1,18845,Crema de manos hidrata y perfuma Deliplus,Cuidado corporal,Bote,0.05,l,2.00,4.000,100 ml
+2026-11-17T13:36:41.548567+00:00,svq1,19816,Aroma agua de azahar Hacendado,Harina y preparado repostería,Bote,0.15,l,2.05,13.667,L
+2026-11-17T13:36:41.548567+00:00,svq1,26727,Sepia Faraónica,Pescado fresco,Bandeja,0.51,kg,8.64,16.950,kg
+2026-11-17T13:36:41.548567+00:00,svq1,26734,Coquina precocida descongelada,Marisco,Bandeja,0.225,kg,5.80,25.778,kg
+2026-11-17T13:36:41.548567+00:00,svq1,26797,Pota limpia descongelada,Pescado fresco,Bandeja,0.4,kg,5.18,12.950,kg
+2026-11-17T13:36:41.548567+00:00,svq1,26981,Boquerón sin limpiar,Pescado fresco,Bandeja,0.375,kg,2.63,7.000,kg
+2026-11-17T13:36:41.548567+00:00,svq1,27074,Cerveza Victoria Málaga,Cerveza,Lata,0.33,l,0.76,2.304,L
+2026-11-17T13:36:41.548567+00:00,svq1,27100,Cerveza Heineken,Cerveza,Lata,0.33,l,0.68,2.061,L
+2026-11-17T13:36:41.548567+00:00,svq1,27679,Cerveza Heineken,Cerveza,Pack-8,2.64,l,5.12,1.940,L
+2026-11-17T13:36:41.548567+00:00,svq1,29604,Bebida isotónica naranja Aquarius,Isotónico y energético,Pack-8,2.64,l,7.92,3.000,L
+2026-11-17T13:36:41.548567+00:00,svq1,29605,Bebida isotónica limón Aquarius,Isotónico y energético,Pack-8,2.64,l,7.92,3.000,L
+2026-11-17T13:36:41.548567+00:00,svq1,29624,Bebida isotónica naranja Aquarius,Isotónico y energético,Lata,0.33,l,1.05,3.182,L
+2026-11-17T13:36:41.548567+00:00,svq1,29625,Bebida isotónica limón Aquarius,Isotónico y energético,Lata,0.33,l,1.05,3.182,L
+2026-11-17T13:36:41.548567+00:00,svq1,3026,Papaya,Fruta,Pieza,0.58,kg,3.05,5.250,kg
+2026-11-17T13:36:41.548567+00:00,svq1,3076,Piña,Fruta,Pieza,2.09,kg,4.18,2.000,kg
+2026-11-17T13:36:41.548567+00:00,svq1,3210,Limón,Fruta,Pieza,0.2,kg,0.50,2.500,kg
+2026-11-17T13:36:41.548567+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,3.04,kg,6.69,2.200,kg
+2026-11-17T13:36:41.548567+00:00,svq1,3515,Medio melón piel de sapo,Fruta,1/2 Pieza,1.58,kg,4.11,2.600,kg
+2026-11-17T13:36:41.548567+00:00,svq1,36012,Turrón de chocolate con leche y cacahuete Hacendado con miel y caramelo troceado,Turrones,Tableta,0.25,kg,1.85,7.400,kg
+2026-11-17T13:36:41.548567+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.4,kg,1.76,4.400,kg
+2026-11-17T13:36:41.548567+00:00,svq1,66358,Cerveza Victoria Málaga,Cerveza,,3.96,l,8.88,2.243,L
+2026-11-17T13:36:41.548567+00:00,svq1,69173,Yuca,Verdura,Pieza,0.74,kg,2.44,3.300,kg
+2026-11-17T13:36:41.548567+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.13,kg,1.92,1.700,kg
+2026-11-17T13:36:41.548567+00:00,svq1,69239,Batata,Verdura,Pieza,0.42,kg,1.07,2.550,kg
+2026-11-17T13:36:41.548567+00:00,svq1,69251,Col lombarda,Verdura,Pieza,0.77,kg,1.54,2.000,kg
+2026-11-17T13:36:41.548567+00:00,svq1,69326,Berenjena,Verdura,Pieza,0.41,kg,0.90,2.200,kg
+2026-11-17T13:36:41.548567+00:00,svq1,69338,Calabacín verde,Verdura,Pieza,0.4,kg,0.76,1.900,kg
+2026-11-17T13:36:41.548567+00:00,svq1,69446,Tomates Anhel,Verdura,,0.4,kg,2.52,6.300,kg
+2026-11-17T13:36:41.548567+00:00,svq1,69937,Tomate ensalada,Verdura,Pieza,0.19,kg,0.48,2.500,kg
+2026-11-17T13:36:41.548567+00:00,svq1,85149,Chirla viva,Marisco,Bandeja,0.5,kg,4.60,9.200,kg
+2026-11-17T13:36:41.548567+00:00,svq1,85186,Berberecho vivo,Marisco,Bandeja,0.5,kg,6.10,12.200,kg
+2026-11-17T13:36:41.548567+00:00,svq1,85187,Navaja viva,Marisco,Bandeja,0.5,kg,4.90,9.800,kg
+2026-11-17T13:36:41.548567+00:00,svq1,85190,Ostra viva,Marisco,Bandeja,0.4,kg,5.90,14.750,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87102,Huevo hilado,Huevos,Paquete,0.1,kg,3.60,36.000,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87189,Sepia troceada Faraónica,Pescado fresco,Bandeja,0.3,kg,5.50,18.334,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87225,Rodajas de merluza del Cabo descongelada,Pescado fresco,Bandeja,0.26,kg,4.67,17.950,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87241,Merluza del Cabo abierta en libro,Pescado fresco,Bandeja,0.65,kg,15.93,24.500,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87300,Dorada limpia,Pescado fresco,Bandeja,0.4,kg,5.00,12.500,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87301,Dorada abierta a la espalda,Pescado fresco,Bandeja,0.4,kg,5.60,14.000,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87310,Lubina limpia,Pescado fresco,Bandeja,0.4,kg,5.20,13.000,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87311,Lubina abierta a la espalda,Pescado fresco,Bandeja,0.4,kg,5.80,14.500,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87326,Filete de corvina,Pescado fresco,Bandeja,0.325,kg,9.10,28.000,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87916,Sardina sin limpiar,Pescado fresco,Bandeja,0.4,kg,2.80,7.000,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87929,Boquerón limpio sin cabeza,Pescado fresco,Bandeja,0.3,kg,3.00,10.000,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87930,Boquerón limpio sin espina,Pescado fresco,Bandeja,0.2,kg,3.60,18.000,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87995,Sardina limpia descongelada,Pescado fresco,Bandeja,0.36,kg,3.96,11.000,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87996,Bacaladilla limpia,Pescado fresco,Bandeja,0.42,kg,4.41,10.500,kg
+2026-11-17T13:36:41.548567+00:00,svq1,87997,Bacaladilla abierta,Pescado fresco,Bandeja,0.25,kg,3.75,15.000,kg
