@@ -6916,3 +6916,46 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-11-17T13:36:41.548567+00:00,svq1,87995,Sardina limpia descongelada,Pescado fresco,Bandeja,0.36,kg,3.96,11.000,kg
 2026-11-17T13:36:41.548567+00:00,svq1,87996,Bacaladilla limpia,Pescado fresco,Bandeja,0.42,kg,4.41,10.500,kg
 2026-11-17T13:36:41.548567+00:00,svq1,87997,Bacaladilla abierta,Pescado fresco,Bandeja,0.25,kg,3.75,15.000,kg
+2026-11-18T13:11:36.948982+00:00,svq1,13814,Bebida energética Mango Loco Juiced Monster Energy,Isotónico y energético,Lata,0.5,l,1.89,3.780,L
+2026-11-18T13:11:36.948982+00:00,svq1,13815,Bebida energética Mango Loco Juiced Monster Energy,Isotónico y energético,,2.0,l,7.08,3.540,L
+2026-11-18T13:11:36.948982+00:00,svq1,17611,Sardina sin limpiar,Pescado fresco,Bandeja,1.0,kg,5.00,5.000,kg
+2026-11-18T13:11:36.948982+00:00,svq1,18290,Bebida energética Vice Guava Monster Energy Ultra zero azúcar,Isotónico y energético,Lata,0.5,l,1.89,3.780,L
+2026-11-18T13:11:36.948982+00:00,svq1,21961,Papel vegetal Bosque Verde,Menaje y conservación de alimentos,Caja,1.0,ud,2.00,0.056,ud
+2026-11-18T13:11:36.948982+00:00,svq1,25243,Patas de pollo,Aves y pollo,Bandeja,0.45,kg,2.25,5.000,kg
+2026-11-18T13:11:36.948982+00:00,svq1,25258,Contramuslos deshuesados y sin piel de pollo certificado alimentado con un 50% de maíz,Aves y pollo,Bandeja,0.5,kg,5.00,10.000,kg
+2026-11-18T13:11:36.948982+00:00,svq1,25972,Medio conejo troceado,Conejo y cordero,Bandeja,0.66,kg,6.53,9.900,kg
+2026-11-18T13:11:36.948982+00:00,svq1,26981,Boquerón sin limpiar,Pescado fresco,Bandeja,0.375,kg,3.00,8.000,kg
+2026-11-18T13:11:36.948982+00:00,svq1,2788,Muslos de pollo deshuesados con piel,Aves y pollo,Bandeja,0.44,kg,2.57,5.850,kg
+2026-11-18T13:11:36.948982+00:00,svq1,2791,Filetes pechuga de pollo certificado alimentado con un 50% de maíz,Aves y pollo,Bandeja,0.5,kg,5.10,10.200,kg
+2026-11-18T13:11:36.948982+00:00,svq1,28016,Bebida energética Monster Energy,Isotónico y energético,Lata,0.5,l,1.89,3.780,L
+2026-11-18T13:11:36.948982+00:00,svq1,28119,Bebida energética Monster Energy Ultra zero azúcar,Isotónico y energético,Lata,0.5,l,1.89,3.780,L
+2026-11-18T13:11:36.948982+00:00,svq1,2853,Carcasa y espinazo de pollo,Aves y pollo,Bandeja,0.85,kg,1.44,1.700,kg
+2026-11-18T13:11:36.948982+00:00,svq1,2856,Mollejas de pollo,Aves y pollo,Tarrina,0.39,kg,2.28,5.850,kg
+2026-11-18T13:11:36.948982+00:00,svq1,2857,Hígados y corazones de pollo,Aves y pollo,Bandeja,0.38,kg,1.71,4.500,kg
+2026-11-18T13:11:36.948982+00:00,svq1,2861,Filetes hígado de vacuno,Vacuno,Bandeja,0.44,kg,4.93,11.200,kg
+2026-11-18T13:11:36.948982+00:00,svq1,28664,Bebida energética Monster Energy,Isotónico y energético,,2.0,l,7.08,3.540,L
+2026-11-18T13:11:36.948982+00:00,svq1,28670,Bebida energética Monster Energy Ultra zero azúcar,Isotónico y energético,,2.0,l,7.08,3.540,L
+2026-11-18T13:11:36.948982+00:00,svq1,3026,Papaya,Fruta,Pieza,0.61,kg,3.20,5.250,kg
+2026-11-18T13:11:36.948982+00:00,svq1,3076,Piña,Fruta,Pieza,2.11,kg,4.22,2.000,kg
+2026-11-18T13:11:36.948982+00:00,svq1,3119,Pera Conferencia,Fruta,Pieza,0.2,kg,0.50,2.500,kg
+2026-11-18T13:11:36.948982+00:00,svq1,3170,Pera Ercolina,Fruta,Pieza,0.1,kg,0.29,2.900,kg
+2026-11-18T13:11:36.948982+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,2.9,kg,6.38,2.200,kg
+2026-11-18T13:11:36.948982+00:00,svq1,3515,Medio melón piel de sapo,Fruta,1/2 Pieza,1.56,kg,4.06,2.600,kg
+2026-11-18T13:11:36.948982+00:00,svq1,3651,Cerezas,Fruta,Bandeja,0.3,kg,3.82,12.750,kg
+2026-11-18T13:11:36.948982+00:00,svq1,3724,Pechugas enteras de pollo,Aves y pollo,Bandeja,0.65,kg,4.52,6.950,kg
+2026-11-18T13:11:36.948982+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.48,kg,2.11,4.400,kg
+2026-11-18T13:11:36.948982+00:00,svq1,3915,Granada,Fruta,Pieza,0.37,kg,1.11,3.000,kg
+2026-11-18T13:11:36.948982+00:00,svq1,69173,Yuca,Verdura,Pieza,0.72,kg,2.38,3.300,kg
+2026-11-18T13:11:36.948982+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.11,kg,1.89,1.700,kg
+2026-11-18T13:11:36.948982+00:00,svq1,69251,Col lombarda,Verdura,Pieza,0.84,kg,1.68,2.000,kg
+2026-11-18T13:11:36.948982+00:00,svq1,69310,Pimiento rojo,Verdura,Pieza,0.31,kg,0.90,2.900,kg
+2026-11-18T13:11:36.948982+00:00,svq1,69312,Pimiento verde,Verdura,Pieza,0.28,kg,0.78,2.800,kg
+2026-11-18T13:11:36.948982+00:00,svq1,69326,Berenjena,Verdura,Pieza,0.42,kg,0.92,2.200,kg
+2026-11-18T13:11:36.948982+00:00,svq1,69338,Calabacín verde,Verdura,Pieza,0.39,kg,0.74,1.900,kg
+2026-11-18T13:11:36.948982+00:00,svq1,69487,Rama de Tomates,Verdura,Granel,0.61,kg,1.65,2.700,kg
+2026-11-18T13:11:36.948982+00:00,svq1,69912,Tomate pera,Verdura,Pieza,0.15,kg,0.33,2.200,kg
+2026-11-18T13:11:36.948982+00:00,svq1,69937,Tomate ensalada,Verdura,Pieza,0.2,kg,0.50,2.500,kg
+2026-11-18T13:11:36.948982+00:00,svq1,8175,Manzana roja acidulce,Fruta,Pieza,0.25,kg,0.60,2.400,kg
+2026-11-18T13:11:36.948982+00:00,svq1,87916,Sardina sin limpiar,Pescado fresco,Bandeja,0.4,kg,2.00,5.000,kg
+2026-11-18T13:11:36.948982+00:00,svq1,87929,Boquerón limpio sin cabeza,Pescado fresco,Bandeja,0.3,kg,3.45,11.500,kg
+2026-11-18T13:11:36.948982+00:00,svq1,87930,Boquerón limpio sin espina,Pescado fresco,Bandeja,0.2,kg,4.00,20.000,kg
