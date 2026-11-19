@@ -6959,3 +6959,40 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-11-18T13:11:36.948982+00:00,svq1,87916,Sardina sin limpiar,Pescado fresco,Bandeja,0.4,kg,2.00,5.000,kg
 2026-11-18T13:11:36.948982+00:00,svq1,87929,Boquerón limpio sin cabeza,Pescado fresco,Bandeja,0.3,kg,3.45,11.500,kg
 2026-11-18T13:11:36.948982+00:00,svq1,87930,Boquerón limpio sin espina,Pescado fresco,Bandeja,0.2,kg,4.00,20.000,kg
+2026-11-19T13:27:18.759358+00:00,svq1,17809,Hogaza 100% natural Hacendado,Pan de molde y otras especialidades,Paquete,0.4,kg,1.95,4.875,kg
+2026-11-19T13:27:18.759358+00:00,svq1,18682,Coco rallado Hacendado,Velas y decoración,Paquete,0.15,kg,1.50,10.000,kg
+2026-11-19T13:27:18.759358+00:00,svq1,18758,Baño de color y brillo negro azulado Color Glow 0% amoniaco,Coloración cabello,Caja,1.0,ud,4.85,4.850,ud
+2026-11-19T13:27:18.759358+00:00,svq1,18759,Baño de color y brillo castaño Color Glow 0% amoniaco,Coloración cabello,Caja,1.0,ud,4.85,4.850,ud
+2026-11-19T13:27:18.759358+00:00,svq1,18760,Baño de color y brillo chocolate Color Glow 0% amoniaco,Coloración cabello,Caja,1.0,ud,4.85,4.850,ud
+2026-11-19T13:27:18.759358+00:00,svq1,18761,Baño de color y brillo rubio oscuro Color Glow 0% amoniaco,Coloración cabello,Caja,1.0,ud,4.85,4.850,ud
+2026-11-19T13:27:18.759358+00:00,svq1,22780,Crema de queso viejo tostado mezcla Hacendado,"Queso untable, fresco y especialidades",Tarrina,0.15,kg,1.75,11.667,kg
+2026-11-19T13:27:18.759358+00:00,svq1,23066,Enjuague bucal cuidado total Listerine menta intensa,Higiene bucal,Botella,0.5,l,5.15,1.030,100 ml
+2026-11-19T13:27:18.759358+00:00,svq1,23067,Enjuague bucal dientes y encías Listerine menta intensa,Higiene bucal,Botella,0.5,l,5.15,1.030,100 ml
+2026-11-19T13:27:18.759358+00:00,svq1,27119,Cerveza Pilsen Cruzcampo,Cerveza,Lata,0.33,l,0.61,1.849,L
+2026-11-19T13:27:18.759358+00:00,svq1,3026,Papaya,Fruta,Pieza,0.62,kg,3.26,5.250,kg
+2026-11-19T13:27:18.759358+00:00,svq1,3238,Mandarina,Fruta,Pieza,0.11,kg,0.24,2.150,kg
+2026-11-19T13:27:18.759358+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,2.92,kg,6.42,2.200,kg
+2026-11-19T13:27:18.759358+00:00,svq1,3515,Medio melón piel de sapo,Fruta,1/2 Pieza,1.54,kg,4.00,2.600,kg
+2026-11-19T13:27:18.759358+00:00,svq1,35964,Desodorante original Dove antitranspirante,Desodorante,Spray,0.2,l,3.75,1.875,100 ml
+2026-11-19T13:27:18.759358+00:00,svq1,35965,Desodorante roll-on original Dove antitranspirante,Desodorante,,0.05,l,2.65,5.300,100 ml
+2026-11-19T13:27:18.759358+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.47,kg,2.07,4.400,kg
+2026-11-19T13:27:18.759358+00:00,svq1,3914,Kaki,Fruta,Pieza,0.25,kg,0.54,2.150,kg
+2026-11-19T13:27:18.759358+00:00,svq1,3915,Granada,Fruta,Pieza,0.39,kg,1.17,3.000,kg
+2026-11-19T13:27:18.759358+00:00,svq1,46016,Desodorante roll-on Dry impact Nivea Men antitranspirante,Desodorante,,0.05,l,2.50,5.000,100 ml
+2026-11-19T13:27:18.759358+00:00,svq1,46029,Desodorante roll-on Invisible Black & White Nivea antitranspirante,Desodorante,,0.05,l,2.50,5.000,100 ml
+2026-11-19T13:27:18.759358+00:00,svq1,46030,Desodorante roll-on Invisible Black & White Nivea Men antitranspirante,Desodorante,,0.05,l,2.50,5.000,100 ml
+2026-11-19T13:27:18.759358+00:00,svq1,50459,Queso lonchas edam de vaca Holland Corona,"Queso lonchas, rallado y en porciones",Paquete,0.3,kg,2.05,6.834,kg
+2026-11-19T13:27:18.759358+00:00,svq1,50478,Queso tierno gouda de vaca Hacendado,"Queso curado, semicurado y tierno",Pieza,0.45,kg,3.40,7.556,kg
+2026-11-19T13:27:18.759358+00:00,svq1,50480,Queso tierno maasdam de vaca Holland Corona,"Queso curado, semicurado y tierno",Pieza,0.4,kg,3.40,8.500,kg
+2026-11-19T13:27:18.759358+00:00,svq1,50619,Queso brie marcillat de vaca Plaisir de Roy,"Queso untable, fresco y especialidades",Pieza,0.2,kg,1.75,8.750,kg
+2026-11-19T13:27:18.759358+00:00,svq1,50654,Queso lonchas gouda de vaca Hacendado,"Queso lonchas, rallado y en porciones",Paquete,0.3,kg,2.05,6.834,kg
+2026-11-19T13:27:18.759358+00:00,svq1,51181,Crema de queso camembert Hacendado,"Queso untable, fresco y especialidades",Tarrina,0.15,kg,1.75,11.667,kg
+2026-11-19T13:27:18.759358+00:00,svq1,51621,Queso camembert de vaca Marcillat,"Queso untable, fresco y especialidades",Caja,0.24,kg,2.10,8.750,kg
+2026-11-19T13:27:18.759358+00:00,svq1,69173,Yuca,Verdura,Pieza,0.71,kg,2.34,3.300,kg
+2026-11-19T13:27:18.759358+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.09,kg,1.85,1.700,kg
+2026-11-19T13:27:18.759358+00:00,svq1,69339,Calabacín blanco,Verdura,Pieza,0.36,kg,0.79,2.200,kg
+2026-11-19T13:27:18.759358+00:00,svq1,69444,Tomate rosa,Verdura,Pieza,0.42,kg,1.43,3.400,kg
+2026-11-19T13:27:18.759358+00:00,svq1,69580,Brócoli,Verdura,Pieza,0.47,kg,1.27,2.700,kg
+2026-11-19T13:27:18.759358+00:00,svq1,69584,Pepino,Verdura,Pieza,0.21,kg,0.39,1.850,kg
+2026-11-19T13:27:18.759358+00:00,svq1,73999,Dentífrico Max Fresh Colgate sabor menta fresca,Higiene bucal,Tubo,0.1,l,2.25,2.250,100 ml
+2026-11-19T13:27:18.759358+00:00,svq1,79593,Dentífrico Total original Colgate,Higiene bucal,Tubo,0.075,l,2.90,3.867,100 ml
