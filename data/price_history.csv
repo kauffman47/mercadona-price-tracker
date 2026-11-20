@@ -6996,3 +6996,43 @@ captured_at,warehouse,product_id,name,category,packaging,unit_size,size_format,u
 2026-11-19T13:27:18.759358+00:00,svq1,69584,Pepino,Verdura,Pieza,0.21,kg,0.39,1.850,kg
 2026-11-19T13:27:18.759358+00:00,svq1,73999,Dentífrico Max Fresh Colgate sabor menta fresca,Higiene bucal,Tubo,0.1,l,2.25,2.250,100 ml
 2026-11-19T13:27:18.759358+00:00,svq1,79593,Dentífrico Total original Colgate,Higiene bucal,Tubo,0.075,l,2.90,3.867,100 ml
+2026-11-20T13:07:34.142786+00:00,svq1,17347,Salsa Burger Hacendado,Otras salsas,Bote,0.25,l,1.45,5.800,L
+2026-11-20T13:07:34.142786+00:00,svq1,17386,Salsa Ranch Hacendado,Otras salsas,Bote,0.25,l,1.45,5.800,L
+2026-11-20T13:07:34.142786+00:00,svq1,18384,"Crema de manos reparadora Deliplus glicerina, pantenol y vitamina E",Cuidado corporal,Bote,0.075,l,1.30,1.734,100 ml
+2026-11-20T13:07:34.142786+00:00,svq1,18752,Hojaldrada de crema La Muralla,Bollería envasada,,0.045,kg,0.25,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,18822,Lote facial mujer Deliplus tratamiento intensivo de jalea real y colágeno,Cuidado e higiene facial,Caja,1.0,ud,7.50,7.500,ud
+2026-11-20T13:07:34.142786+00:00,svq1,18836,Salsa fresca Cheddar Hacendado,Otras salsas,Tarrina,0.16,kg,1.80,11.250,kg
+2026-11-20T13:07:34.142786+00:00,svq1,24565,Barritas de cereales avellana y cacao Hacendado,Cereales,Caja,0.115,kg,1.55,13.479,kg
+2026-11-20T13:07:34.142786+00:00,svq1,24608,Gambón grande congelado,Marisco,Caja,2.0,kg,19.90,9.950,kg
+2026-11-20T13:07:34.142786+00:00,svq1,3026,Papaya,Fruta,Pieza,0.64,kg,3.36,5.250,kg
+2026-11-20T13:07:34.142786+00:00,svq1,3050,Mango,Fruta,Pieza,0.39,kg,1.13,2.900,kg
+2026-11-20T13:07:34.142786+00:00,svq1,3076,Piña,Fruta,Pieza,2.12,kg,4.24,2.000,kg
+2026-11-20T13:07:34.142786+00:00,svq1,3119,Pera Conferencia,Fruta,Pieza,0.19,kg,0.48,2.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,3506,Melón piel de sapo,Fruta,Pieza,2.72,kg,5.98,2.200,kg
+2026-11-20T13:07:34.142786+00:00,svq1,3515,Medio melón piel de sapo,Fruta,1/2 Pieza,1.49,kg,3.87,2.600,kg
+2026-11-20T13:07:34.142786+00:00,svq1,3817,Chirimoya,Fruta,Pieza,0.43,kg,1.89,4.400,kg
+2026-11-20T13:07:34.142786+00:00,svq1,3914,Kaki,Fruta,Pieza,0.27,kg,0.58,2.150,kg
+2026-11-20T13:07:34.142786+00:00,svq1,3915,Granada,Fruta,Pieza,0.44,kg,1.32,3.000,kg
+2026-11-20T13:07:34.142786+00:00,svq1,69173,Yuca,Verdura,Pieza,0.72,kg,2.38,3.300,kg
+2026-11-20T13:07:34.142786+00:00,svq1,69220,Coliflor,Verdura,Pieza,1.11,kg,1.89,1.700,kg
+2026-11-20T13:07:34.142786+00:00,svq1,69239,Batata,Verdura,Pieza,0.41,kg,1.05,2.550,kg
+2026-11-20T13:07:34.142786+00:00,svq1,69251,Col lombarda,Verdura,Pieza,0.82,kg,1.64,2.000,kg
+2026-11-20T13:07:34.142786+00:00,svq1,69487,Rama de Tomates,Verdura,Granel,0.62,kg,1.67,2.700,kg
+2026-11-20T13:07:34.142786+00:00,svq1,69584,Pepino,Verdura,Pieza,0.22,kg,0.41,1.850,kg
+2026-11-20T13:07:34.142786+00:00,svq1,69878,Judía verde redonda,Verdura,Bandeja,0.5,kg,3.20,6.400,kg
+2026-11-20T13:07:34.142786+00:00,svq1,69968,Tomate canario,Verdura,Pieza,0.12,kg,0.26,2.200,kg
+2026-11-20T13:07:34.142786+00:00,svq1,8175,Manzana roja acidulce,Fruta,Pieza,0.24,kg,0.58,2.400,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85701,Mantecado casero La Muralla,Bollería envasada,,0.055,kg,0.30,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85702,Mantecado de aceite de oliva La Muralla,Bollería envasada,,0.043,kg,0.24,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85705,Mantecado de coco La Muralla,Bollería envasada,,0.045,kg,0.25,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85708,Polvorón de almendra La Muralla,Bollería envasada,,0.045,kg,0.25,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85709,Mantecado de cacao La Muralla,Bollería envasada,,0.045,kg,0.25,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85713,Hojaldrada La Muralla,Bollería envasada,,0.032,kg,0.18,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85715,Hojaldrada al chocolate La Muralla,Bollería envasada,,0.06,kg,0.33,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85716,Alfajor de almendra La Muralla,Bollería envasada,,0.034,kg,0.19,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85717,Rosco de vino y almendra La Muralla,Bollería envasada,,0.035,kg,0.19,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85725,Mantecado de limón La Muralla,Bollería envasada,,0.045,kg,0.25,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85733,Mantecado de canela La Muralla,Bollería envasada,,0.04,kg,0.22,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85745,Cortadillo de cabello de Ángel La Muralla,Bollería envasada,,0.057,kg,0.31,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85780,Mantecado de limón sin azúcar añadido La Muralla,Bollería envasada,,0.045,kg,0.25,5.500,kg
+2026-11-20T13:07:34.142786+00:00,svq1,85845,Mantecado de cacao sin gluten La Muralla,Bollería envasada,,0.04,kg,0.22,5.500,kg
